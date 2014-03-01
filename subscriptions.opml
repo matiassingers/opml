@@ -135,7 +135,6 @@
 		<outline text="convoy" title="convoy" type="rss" xmlUrl="http://convoy.tumblr.com/rss" htmlUrl="http://convoy.tumblr.com/"/>
 		<outline text="Posh CSS" title="Posh CSS" type="rss" xmlUrl="http://feeds.feedburner.com/poshcss" htmlUrl="http://poshcss.com/"/>
 		<outline text="Dan Shapiro" title="Dan Shapiro" type="rss" xmlUrl="http://feeds.feedburner.com/DanShapiro" htmlUrl="http://www.danshapiro.com/blog"/>
-		<outline text="ifoAppleStore" title="ifoAppleStore" type="rss" xmlUrl="http://feeds.feedburner.com/Ifoapplestore" htmlUrl="http://www.ifoapplestore.com"/>
 		<outline text="Ryan Block" title="Ryan Block" type="rss" xmlUrl="http://ryanblock.com/feed/" htmlUrl="http://ryanblock.com"/>
 		<outline text="Sirupsen" title="Sirupsen" type="rss" xmlUrl="http://feeds.feedburner.com/sirupsen" htmlUrl="http://sirupsen.github.com/"/>
 		<outline text="mnmlist" title="mnmlist" type="rss" xmlUrl="http://feeds.feedburner.com/mnmlist" htmlUrl="http://mnmlist.com"/>
@@ -159,7 +158,6 @@
 		<outline text="Needs/Wants" title="Needs/Wants" type="rss" xmlUrl="http://feeds.feedburner.com/needswants" htmlUrl="http://needswants.com"/>
 		<outline text="31Three - Notebook" title="31Three - Notebook" type="rss" xmlUrl="http://feeds.feedburner.com/31three" htmlUrl="http://www.31three.com/notebook/"/>
 		<outline text="Interuserface" title="Interuserface" type="rss" xmlUrl="http://interuserface.net/feed/" htmlUrl="http://interuserface.net"/>
-		<outline text="Watching Apple" title="Watching Apple" type="rss" xmlUrl="http://watchingapple.com/feed/" htmlUrl="http://watchingapple.com"/>
 		<outline text="Official Duolingo Blog" title="Official Duolingo Blog" type="rss" xmlUrl="http://blog.duolingo.com/rss" htmlUrl="http://blog.duolingo.com/"/>
 		<outline text="Geek &amp; Mild" title="Geek &amp; Mild" type="rss" xmlUrl="http://seansperte.com/rss" htmlUrl="http://seansperte.com/"/>
 		<outline text="MyInkBlog" title="MyInkBlog" type="rss" xmlUrl="http://feeds.feedburner.com/MyInkBlog" htmlUrl="http://www.myinkblog.com"/>
@@ -246,11 +244,6 @@
 		<outline text="Mismo - Updates" title="Mismo - Updates" type="rss" xmlUrl="http://www.mismo.dk/blogs/news.atom" htmlUrl="http://www.mismo.dk/blogs/news"/>
 		<outline text="Screen shots of computer code" title="Screen shots of computer code" type="rss" xmlUrl="http://moviecode.tumblr.com/rss" htmlUrl="http://moviecode.tumblr.com"/>
 		<outline text="Wander Onwards" title="Wander Onwards" type="rss" xmlUrl="http://wanderonwards.com/feed/" htmlUrl="http://wanderonwards.com"/>
-		<outline text="Apple" title="Apple">
-			<outline text="Apple Outsider" title="Apple Outsider" type="rss" xmlUrl="http://www.appleoutsider.com/feed/" htmlUrl="http://www.appleoutsider.com"/>
-			<outline text="ifoAppleStore" title="ifoAppleStore" type="rss" xmlUrl="http://feeds.feedburner.com/Ifoapplestore" htmlUrl="http://www.ifoapplestore.com"/>
-			<outline text="Watching Apple" title="Watching Apple" type="rss" xmlUrl="http://watchingapple.com/feed/" htmlUrl="http://watchingapple.com"/>
-		</outline>
 		<outline text="bankrupt" title="bankrupt">
 			<outline text="Hacker News 50" title="Hacker News 50" type="rss" xmlUrl="http://feeds.feedburner.com/hacker-news-feed-50?format=xml" htmlUrl="http://news.ycombinator.com"/>
 			<outline text="WANKEN - The blog of Shelby White" title="WANKEN - The blog of Shelby White" type="rss" xmlUrl="http://feeds.feedburner.com/Wanken" htmlUrl="http://blog.wanken.com"/>
@@ -260,6 +253,7 @@
 			<outline text="Tech in Asia" title="Tech in Asia" type="rss" xmlUrl="http://feeds.feedburner.com/PennOlson?format=xml" htmlUrl="http://www.techinasia.com"/>
 		</outline>
 		<outline text="Blogs" title="Blogs">
+			<outline text="Apple Outsider" title="Apple Outsider" type="rss" xmlUrl="http://www.appleoutsider.com/feed/" htmlUrl="http://www.appleoutsider.com"/>
 			<outline text="A Brief Message" title="A Brief Message" type="rss" xmlUrl="http://feeds.feedburner.com/abriefmessage" htmlUrl="http://abriefmessage.com/"/>
 			<outline text="A List Apart: The Full Feed" title="A List Apart: The Full Feed" type="rss" xmlUrl="http://feeds.feedburner.com/alistapart/main" htmlUrl="http://www.alistapart.com/articles/"/>
 			<outline text="Cameron Moll / Designer, Speaker, Author" title="Cameron Moll / Designer, Speaker, Author" type="rss" xmlUrl="http://cameronmoll.tumblr.com/rss" htmlUrl="http://cameronmoll.tumblr.com/"/>
