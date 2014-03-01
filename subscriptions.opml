@@ -93,7 +93,6 @@
 		<outline text="Andy Rutledge : Design View" title="Andy Rutledge : Design View" type="rss" xmlUrl="http://www.andyrutledge.com/feeds/arfeed.xml" htmlUrl="http://andyrutledge.com/design-view.php"/>
 		<outline text="The Design Cubicle" title="The Design Cubicle" type="rss" xmlUrl="http://feeds.feedburner.com/thedesigncubicle/ioNz" htmlUrl="http://www.thedesigncubicle.com"/>
 		<outline text="The Grid System" title="The Grid System" type="rss" xmlUrl="http://feeds.feedburner.com/TheGridSystem" htmlUrl="http://www.thegridsystem.org"/>
-		<outline text="Frederick Van Johnson" title="Frederick Van Johnson" type="rss" xmlUrl="http://feeds.feedburner.com/frederickvan" htmlUrl="http://www.frederickvan.com"/>
 		<outline text="Typographica" title="Typographica" type="rss" xmlUrl="http://feeds2.feedburner.com/typographica" htmlUrl="http://typographica.org"/>
 		<outline text="Animals Being Dicks" title="Animals Being Dicks" type="rss" xmlUrl="http://animalsbeingdicks.com/rss" htmlUrl="http://animalsbeingdicks.com/"/>
 		<outline text="CloudApp Blog" title="CloudApp Blog" type="rss" xmlUrl="http://blog.getcloudapp.com/feed.xml" htmlUrl="http://blog.getcloudapp.com"/>
@@ -244,7 +243,6 @@
 		<outline text="iWalt.com" title="iWalt.com" type="rss" xmlUrl="http://feeds.uri.lv/walt" htmlUrl="http://www.iwalt.com/"/>
 		<outline text="Albin Holmqvist / hello@albinholmqvist.com / +46 (0)72 72 24 900" title="Albin Holmqvist / hello@albinholmqvist.com / +46 (0)72 72 24 900" type="rss" xmlUrl="http://www.albinholmqvist.com/rss" htmlUrl="http://www.albinholmqvist.com"/>
 		<outline text="Martin Kaufmann Photography" title="Martin Kaufmann Photography" type="rss" xmlUrl="http://www.martinkaufmann.dk/feed/" htmlUrl="http://www.martinkaufmann.dk"/>
-		<outline text="Foto: Jens Dresling Feed" title="Foto: Jens Dresling Feed" type="rss" xmlUrl="http://iloapp.dresling.com/blog/foto?RSS" htmlUrl="http://foto.dresling.com/"/>
 		<outline text="teddy-risation" title="teddy-risation" type="rss" xmlUrl="http://teddy-o-ted.com/feed/" htmlUrl="http://teddy-o-ted.com"/>
 		<outline text="Information Highwayman" title="Information Highwayman" type="rss" xmlUrl="http://feeds.feedburner.com/informationhighwayman" htmlUrl="http://informationhighwayman.com"/>
 		<outline text="meet sauldraws" title="meet sauldraws" type="rss" xmlUrl="http://saulrosenbaum.com/blog/feed/" htmlUrl="http://saulrosenbaum.com/blog"/>
@@ -488,15 +486,13 @@
 			<outline text="▲ KIDS ON CRACK ▲" title="▲ KIDS ON CRACK ▲" type="rss" xmlUrl="http://www.kidsoncrack.co.nz/rss" htmlUrl="http://www.kidsoncrack.co.nz/"/>
 			<outline text="Screen shots of computer code" title="Screen shots of computer code" type="rss" xmlUrl="http://moviecode.tumblr.com/rss" htmlUrl="http://moviecode.tumblr.com"/>
 		</outline>
-		<outline text="Photography" title="Photography">
+		<outline text="photography" title="photography">
 			<outline text="The Lively Morgue" title="The Lively Morgue" type="rss" xmlUrl="http://livelymorgue.tumblr.com/rss" htmlUrl="http://livelymorgue.tumblr.com/"/>
 			<outline text="Chase Jarvis Blog" title="Chase Jarvis Blog" type="rss" xmlUrl="http://feeds.feedburner.com/ChaseJarvis" htmlUrl="http://blog.chasejarvis.com/blog"/>
-			<outline text="Frederick Van Johnson" title="Frederick Van Johnson" type="rss" xmlUrl="http://feeds.feedburner.com/frederickvan" htmlUrl="http://www.frederickvan.com"/>
 			<outline text="The Big Picture" title="The Big Picture" type="rss" xmlUrl="http://feeds.boston.com/boston/bigpicture/index" htmlUrl="http://www.boston.com/bigpicture/"/>
 			<outline text="K-Nguyen's photo blog" title="K-Nguyen's photo blog" type="rss" xmlUrl="http://kennethnuigen.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://kennethnuigen.blogspot.com/"/>
 			<outline text="Albin Holmqvist / hello@albinholmqvist.com / +46 (0)72 72 24 900" title="Albin Holmqvist / hello@albinholmqvist.com / +46 (0)72 72 24 900" type="rss" xmlUrl="http://www.albinholmqvist.com/rss" htmlUrl="http://www.albinholmqvist.com"/>
 			<outline text="Martin Kaufmann Photography" title="Martin Kaufmann Photography" type="rss" xmlUrl="http://www.martinkaufmann.dk/feed/" htmlUrl="http://www.martinkaufmann.dk"/>
-			<outline text="Foto: Jens Dresling Feed" title="Foto: Jens Dresling Feed" type="rss" xmlUrl="http://iloapp.dresling.com/blog/foto?RSS" htmlUrl="http://foto.dresling.com/"/>
 		</outline>
 		<outline text="fashion" title="fashion">
 			<outline text="Mismo - Updates" title="Mismo - Updates" type="rss" xmlUrl="http://www.mismo.dk/blogs/news.atom" htmlUrl="http://www.mismo.dk/blogs/news"/>
