@@ -199,14 +199,9 @@
 		<outline text="NOMO Design Shop" title="NOMO Design Shop" type="rss" xmlUrl="http://shop.nomodesign.com/products.rss" htmlUrl="http://shop.nomodesign.com"/>
 		<outline text="Type Worship" title="Type Worship" type="rss" xmlUrl="http://blog.8faces.com/rss" htmlUrl="http://blog.8faces.com/"/>
 		<outline text="STREETFSN" title="STREETFSN" type="rss" xmlUrl="http://streetfsn.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://streetfsn.blogspot.com/"/>
-		<outline text="Excerpts from six months in KL" title="Excerpts from six months in KL" type="rss" xmlUrl="http://malheysia.tumblr.com/rss" htmlUrl="http://malheysia.tumblr.com/"/>
-		<outline text="Christina-Louisa" title="Christina-Louisa" type="rss" xmlUrl="http://christina-louisa.blogspot.com/feeds/posts/default" htmlUrl="http://christina-louisa.blogspot.com/"/>
-		<outline text="rejseblog rune 2012" title="rejseblog rune 2012" type="rss" xmlUrl="http://runeg.tumblr.com/rss" htmlUrl="http://runeg.tumblr.com/"/>
-		<outline text="http://sorenf.tumblr.com/" title="http://sorenf.tumblr.com/" type="rss" xmlUrl="http://sorenf.tumblr.com/rss" htmlUrl="http://sorenf.tumblr.com/"/>
 		<outline text="Caliroots.com RSS" title="Caliroots.com RSS" type="rss" xmlUrl="http://caliroots.com/system/search/rss.asp?langid=44&amp;currency=DKK&amp;shopid=2&amp;type=latest" htmlUrl="http://caliroots.com"/>
 		<outline text="THE LOCALS » Men" title="THE LOCALS » Men" type="rss" xmlUrl="http://thelocals.dk/category/people/men/feed/" htmlUrl="http://thelocals.dk"/>
 		<outline text="All Yeezy Everything" title="All Yeezy Everything" type="rss" xmlUrl="http://allyeezyeverything.tumblr.com/rss" htmlUrl="http://allyeezyeverything.tumblr.com/"/>
-		<outline text="Mit år i London.." title="Mit år i London.." type="rss" xmlUrl="http://juliedupont92.blogspot.com/feeds/posts/default" htmlUrl="http://juliedupont92.blogspot.com/"/>
 		<outline text="Not your comfort zone" title="Not your comfort zone" type="rss" xmlUrl="http://fuckyeahairplaness.tumblr.com/rss" htmlUrl="http://fuckyeahairplaness.tumblr.com/"/>
 		<outline text="BAD HILLS" title="BAD HILLS" type="rss" xmlUrl="http://badhills.tumblr.com/rss" htmlUrl="http://badhills.tumblr.com/"/>
 		<outline text="Candice and Rosie" title="Candice and Rosie" type="rss" xmlUrl="http://candice-rosie.tumblr.com/rss" htmlUrl="http://candice-rosie.tumblr.com/"/>
@@ -426,14 +421,6 @@
 			<outline text="Michael Nielsen" title="Michael Nielsen" type="rss" xmlUrl="http://feeds.feedburner.com/michaelnielsen/wmna?format=xml" htmlUrl="http://michaelnielsen.org/blog"/>
 			<outline text="Randoom" title="Randoom" type="rss" xmlUrl="http://feeds.feedburner.com/friism/sLZw?format=xml" htmlUrl="http://friism.com"/>
 		</outline>
-		<outline text="friends" title="friends">
-			<outline text="Excerpts from six months in KL" title="Excerpts from six months in KL" type="rss" xmlUrl="http://malheysia.tumblr.com/rss" htmlUrl="http://malheysia.tumblr.com/"/>
-			<outline text="Christina-Louisa" title="Christina-Louisa" type="rss" xmlUrl="http://christina-louisa.blogspot.com/feeds/posts/default" htmlUrl="http://christina-louisa.blogspot.com/"/>
-			<outline text="rejseblog rune 2012" title="rejseblog rune 2012" type="rss" xmlUrl="http://runeg.tumblr.com/rss" htmlUrl="http://runeg.tumblr.com/"/>
-			<outline text="http://sorenf.tumblr.com/" title="http://sorenf.tumblr.com/" type="rss" xmlUrl="http://sorenf.tumblr.com/rss" htmlUrl="http://sorenf.tumblr.com/"/>
-			<outline text="Mit år i London.." title="Mit år i London.." type="rss" xmlUrl="http://juliedupont92.blogspot.com/feeds/posts/default" htmlUrl="http://juliedupont92.blogspot.com/"/>
-			<outline text="Wander Onwards" title="Wander Onwards" type="rss" xmlUrl="http://wanderonwards.com/feed/" htmlUrl="http://wanderonwards.com"/>
-		</outline>
 		<outline text="Good" title="Good">
 			<outline text="陳 Jon Tan" title="陳 Jon Tan" type="rss" xmlUrl="http://feeds.feedburner.com/jontangerine" htmlUrl="http://jontangerine.com/"/>
 			<outline text="The Oatmeal - Comics, Quizzes, &amp; Stories" title="The Oatmeal - Comics, Quizzes, &amp; Stories" type="rss" xmlUrl="http://feeds.feedburner.com/oatmealfeed" htmlUrl="http://theoatmeal.com/"/>
@@ -451,6 +438,7 @@
 			<outline text="minimal design" title="minimal design" type="rss" xmlUrl="http://feeds.feedburner.com/minimaldesign" htmlUrl="http://minimal.io"/>
 			<outline text="NOMO Design Shop" title="NOMO Design Shop" type="rss" xmlUrl="http://shop.nomodesign.com/products.rss" htmlUrl="http://shop.nomodesign.com"/>
 			<outline text="Type Worship" title="Type Worship" type="rss" xmlUrl="http://blog.8faces.com/rss" htmlUrl="http://blog.8faces.com/"/>
+			<outline text="Wander Onwards" title="Wander Onwards" type="rss" xmlUrl="http://wanderonwards.com/feed/" htmlUrl="http://wanderonwards.com"/>
 		</outline>
 		<outline text="Photoblogs" title="Photoblogs">
 			<outline text="awesome people hanging out together" title="awesome people hanging out together" type="rss" xmlUrl="http://awesomepeoplehangingouttogether.tumblr.com/rss" htmlUrl="http://awesomepeoplehangingouttogether.tumblr.com/"/>
