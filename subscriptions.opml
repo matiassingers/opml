@@ -136,7 +136,6 @@
 		<outline text="Posh CSS" title="Posh CSS" type="rss" xmlUrl="http://feeds.feedburner.com/poshcss" htmlUrl="http://poshcss.com/"/>
 		<outline text="Dan Shapiro" title="Dan Shapiro" type="rss" xmlUrl="http://feeds.feedburner.com/DanShapiro" htmlUrl="http://www.danshapiro.com/blog"/>
 		<outline text="ifoAppleStore" title="ifoAppleStore" type="rss" xmlUrl="http://feeds.feedburner.com/Ifoapplestore" htmlUrl="http://www.ifoapplestore.com"/>
-		<outline text="The MOO Blog" title="The MOO Blog" type="rss" xmlUrl="http://www.moo.com/blog/feed/" htmlUrl="http://www.moo.com/blog"/>
 		<outline text="Ryan Block" title="Ryan Block" type="rss" xmlUrl="http://ryanblock.com/feed/" htmlUrl="http://ryanblock.com"/>
 		<outline text="Sirupsen" title="Sirupsen" type="rss" xmlUrl="http://feeds.feedburner.com/sirupsen" htmlUrl="http://sirupsen.github.com/"/>
 		<outline text="mnmlist" title="mnmlist" type="rss" xmlUrl="http://feeds.feedburner.com/mnmlist" htmlUrl="http://mnmlist.com"/>
@@ -165,7 +164,6 @@
 		<outline text="Geek &amp; Mild" title="Geek &amp; Mild" type="rss" xmlUrl="http://seansperte.com/rss" htmlUrl="http://seansperte.com/"/>
 		<outline text="MyInkBlog" title="MyInkBlog" type="rss" xmlUrl="http://feeds.feedburner.com/MyInkBlog" htmlUrl="http://www.myinkblog.com"/>
 		<outline text="Jack Osborne — Freelance Web Designer Glasgow" title="Jack Osborne — Freelance Web Designer Glasgow" type="rss" xmlUrl="http://feeds.feedburner.com/jackosbornecouk" htmlUrl="http://jackosborne.com"/>
-		<outline text="MacHeist" title="MacHeist" type="rss" xmlUrl="http://www.macheist.com/rss.xml" htmlUrl="http://www.macheist.com"/>
 		<outline text="AaronMahnke.com" title="AaronMahnke.com" type="rss" xmlUrl="http://feeds.uri.lv/aaronmahnke" htmlUrl="http://aaronmahnke.com"/>
 		<outline text="Uber Blog" title="Uber Blog" type="rss" xmlUrl="http://blog.uber.com/feed/" htmlUrl="http://blog.uber.com"/>
 		<outline text="Aerotwist Blog" title="Aerotwist Blog" type="rss" xmlUrl="http://aerotwist.com/blog/feed/" htmlUrl="http://aerotwist.com/blog/feed/"/>
@@ -241,7 +239,7 @@
 		<outline text="Michael Nielsen" title="Michael Nielsen" type="rss" xmlUrl="http://feeds.feedburner.com/michaelnielsen/wmna?format=xml" htmlUrl="http://michaelnielsen.org/blog"/>
 		<outline text="Arbitrary + SuperFriendly build an app" title="Arbitrary + SuperFriendly build an app" type="rss" xmlUrl="http://howtobuildanapp.tumblr.com/rss" htmlUrl="http://howtobuildanapp.tumblr.com/"/>
 		<outline text="SassCast" title="SassCast" type="rss" xmlUrl="http://sasscast.podbean.com/feed/" htmlUrl="http://sasscast.podbean.com"/>
-		<outline text="Sheet1" title="Sheet1" type="rss" xmlUrl="https://spreadsheets.google.com/feeds/list/0AgaQ8bwg6y22dGRMV3RMdWo3NVliX2J6Ukg4Q2lWSkE/od6/public/basic" htmlUrl="https://spreadsheets.google.com/pub?key=0AgaQ8bwg6y22dGRMV3RMdWo3NVliX2J6Ukg4Q2lWSkE"/>
+		<outline text="Stripe countries" title="Stripe countries" type="rss" xmlUrl="https://spreadsheets.google.com/feeds/list/0AgaQ8bwg6y22dGRMV3RMdWo3NVliX2J6Ukg4Q2lWSkE/od6/public/basic" htmlUrl="https://spreadsheets.google.com/pub?key=0AgaQ8bwg6y22dGRMV3RMdWo3NVliX2J6Ukg4Q2lWSkE"/>
 		<outline text="Coin" title="Coin" type="rss" xmlUrl="http://blog.onlycoin.com/posts?format=rss" htmlUrl="http://blog.onlycoin.com/"/>
 		<outline text="Foursquare Badges Information | How to Unlock Foursquare Badges" title="Foursquare Badges Information | How to Unlock Foursquare Badges" type="rss" xmlUrl="http://feeds.feedburner.com/4sqaddict?format=xml" htmlUrl="http://foursquareaddict.info"/>
 		<outline text="Randoom" title="Randoom" type="rss" xmlUrl="http://feeds.feedburner.com/friism/sLZw?format=xml" htmlUrl="http://friism.com"/>
@@ -484,16 +482,14 @@
 			<outline text="Junecloud // All Entries" title="Junecloud // All Entries" type="rss" xmlUrl="http://junecloud.com/rss/" htmlUrl="http://junecloud.com/"/>
 			<outline text="Wolfram|Alpha Blog" title="Wolfram|Alpha Blog" type="rss" xmlUrl="http://blog.wolframalpha.com/feed/" htmlUrl="http://blog.wolframalpha.com"/>
 			<outline text="Beautiful Pixels" title="Beautiful Pixels" type="rss" xmlUrl="http://beautifulpixels.com/feed/" htmlUrl="http://beautifulpixels.com"/>
-			<outline text="The MOO Blog" title="The MOO Blog" type="rss" xmlUrl="http://www.moo.com/blog/feed/" htmlUrl="http://www.moo.com/blog"/>
 			<outline text="Blog - MapBox" title="Blog - MapBox" type="rss" xmlUrl="http://mapbox.com/blog/blog.rss" htmlUrl="http://mapbox.com/blog"/>
 			<outline text="Official Duolingo Blog" title="Official Duolingo Blog" type="rss" xmlUrl="http://blog.duolingo.com/rss" htmlUrl="http://blog.duolingo.com/"/>
-			<outline text="MacHeist" title="MacHeist" type="rss" xmlUrl="http://www.macheist.com/rss.xml" htmlUrl="http://www.macheist.com"/>
 			<outline text="Uber Blog" title="Uber Blog" type="rss" xmlUrl="http://blog.uber.com/feed/" htmlUrl="http://blog.uber.com"/>
 			<outline text="iwantmyname Domain Blog" title="iwantmyname Domain Blog" type="rss" xmlUrl="http://blog.feeds.iwantmyname.com/iwantmyname" htmlUrl="https://iwantmyname.com/blog/"/>
 			<outline text="Svpply" title="Svpply" type="rss" xmlUrl="http://blog.svpply.com/rss" htmlUrl="http://blog.svpply.com/"/>
 			<outline text="Scalyr Blog" title="Scalyr Blog" type="rss" xmlUrl="http://blog.scalyr.com/feed/" htmlUrl="http://blog.scalyr.com"/>
 			<outline text="Fine Goods" title="Fine Goods" type="rss" xmlUrl="http://www.finegoodsmarket.com/products.rss" htmlUrl="http://www.finegoodsmarket.com"/>
-			<outline text="Sheet1" title="Sheet1" type="rss" xmlUrl="https://spreadsheets.google.com/feeds/list/0AgaQ8bwg6y22dGRMV3RMdWo3NVliX2J6Ukg4Q2lWSkE/od6/public/basic" htmlUrl="https://spreadsheets.google.com/pub?key=0AgaQ8bwg6y22dGRMV3RMdWo3NVliX2J6Ukg4Q2lWSkE"/>
+			<outline text="Stripe countries" title="Stripe countries" type="rss" xmlUrl="https://spreadsheets.google.com/feeds/list/0AgaQ8bwg6y22dGRMV3RMdWo3NVliX2J6Ukg4Q2lWSkE/od6/public/basic" htmlUrl="https://spreadsheets.google.com/pub?key=0AgaQ8bwg6y22dGRMV3RMdWo3NVliX2J6Ukg4Q2lWSkE"/>
 			<outline text="Coin" title="Coin" type="rss" xmlUrl="http://blog.onlycoin.com/posts?format=rss" htmlUrl="http://blog.onlycoin.com/"/>
 			<outline text="Foursquare Badges Information | How to Unlock Foursquare Badges" title="Foursquare Badges Information | How to Unlock Foursquare Badges" type="rss" xmlUrl="http://feeds.feedburner.com/4sqaddict?format=xml" htmlUrl="http://foursquareaddict.info"/>
 		</outline>
