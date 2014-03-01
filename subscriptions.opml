@@ -167,10 +167,8 @@
 		<outline text="Gridness" title="Gridness" type="rss" xmlUrl="http://gridness.net/feed/" htmlUrl="http://gridness.net"/>
 		<outline text="Interuserface" title="Interuserface" type="rss" xmlUrl="http://interuserface.net/feed/" htmlUrl="http://interuserface.net"/>
 		<outline text="Watching Apple" title="Watching Apple" type="rss" xmlUrl="http://watchingapple.com/feed/" htmlUrl="http://watchingapple.com"/>
-		<outline text="New arrivals - TRÈS BIEN SHOP RSS" title="New arrivals - TRÈS BIEN SHOP RSS" type="rss" xmlUrl="http://www.tresbienshop.se/rss.php?url=http://www.tresbienshop.net/en/grp/newarrivals.php" htmlUrl="http://www.tresbienshop.se/rss.php?url=http://www.tresbienshop.net/en/grp/newarrivals.php"/>
 		<outline text="Official Duolingo Blog" title="Official Duolingo Blog" type="rss" xmlUrl="http://blog.duolingo.com/rss" htmlUrl="http://blog.duolingo.com/"/>
 		<outline text="Geek &amp; Mild" title="Geek &amp; Mild" type="rss" xmlUrl="http://seansperte.com/rss" htmlUrl="http://seansperte.com/"/>
-		<outline text="TSBmen" title="TSBmen" type="rss" xmlUrl="http://tsbmen.com/feed/" htmlUrl="http://tsbmen.com"/>
 		<outline text="MyInkBlog" title="MyInkBlog" type="rss" xmlUrl="http://feeds.feedburner.com/MyInkBlog" htmlUrl="http://www.myinkblog.com"/>
 		<outline text="Jack Osborne — Freelance Web Designer Glasgow" title="Jack Osborne — Freelance Web Designer Glasgow" type="rss" xmlUrl="http://feeds.feedburner.com/jackosbornecouk" htmlUrl="http://jackosborne.com"/>
 		<outline text="Dagpengeland" title="Dagpengeland" type="rss" xmlUrl="http://dagpengeland.dk/rss.xml" htmlUrl="http://www.dagpengeland.dk"/>
@@ -182,14 +180,12 @@
 		<outline text="Kent Wang" title="Kent Wang" type="rss" xmlUrl="http://kentwang.tumblr.com/rss" htmlUrl="http://kentwang.tumblr.com/"/>
 		<outline text="ARCHIPHILE" title="ARCHIPHILE" type="rss" xmlUrl="http://archiphile.tumblr.com/rss" htmlUrl="http://archiphile.tumblr.com/"/>
 		<outline text="Typedeck" title="Typedeck" type="rss" xmlUrl="http://feeds.feedburner.com/Typedeck" htmlUrl="http://typedeck.com"/>
-		<outline text="THIGHS BIGGER THAN YOUR HEAD" title="THIGHS BIGGER THAN YOUR HEAD" type="rss" xmlUrl="http://feeds.feedburner.com/ThighsBiggerThanYourHead" htmlUrl="http://thighsbiggerthanyourhead.blogspot.com/"/>
 		<outline text="iwantmyname Domain Blog" title="iwantmyname Domain Blog" type="rss" xmlUrl="http://blog.feeds.iwantmyname.com/iwantmyname" htmlUrl="https://iwantmyname.com/blog/"/>
 		<outline text="Svpply" title="Svpply" type="rss" xmlUrl="http://blog.svpply.com/rss" htmlUrl="http://blog.svpply.com/"/>
 		<outline text="THISISNOTNEW|TUMBLR" title="THISISNOTNEW|TUMBLR" type="rss" xmlUrl="http://thisisnotnew.tumblr.com/rss" htmlUrl="http://thisisnotnew.tumblr.com/"/>
 		<outline text="cubicle 17" title="cubicle 17" type="rss" xmlUrl="http://feeds.feedburner.com/cubicle17" htmlUrl="http://cubicle17.com/"/>
 		<outline text="Scalyr Blog" title="Scalyr Blog" type="rss" xmlUrl="http://blog.scalyr.com/feed/" htmlUrl="http://blog.scalyr.com"/>
 		<outline text="Rasmus Keger" title="Rasmus Keger" type="rss" xmlUrl="http://rasmuskeger.wordpress.com/feed/" htmlUrl="http://rasmuskeger.wordpress.com"/>
-		<outline text="Prepidemic Magazine" title="Prepidemic Magazine" type="rss" xmlUrl="http://feeds.feedburner.com/Prepidemic" htmlUrl="http://www.menofhabit.com"/>
 		<outline text="Wallblank" title="Wallblank" type="rss" xmlUrl="http://feeds.feedburner.com/wallblank" htmlUrl="http://wallblank.com/collections/all"/>
 		<outline text="Little Big Details" title="Little Big Details" type="rss" xmlUrl="http://littlebigdetails.com/rss" htmlUrl="http://littlebigdetails.com/"/>
 		<outline text="American Drink" title="American Drink" type="rss" xmlUrl="http://americandrink.net/rss" htmlUrl="http://americandrink.net/"/>
@@ -431,7 +427,6 @@
 			<outline text="Sære bynavne" title="Sære bynavne" type="rss" xmlUrl="http://bynavne.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://bynavne.blogspot.com/"/>
 			<outline text="Michael Nielsen" title="Michael Nielsen" type="rss" xmlUrl="http://feeds.feedburner.com/michaelnielsen/wmna?format=xml" htmlUrl="http://michaelnielsen.org/blog"/>
 			<outline text="Randoom" title="Randoom" type="rss" xmlUrl="http://feeds.feedburner.com/friism/sLZw?format=xml" htmlUrl="http://friism.com"/>
-			<outline text="Mismo - Updates" title="Mismo - Updates" type="rss" xmlUrl="http://www.mismo.dk/blogs/news.atom" htmlUrl="http://www.mismo.dk/blogs/news"/>
 		</outline>
 		<outline text="friends" title="friends">
 			<outline text="Excerpts from six months in KL" title="Excerpts from six months in KL" type="rss" xmlUrl="http://malheysia.tumblr.com/rss" htmlUrl="http://malheysia.tumblr.com/"/>
@@ -503,14 +498,11 @@
 			<outline text="Martin Kaufmann Photography" title="Martin Kaufmann Photography" type="rss" xmlUrl="http://www.martinkaufmann.dk/feed/" htmlUrl="http://www.martinkaufmann.dk"/>
 			<outline text="Foto: Jens Dresling Feed" title="Foto: Jens Dresling Feed" type="rss" xmlUrl="http://iloapp.dresling.com/blog/foto?RSS" htmlUrl="http://foto.dresling.com/"/>
 		</outline>
-		<outline text="Stil" title="Stil">
+		<outline text="fashion" title="fashion">
+			<outline text="Mismo - Updates" title="Mismo - Updates" type="rss" xmlUrl="http://www.mismo.dk/blogs/news.atom" htmlUrl="http://www.mismo.dk/blogs/news"/>
 			<outline text="Valet." title="Valet." type="rss" xmlUrl="http://www.valetmag.com/distribution/rss_all.xml" htmlUrl="http://www.valetmag.com/index.php?rss"/>
 			<outline text="Style Hunting" title="Style Hunting" type="rss" xmlUrl="http://stylehunting.tumblr.com/rss" htmlUrl="http://stylehunting.tumblr.com/"/>
-			<outline text="New arrivals - TRÈS BIEN SHOP RSS" title="New arrivals - TRÈS BIEN SHOP RSS" type="rss" xmlUrl="http://www.tresbienshop.se/rss.php?url=http://www.tresbienshop.net/en/grp/newarrivals.php" htmlUrl="http://www.tresbienshop.se/rss.php?url=http://www.tresbienshop.net/en/grp/newarrivals.php"/>
-			<outline text="TSBmen" title="TSBmen" type="rss" xmlUrl="http://tsbmen.com/feed/" htmlUrl="http://tsbmen.com"/>
 			<outline text="Kent Wang" title="Kent Wang" type="rss" xmlUrl="http://kentwang.tumblr.com/rss" htmlUrl="http://kentwang.tumblr.com/"/>
-			<outline text="THIGHS BIGGER THAN YOUR HEAD" title="THIGHS BIGGER THAN YOUR HEAD" type="rss" xmlUrl="http://feeds.feedburner.com/ThighsBiggerThanYourHead" htmlUrl="http://thighsbiggerthanyourhead.blogspot.com/"/>
-			<outline text="Prepidemic Magazine" title="Prepidemic Magazine" type="rss" xmlUrl="http://feeds.feedburner.com/Prepidemic" htmlUrl="http://www.menofhabit.com"/>
 			<outline text="STREETFSN" title="STREETFSN" type="rss" xmlUrl="http://streetfsn.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://streetfsn.blogspot.com/"/>
 			<outline text="Caliroots.com RSS" title="Caliroots.com RSS" type="rss" xmlUrl="http://caliroots.com/system/search/rss.asp?langid=44&amp;currency=DKK&amp;shopid=2&amp;type=latest" htmlUrl="http://caliroots.com"/>
 			<outline text="THE LOCALS » Men" title="THE LOCALS » Men" type="rss" xmlUrl="http://thelocals.dk/category/people/men/feed/" htmlUrl="http://thelocals.dk"/>
