@@ -427,7 +427,7 @@
 			<outline text="NOMO Design Shop" title="NOMO Design Shop" type="rss" xmlUrl="http://shop.nomodesign.com/products.rss" htmlUrl="http://shop.nomodesign.com"/>
 			<outline text="Wander Onwards" title="Wander Onwards" type="rss" xmlUrl="http://wanderonwards.com/feed/" htmlUrl="http://wanderonwards.com"/>
 		</outline>
-		<outline text="Photoblogs" title="Photoblogs">
+		<outline text="photo-blogs" title="photo-blogs">
 			<outline text="awesome people hanging out together" title="awesome people hanging out together" type="rss" xmlUrl="http://awesomepeoplehangingouttogether.tumblr.com/rss" htmlUrl="http://awesomepeoplehangingouttogether.tumblr.com/"/>
 			<outline text="National Geographic Found" title="National Geographic Found" type="rss" xmlUrl="http://natgeofound.tumblr.com/rss" htmlUrl="http://natgeofound.tumblr.com/"/>
 			<outline text="the impossible cool." title="the impossible cool." type="rss" xmlUrl="http://theimpossiblecool.tumblr.com/rss" htmlUrl="http://theimpossiblecool.tumblr.com/"/>
