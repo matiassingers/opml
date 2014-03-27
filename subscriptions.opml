@@ -102,7 +102,6 @@
 		<outline text="Pat Dryburgh" title="Pat Dryburgh" type="rss" xmlUrl="http://feeds.feedburner.com/patdryburgh" htmlUrl="http://feeds.feedburner.com/patdryburgh"/>
 		<outline text="Wolfram|Alpha Blog" title="Wolfram|Alpha Blog" type="rss" xmlUrl="http://blog.wolframalpha.com/feed/" htmlUrl="http://blog.wolframalpha.com"/>
 		<outline text="Monday By Noon" title="Monday By Noon" type="rss" xmlUrl="http://mondaybynoon.com/feed/" htmlUrl="http://mondaybynoon.com"/>
-		<outline text="WANKEN - The blog of Shelby White" title="WANKEN - The blog of Shelby White" type="rss" xmlUrl="http://feeds.feedburner.com/Wanken" htmlUrl="http://blog.wanken.com"/>
 		<outline text="less is more by Kevin Rose" title="less is more by Kevin Rose" type="rss" xmlUrl="http://kevinrose.com/feed" htmlUrl="http://feeds.feedburner.com/krose"/>
 		<outline text="Ministry of Type" title="Ministry of Type" type="rss" xmlUrl="http://ministryoftype.co.uk/words/rss/" htmlUrl="http://ministryoftype.co.uk/"/>
 		<outline text="chartsnthings" title="chartsnthings" type="rss" xmlUrl="http://chartsnthings.tumblr.com/rss" htmlUrl="http://chartsnthings.tumblr.com/"/>
@@ -243,10 +242,8 @@
 		<outline text="Randoom" title="Randoom" type="rss" xmlUrl="http://feeds.feedburner.com/friism/sLZw?format=xml" htmlUrl="http://friism.com"/>
 		<outline text="Mismo - Updates" title="Mismo - Updates" type="rss" xmlUrl="http://www.mismo.dk/blogs/news.atom" htmlUrl="http://www.mismo.dk/blogs/news"/>
 		<outline text="Screen shots of computer code" title="Screen shots of computer code" type="rss" xmlUrl="http://moviecode.tumblr.com/rss" htmlUrl="http://moviecode.tumblr.com"/>
-		<outline text="Wander Onwards" title="Wander Onwards" type="rss" xmlUrl="http://wanderonwards.com/feed/" htmlUrl="http://wanderonwards.com"/>
 		<outline text="bankrupt" title="bankrupt">
 			<outline text="Hacker News 50" title="Hacker News 50" type="rss" xmlUrl="http://feeds.feedburner.com/hacker-news-feed-50?format=xml" htmlUrl="http://news.ycombinator.com"/>
-			<outline text="WANKEN - The blog of Shelby White" title="WANKEN - The blog of Shelby White" type="rss" xmlUrl="http://feeds.feedburner.com/Wanken" htmlUrl="http://blog.wanken.com"/>
 			<outline text="Devour" title="Devour" type="rss" xmlUrl="http://feeds.feedburner.com/devourfeed" htmlUrl="http://devour.com/"/>
 			<outline text="Inside Facebook" title="Inside Facebook" type="rss" xmlUrl="http://feeds.feedburner.com/InsideFacebook" htmlUrl="http://www.insidefacebook.com"/>
 			<outline text="Skift" title="Skift" type="rss" xmlUrl="http://skift.com/feed/" htmlUrl="http://skift.com"/>
@@ -403,7 +400,6 @@
 			<outline text="minimal design" title="minimal design" type="rss" xmlUrl="http://feeds.feedburner.com/minimaldesign" htmlUrl="http://minimal.io"/>
 			<outline text="1001 rules for my unborn son" title="1001 rules for my unborn son" type="rss" xmlUrl="http://rulesformyunbornson.tumblr.com/rss" htmlUrl="http://rulesformyunbornson.tumblr.com/"/>
 			<outline text="NOMO Design Shop" title="NOMO Design Shop" type="rss" xmlUrl="http://shop.nomodesign.com/products.rss" htmlUrl="http://shop.nomodesign.com"/>
-			<outline text="Wander Onwards" title="Wander Onwards" type="rss" xmlUrl="http://wanderonwards.com/feed/" htmlUrl="http://wanderonwards.com"/>
 		</outline>
 		<outline text="danish" title="danish">
 			<outline text="Morten Just og Rock" title="Morten Just og Rock" type="rss" xmlUrl="http://feeds.feedburner.com/GenstartOgRock" htmlUrl="http://mortenjust.com"/>
