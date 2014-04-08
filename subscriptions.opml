@@ -230,7 +230,7 @@
 		<outline text="meet sauldraws" title="meet sauldraws" type="rss" xmlUrl="http://saulrosenbaum.com/blog/feed/" htmlUrl="http://saulrosenbaum.com/blog"/>
 		<outline text="Thoughts from a Scandinavian in Kuala Lumpur" title="Thoughts from a Scandinavian in Kuala Lumpur" type="rss" xmlUrl="http://simontoerring.dk/feed/" htmlUrl="http://simontoerring.dk"/>
 		<outline text="Thorborgs Talkshow" title="Thorborgs Talkshow" type="rss" xmlUrl="http://feeds.feedburner.com/thorborgstalkshow" htmlUrl="http://thorborg.tv"/>
-		<outline text="(No title)" title="(No title)" type="rss" xmlUrl="http://www.casperblom.dk/feed/" htmlUrl="http://www.casperblom.dk"/>
+		<outline text="Casper Blom" title="Casper Blom" type="rss" xmlUrl="http://www.casperblom.dk/feed/" htmlUrl="http://www.casperblom.dk"/>
 		<outline text="We Are Mammoth" title="We Are Mammoth" type="rss" xmlUrl="http://wearemammoth.com/feed" htmlUrl="http://wearemammoth.com"/>
 		<outline text="Michael Nielsen" title="Michael Nielsen" type="rss" xmlUrl="http://feeds.feedburner.com/michaelnielsen/wmna?format=xml" htmlUrl="http://michaelnielsen.org/blog"/>
 		<outline text="Arbitrary + SuperFriendly build an app" title="Arbitrary + SuperFriendly build an app" type="rss" xmlUrl="http://howtobuildanapp.tumblr.com/rss" htmlUrl="http://howtobuildanapp.tumblr.com/"/>
@@ -406,7 +406,7 @@
 			<outline text="microformats.dk" title="microformats.dk" type="rss" xmlUrl="http://www.microformats.dk/feed/" htmlUrl="http://www.microformats.dk"/>
 			<outline text="Morten Just og Rock" title="Morten Just og Rock" type="rss" xmlUrl="http://feeds.feedburner.com/GenstartOgRock" htmlUrl="http://mortenjust.com"/>
 			<outline text="Thorborgs Talkshow" title="Thorborgs Talkshow" type="rss" xmlUrl="http://feeds.feedburner.com/thorborgstalkshow" htmlUrl="http://thorborg.tv"/>
-			<outline text="(No title)" title="(No title)" type="rss" xmlUrl="http://www.casperblom.dk/feed/" htmlUrl="http://www.casperblom.dk"/>
+			<outline text="Casper Blom" title="Casper Blom" type="rss" xmlUrl="http://www.casperblom.dk/feed/" htmlUrl="http://www.casperblom.dk"/>
 			<outline text="Michael Nielsen" title="Michael Nielsen" type="rss" xmlUrl="http://feeds.feedburner.com/michaelnielsen/wmna?format=xml" htmlUrl="http://michaelnielsen.org/blog"/>
 			<outline text="Randoom" title="Randoom" type="rss" xmlUrl="http://feeds.feedburner.com/friism/sLZw?format=xml" htmlUrl="http://friism.com"/>
 		</outline>
