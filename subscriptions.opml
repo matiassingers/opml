@@ -245,6 +245,7 @@
 		<outline text="Dinosaur Polo Club" title="Dinosaur Polo Club" type="rss" xmlUrl="http://devlog.dinopoloclub.com/rss" htmlUrl="http://devlog.dinopoloclub.com"/>
 		<outline text="chartsnthings Links" title="chartsnthings Links" type="rss" xmlUrl="http://kpq.github.io/chartsnthings/atom.xml" htmlUrl="http://kpq.github.io/chartsnthings"/>
 		<outline text="Matias Singers" title="Matias Singers" type="rss" xmlUrl="http://mts.io/atom.xml" htmlUrl="http://mts.io"/>
+		<outline text="Kenneth Auchenberg" title="Kenneth Auchenberg" type="rss" xmlUrl="http://kenneth.io/atom.xml" htmlUrl="http://kenneth.io/"/>
 		<outline text="bankrupt" title="bankrupt">
 			<outline text="Hacker News 50" title="Hacker News 50" type="rss" xmlUrl="http://feeds.feedburner.com/hacker-news-feed-50?format=xml" htmlUrl="http://news.ycombinator.com"/>
 			<outline text="Devour" title="Devour" type="rss" xmlUrl="http://feeds.feedburner.com/devourfeed" htmlUrl="http://devour.com/"/>
@@ -403,6 +404,7 @@
 			<outline text="Thoughts from a Scandinavian in Kuala Lumpur" title="Thoughts from a Scandinavian in Kuala Lumpur" type="rss" xmlUrl="http://simontoerring.dk/feed/" htmlUrl="http://simontoerring.dk"/>
 			<outline text="We Are Mammoth" title="We Are Mammoth" type="rss" xmlUrl="http://wearemammoth.com/feed" htmlUrl="http://wearemammoth.com"/>
 			<outline text="Arbitrary + SuperFriendly build an app" title="Arbitrary + SuperFriendly build an app" type="rss" xmlUrl="http://howtobuildanapp.tumblr.com/rss" htmlUrl="http://howtobuildanapp.tumblr.com/"/>
+			<outline text="Kenneth Auchenberg" title="Kenneth Auchenberg" type="rss" xmlUrl="http://kenneth.io/atom.xml" htmlUrl="http://kenneth.io/"/>
 		</outline>
 		<outline text="danish" title="danish">
 			<outline text="microformats.dk" title="microformats.dk" type="rss" xmlUrl="http://www.microformats.dk/feed/" htmlUrl="http://www.microformats.dk"/>
