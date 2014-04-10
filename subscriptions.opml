@@ -402,7 +402,6 @@
 			<outline text="teddy-risation" title="teddy-risation" type="rss" xmlUrl="http://teddy-o-ted.com/feed/" htmlUrl="http://teddy-o-ted.com"/>
 			<outline text="Information Highwayman" title="Information Highwayman" type="rss" xmlUrl="http://feeds.feedburner.com/informationhighwayman" htmlUrl="http://informationhighwayman.com"/>
 			<outline text="meet sauldraws" title="meet sauldraws" type="rss" xmlUrl="http://saulrosenbaum.com/blog/feed/" htmlUrl="http://saulrosenbaum.com/blog"/>
-			<outline text="Thoughts from a Scandinavian in Kuala Lumpur" title="Thoughts from a Scandinavian in Kuala Lumpur" type="rss" xmlUrl="http://simontoerring.dk/feed/" htmlUrl="http://simontoerring.dk"/>
 			<outline text="We Are Mammoth" title="We Are Mammoth" type="rss" xmlUrl="http://wearemammoth.com/feed" htmlUrl="http://wearemammoth.com"/>
 			<outline text="Arbitrary + SuperFriendly build an app" title="Arbitrary + SuperFriendly build an app" type="rss" xmlUrl="http://howtobuildanapp.tumblr.com/rss" htmlUrl="http://howtobuildanapp.tumblr.com/"/>
 			<outline text="Kenneth Auchenberg" title="Kenneth Auchenberg" type="rss" xmlUrl="http://kenneth.io/atom.xml" htmlUrl="http://kenneth.io/"/>
@@ -411,7 +410,6 @@
 			<outline text="microformats.dk" title="microformats.dk" type="rss" xmlUrl="http://www.microformats.dk/feed/" htmlUrl="http://www.microformats.dk"/>
 			<outline text="Morten Just og Rock" title="Morten Just og Rock" type="rss" xmlUrl="http://feeds.feedburner.com/GenstartOgRock" htmlUrl="http://mortenjust.com"/>
 			<outline text="Thorborgs Talkshow" title="Thorborgs Talkshow" type="rss" xmlUrl="http://feeds.feedburner.com/thorborgstalkshow" htmlUrl="http://thorborg.tv"/>
-			<outline text="Casper Blom" title="Casper Blom" type="rss" xmlUrl="http://www.casperblom.dk/feed/" htmlUrl="http://www.casperblom.dk"/>
 			<outline text="Michael Nielsen" title="Michael Nielsen" type="rss" xmlUrl="http://feeds.feedburner.com/michaelnielsen/wmna?format=xml" htmlUrl="http://michaelnielsen.org/blog"/>
 			<outline text="Randoom" title="Randoom" type="rss" xmlUrl="http://feeds.feedburner.com/friism/sLZw?format=xml" htmlUrl="http://friism.com"/>
 		</outline>
@@ -423,6 +421,11 @@
 			<outline text="Caliroots.com RSS" title="Caliroots.com RSS" type="rss" xmlUrl="http://caliroots.com/system/search/rss.asp?langid=44&amp;currency=DKK&amp;shopid=2&amp;type=latest" htmlUrl="http://caliroots.com"/>
 			<outline text="THE LOCALS » Men" title="THE LOCALS » Men" type="rss" xmlUrl="http://thelocals.dk/category/people/men/feed/" htmlUrl="http://thelocals.dk"/>
 			<outline text="Mismo - Updates" title="Mismo - Updates" type="rss" xmlUrl="http://www.mismo.dk/blogs/news.atom" htmlUrl="http://www.mismo.dk/blogs/news"/>
+		</outline>
+		<outline text="friends" title="friends">
+			<outline text="Simon Tørring" title="Simon Tørring" type="rss" xmlUrl="http://simontoerring.dk/feed/" htmlUrl="http://simontoerring.dk"/>
+			<outline text="Casper Blom" title="Casper Blom" type="rss" xmlUrl="http://www.casperblom.dk/feed/" htmlUrl="http://www.casperblom.dk"/>
+			<outline text="Andreas Stokholm" title="Andreas Stokholm" type="rss" xmlUrl="http://www.stokholm.io/feed.xml" htmlUrl="http://www.stokholm.io/"/>
 		</outline>
 		<outline text="photo-blogs" title="photo-blogs">
 			<outline text="awesome people hanging out together" title="awesome people hanging out together" type="rss" xmlUrl="http://awesomepeoplehangingouttogether.tumblr.com/rss" htmlUrl="http://awesomepeoplehangingouttogether.tumblr.com/"/>
