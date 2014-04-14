@@ -253,7 +253,7 @@
 			<outline text="Skift" title="Skift" type="rss" xmlUrl="http://skift.com/feed/" htmlUrl="http://skift.com"/>
 			<outline text="Tech in Asia" title="Tech in Asia" type="rss" xmlUrl="http://feeds.feedburner.com/PennOlson?format=xml" htmlUrl="http://www.techinasia.com"/>
 		</outline>
-		<outline text="Blogs" title="Blogs">
+		<outline text="blogs" title="blogs">
 			<outline text="A Brief Message" title="A Brief Message" type="rss" xmlUrl="http://feeds.feedburner.com/abriefmessage" htmlUrl="http://abriefmessage.com/"/>
 			<outline text="A List Apart: The Full Feed" title="A List Apart: The Full Feed" type="rss" xmlUrl="http://feeds.feedburner.com/alistapart/main" htmlUrl="http://www.alistapart.com/articles/"/>
 			<outline text="Apple Outsider" title="Apple Outsider" type="rss" xmlUrl="http://www.appleoutsider.com/feed/" htmlUrl="http://www.appleoutsider.com"/>
