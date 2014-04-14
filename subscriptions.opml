@@ -78,7 +78,6 @@
 		<outline text="Yelping with Cormac" title="Yelping with Cormac" type="rss" xmlUrl="http://yelpingwithcormac.tumblr.com/rss" htmlUrl="http://yelpingwithcormac.tumblr.com/"/>
 		<outline text="The Lively Morgue" title="The Lively Morgue" type="rss" xmlUrl="http://livelymorgue.tumblr.com/rss" htmlUrl="http://livelymorgue.tumblr.com/"/>
 		<outline text="Bret Victor's website" title="Bret Victor's website" type="rss" xmlUrl="http://worrydream.com/feed.xml" htmlUrl="http://worrydream.com/"/>
-		<outline text="Dev-Team Blog" title="Dev-Team Blog" type="rss" xmlUrl="http://blog.iphone-dev.org/rss" htmlUrl="http://blog.iphone-dev.org/"/>
 		<outline text="that's how it happened" title="that's how it happened" type="rss" xmlUrl="http://howithappened.com/rss" htmlUrl="http://howithappened.com/"/>
 		<outline text="the impossible cool." title="the impossible cool." type="rss" xmlUrl="http://theimpossiblecool.tumblr.com/rss" htmlUrl="http://theimpossiblecool.tumblr.com/"/>
 		<outline text="Derek Punsalan - 5ThirtyOne" title="Derek Punsalan - 5ThirtyOne" type="rss" xmlUrl="http://feeds.feedburner.com/5thirtyone" htmlUrl="http://5thirtyone.com"/>
@@ -476,7 +475,6 @@
 			<outline text="Instapaper Blog" title="Instapaper Blog" type="rss" xmlUrl="http://blog.instapaper.com/rss" htmlUrl="http://blog.instapaper.com/"/>
 			<outline text="Panic Blog" title="Panic Blog" type="rss" xmlUrl="http://www.panic.com/blog/feed/" htmlUrl="http://www.panic.com/blog"/>
 			<outline text="simurai" title="simurai" type="rss" xmlUrl="http://simurai.com/rss" htmlUrl="http://simurai.com/"/>
-			<outline text="Dev-Team Blog" title="Dev-Team Blog" type="rss" xmlUrl="http://blog.iphone-dev.org/rss" htmlUrl="http://blog.iphone-dev.org/"/>
 			<outline text="CloudApp Blog" title="CloudApp Blog" type="rss" xmlUrl="http://blog.getcloudapp.com/feed.xml" htmlUrl="http://blog.getcloudapp.com"/>
 			<outline text="Junecloud // All Entries" title="Junecloud // All Entries" type="rss" xmlUrl="http://junecloud.com/rss/" htmlUrl="http://junecloud.com/"/>
 			<outline text="Wolfram|Alpha Blog" title="Wolfram|Alpha Blog" type="rss" xmlUrl="http://blog.wolframalpha.com/feed/" htmlUrl="http://blog.wolframalpha.com"/>
