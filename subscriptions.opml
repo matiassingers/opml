@@ -6,5 +6,65 @@
 		<ownerEmail>mail@matiassingers.com</ownerEmail>
 	</head>
 	<body>
+		<outline text="Chris Lema" title="Chris Lema" type="rss" xmlUrl="http://chrislema.com/feed/" htmlUrl="http://chrislema.com"/>
+		<outline text="Copywriting by Copy Hackers" title="Copywriting by Copy Hackers" type="rss" xmlUrl="http://copyhackers.com/feed/" htmlUrl="http://copyhackers.com"/>
+		<outline text="The Intercom Blog" title="The Intercom Blog" type="rss" xmlUrl="http://feeds2.feedburner.com/contrast/blog" htmlUrl="http://insideintercom.io"/>
+		<outline text="Nathan Barry" title="Nathan Barry" type="rss" xmlUrl="http://feeds.feedburner.com/NathanBarry" htmlUrl="http://"/>
+		<outline text="Startups, life, learning and happiness" title="Startups, life, learning and happiness" type="rss" xmlUrl="http://feeds.feedburner.com/joelis" htmlUrl="http://joel.is/"/>
+		<outline text="Instigator Blog" title="Instigator Blog" type="rss" xmlUrl="http://www.instigatorblog.com/feed/" htmlUrl="http://www.instigatorblog.com"/>
+		<outline text="Quick Sprout" title="Quick Sprout" type="rss" xmlUrl="http://feeds2.feedburner.com/quicksprout" htmlUrl="http://www.quicksprout.com"/>
+		<outline text="Social Triggers" title="Social Triggers" type="rss" xmlUrl="http://feeds.socialtriggers.com/SocialTriggers" htmlUrl="http://socialtriggers.com"/>
+		<outline text="Noah Kagan's Okdork.com" title="Noah Kagan's Okdork.com" type="rss" xmlUrl="http://okdork.com/feed/" htmlUrl="http://okdork.com"/>
+		<outline text="The Gumroad Blog" title="The Gumroad Blog" type="rss" xmlUrl="http://blog.gumroad.com/rss" htmlUrl="http://blog.gumroad.com/"/>
+		<outline text="Hitenism" title="Hitenism" type="rss" xmlUrl="http://hitenism.com/feed/" htmlUrl="http://hitenism.com"/>
+		<outline text="Amy Porterfield" title="Amy Porterfield" type="rss" xmlUrl="http://www.amyporterfield.com/feed/" htmlUrl="http://www.amyporterfield.com"/>
+		<outline text="500 Startups" title="500 Startups" type="rss" xmlUrl="http://500.co/feed/" htmlUrl="http://500.co"/>
+		<outline text="http://ryanhoover.me/" title="http://ryanhoover.me/" type="rss" xmlUrl="http://ryanhoover.me/rss" htmlUrl="http://ryanhoover.me/"/>
+		<outline text="Brennan Dunn" title="Brennan Dunn" type="rss" xmlUrl="http://brennandunn.com/feed/" htmlUrl="http://brennandunn.com/"/>
+		<outline text="iDoneThis blog" title="iDoneThis blog" type="rss" xmlUrl="http://blog.idonethis.com/rss" htmlUrl="http://blog.idonethis.com/"/>
+		<outline text="The Buffer blog: productivity, life hacks, writing, user experience, customer happiness and business." title="The Buffer blog: productivity, life hacks, writing, user experience, customer happiness and business." type="rss" xmlUrl="http://blog.bufferapp.com/feed/" htmlUrl="http://blog.bufferapp.com"/>
+		<outline text="Software by Rob" title="Software by Rob" type="rss" xmlUrl="http://www.softwarebyrob.com/feed/" htmlUrl="http://www.softwarebyrob.com"/>
+		<outline text="What Spinks Thinks" title="What Spinks Thinks" type="rss" xmlUrl="http://whatspinksthinks.com/feed/" htmlUrl="http://whatspinksthinks.com"/>
+		<outline text="Customer.io Blog" title="Customer.io Blog" type="rss" xmlUrl="http://customer.io/blog/rss.xml" htmlUrl="http://customer.io/blog/"/>
+		<outline text="Groove Blog" title="Groove Blog" type="rss" xmlUrl="http://www.groovehq.com/blog/feed" htmlUrl="http://groovehq.com/blog/first-year"/>
+		<outline text="Wade Foster" title="Wade Foster" type="rss" xmlUrl="http://wadefoster.net/rss" htmlUrl="http://wadefoster.net/"/>
+		<outline text="Making New Mistakes by Adii Pienaar" title="Making New Mistakes by Adii Pienaar" type="rss" xmlUrl="http://adii.me/rss/" htmlUrl="http://adii.me"/>
+		<outline text="Paul Jarvis" title="Paul Jarvis" type="rss" xmlUrl="http://pjrvs.com/feed" htmlUrl="http://pjrvs.com"/>
+		<outline text="this is rachelandrew.co.uk" title="this is rachelandrew.co.uk" type="rss" xmlUrl="http://rachelandrew.co.uk/archives/rss.php" htmlUrl="http://rachelandrew.co.uk/archives"/>
+		<outline text="Unicornfree with Amy Hoy: Creating And Selling Your Own ProductsUnicornfree with Amy Hoy: Creating And Selling Your Own Products" title="Unicornfree with Amy Hoy: Creating And Selling Your Own ProductsUnicornfree with Amy Hoy: Creating And Selling Your Own Products" type="rss" xmlUrl="http://unicornfree.com/feed" htmlUrl="http://unicornfree.com"/>
+		<outline text="Makeshift" title="Makeshift" type="rss" xmlUrl="http://writing.makeshift.io/collections/makeshift/feed?collection=makeshift" htmlUrl="http://writing.makeshift.io"/>
+		<outline text="Femgineer" title="Femgineer" type="rss" xmlUrl="http://femgineer.com/feed/" htmlUrl="http://femgineer.com"/>
+		<outline text="The Perpetual Vacation" title="The Perpetual Vacation" type="rss" xmlUrl="http://theperpetualvacation.com/feed/" htmlUrl="http://theperpetualvacation.com"/>
+		<outline text="SummaList" title="SummaList">
+			<outline text="Chris Lema" title="Chris Lema" type="rss" xmlUrl="http://chrislema.com/feed/" htmlUrl="http://chrislema.com"/>
+			<outline text="Copywriting by Copy Hackers" title="Copywriting by Copy Hackers" type="rss" xmlUrl="http://copyhackers.com/feed/" htmlUrl="http://copyhackers.com"/>
+			<outline text="The Intercom Blog" title="The Intercom Blog" type="rss" xmlUrl="http://feeds2.feedburner.com/contrast/blog" htmlUrl="http://insideintercom.io"/>
+			<outline text="Nathan Barry" title="Nathan Barry" type="rss" xmlUrl="http://feeds.feedburner.com/NathanBarry" htmlUrl="http://"/>
+			<outline text="Startups, life, learning and happiness" title="Startups, life, learning and happiness" type="rss" xmlUrl="http://feeds.feedburner.com/joelis" htmlUrl="http://joel.is/"/>
+			<outline text="Instigator Blog" title="Instigator Blog" type="rss" xmlUrl="http://www.instigatorblog.com/feed/" htmlUrl="http://www.instigatorblog.com"/>
+			<outline text="Quick Sprout" title="Quick Sprout" type="rss" xmlUrl="http://feeds2.feedburner.com/quicksprout" htmlUrl="http://www.quicksprout.com"/>
+			<outline text="Social Triggers" title="Social Triggers" type="rss" xmlUrl="http://feeds.socialtriggers.com/SocialTriggers" htmlUrl="http://socialtriggers.com"/>
+			<outline text="Noah Kagan's Okdork.com" title="Noah Kagan's Okdork.com" type="rss" xmlUrl="http://okdork.com/feed/" htmlUrl="http://okdork.com"/>
+			<outline text="The Gumroad Blog" title="The Gumroad Blog" type="rss" xmlUrl="http://blog.gumroad.com/rss" htmlUrl="http://blog.gumroad.com/"/>
+			<outline text="Hitenism" title="Hitenism" type="rss" xmlUrl="http://hitenism.com/feed/" htmlUrl="http://hitenism.com"/>
+			<outline text="Amy Porterfield" title="Amy Porterfield" type="rss" xmlUrl="http://www.amyporterfield.com/feed/" htmlUrl="http://www.amyporterfield.com"/>
+			<outline text="500 Startups" title="500 Startups" type="rss" xmlUrl="http://500.co/feed/" htmlUrl="http://500.co"/>
+			<outline text="http://ryanhoover.me/" title="http://ryanhoover.me/" type="rss" xmlUrl="http://ryanhoover.me/rss" htmlUrl="http://ryanhoover.me/"/>
+			<outline text="Brennan Dunn" title="Brennan Dunn" type="rss" xmlUrl="http://brennandunn.com/feed/" htmlUrl="http://brennandunn.com/"/>
+			<outline text="iDoneThis blog" title="iDoneThis blog" type="rss" xmlUrl="http://blog.idonethis.com/rss" htmlUrl="http://blog.idonethis.com/"/>
+			<outline text="The Buffer blog: productivity, life hacks, writing, user experience, customer happiness and business." title="The Buffer blog: productivity, life hacks, writing, user experience, customer happiness and business." type="rss" xmlUrl="http://blog.bufferapp.com/feed/" htmlUrl="http://blog.bufferapp.com"/>
+			<outline text="Software by Rob" title="Software by Rob" type="rss" xmlUrl="http://www.softwarebyrob.com/feed/" htmlUrl="http://www.softwarebyrob.com"/>
+			<outline text="What Spinks Thinks" title="What Spinks Thinks" type="rss" xmlUrl="http://whatspinksthinks.com/feed/" htmlUrl="http://whatspinksthinks.com"/>
+			<outline text="Customer.io Blog" title="Customer.io Blog" type="rss" xmlUrl="http://customer.io/blog/rss.xml" htmlUrl="http://customer.io/blog/"/>
+			<outline text="Groove Blog" title="Groove Blog" type="rss" xmlUrl="http://www.groovehq.com/blog/feed" htmlUrl="http://groovehq.com/blog/first-year"/>
+			<outline text="Wade Foster" title="Wade Foster" type="rss" xmlUrl="http://wadefoster.net/rss" htmlUrl="http://wadefoster.net/"/>
+			<outline text="Making New Mistakes by Adii Pienaar" title="Making New Mistakes by Adii Pienaar" type="rss" xmlUrl="http://adii.me/rss/" htmlUrl="http://adii.me"/>
+			<outline text="Paul Jarvis" title="Paul Jarvis" type="rss" xmlUrl="http://pjrvs.com/feed" htmlUrl="http://pjrvs.com"/>
+			<outline text="this is rachelandrew.co.uk" title="this is rachelandrew.co.uk" type="rss" xmlUrl="http://rachelandrew.co.uk/archives/rss.php" htmlUrl="http://rachelandrew.co.uk/archives"/>
+			<outline text="Unicornfree with Amy Hoy: Creating And Selling Your Own ProductsUnicornfree with Amy Hoy: Creating And Selling Your Own Products" title="Unicornfree with Amy Hoy: Creating And Selling Your Own ProductsUnicornfree with Amy Hoy: Creating And Selling Your Own Products" type="rss" xmlUrl="http://unicornfree.com/feed" htmlUrl="http://unicornfree.com"/>
+			<outline text="Makeshift" title="Makeshift" type="rss" xmlUrl="http://writing.makeshift.io/collections/makeshift/feed?collection=makeshift" htmlUrl="http://writing.makeshift.io"/>
+			<outline text="Femgineer" title="Femgineer" type="rss" xmlUrl="http://femgineer.com/feed/" htmlUrl="http://femgineer.com"/>
+			<outline text="The Perpetual Vacation" title="The Perpetual Vacation" type="rss" xmlUrl="http://theperpetualvacation.com/feed/" htmlUrl="http://theperpetualvacation.com"/>
+		</outline>
 	</body>
 </opml>
