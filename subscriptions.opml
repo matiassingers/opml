@@ -45,6 +45,7 @@
 		<outline text="Hacker News 50" title="Hacker News 50" type="rss" xmlUrl="http://feeds.feedburner.com/hacker-news-feed-50?format=xml" htmlUrl="http://news.ycombinator.com"/>
 		<outline text="SimpleBits" title="SimpleBits" type="rss" xmlUrl="http://stream.simplebits.com/rss" htmlUrl="http://stream.simplebits.com/"/>
 		<outline text="MetaLab" title="MetaLab" type="rss" xmlUrl="http://feeds2.feedburner.com/metalabredesign" htmlUrl="http://blog.metalabdesign.com/"/>
+		<outline text="Venture Hacks" title="Venture Hacks" type="rss" xmlUrl="http://feeds.venturehacks.com/venturehacks" htmlUrl="http://venturehacks.com"/>
 		<outline text="awesome people hanging out together" title="awesome people hanging out together" type="rss" xmlUrl="http://awesomepeoplehangingouttogether.tumblr.com/rss" htmlUrl="http://awesomepeoplehangingouttogether.tumblr.com/"/>
 		<outline text="43 Folders" title="43 Folders" type="rss" xmlUrl="http://feeds.feedburner.com/43folders" htmlUrl="http://www.43folders.com"/>
 		<outline text="Instapaper Blog" title="Instapaper Blog" type="rss" xmlUrl="http://blog.instapaper.com/rss" htmlUrl="http://blog.instapaper.com/"/>
@@ -285,6 +286,7 @@
 			<outline text="Hivelogic" title="Hivelogic" type="rss" xmlUrl="http://feeds.feedburner.com/hivelogic" htmlUrl="http://hivelogic.com/"/>
 			<outline text="SimpleBits" title="SimpleBits" type="rss" xmlUrl="http://stream.simplebits.com/rss" htmlUrl="http://stream.simplebits.com/"/>
 			<outline text="MetaLab" title="MetaLab" type="rss" xmlUrl="http://feeds2.feedburner.com/metalabredesign" htmlUrl="http://blog.metalabdesign.com/"/>
+			<outline text="Venture Hacks" title="Venture Hacks" type="rss" xmlUrl="http://feeds.venturehacks.com/venturehacks" htmlUrl="http://venturehacks.com"/>
 			<outline text="43 Folders" title="43 Folders" type="rss" xmlUrl="http://feeds.feedburner.com/43folders" htmlUrl="http://www.43folders.com"/>
 			<outline text="lonelysandwich" title="lonelysandwich" type="rss" xmlUrl="http://lonelysandwich.com/rss" htmlUrl="http://lonelysandwich.com/"/>
 			<outline text="stevenf.com" title="stevenf.com" type="rss" xmlUrl="http://stevenf.tumblr.com/rss" htmlUrl="http://stevenf.tumblr.com/"/>
