@@ -2,7 +2,7 @@
 <opml version="1.0">
 	<head>
 		<title>RSS subscriptions for mail@matiassingers.com</title>
-		<dateCreated>Fri, 25 Apr 2014 00:20:18 -0500</dateCreated>
+		<dateCreated>Fri, 02 May 2014 02:17:16 -0500</dateCreated>
 		<ownerEmail>mail@matiassingers.com</ownerEmail>
 	</head>
 	<body>
@@ -179,6 +179,7 @@
 		<outline text="American Drink" title="American Drink" type="rss" xmlUrl="http://americandrink.net/rss" htmlUrl="http://americandrink.net/"/>
 		<outline text="Tech in Asia" title="Tech in Asia" type="rss" xmlUrl="http://feeds.feedburner.com/PennOlson?format=xml" htmlUrl="http://www.techinasia.com"/>
 		<outline text="Male Minded" title="Male Minded" type="rss" xmlUrl="http://maleminded.tumblr.com/rss" htmlUrl="http://maleminded.tumblr.com/"/>
+		<outline text="Sam Soffes" title="Sam Soffes" type="rss" xmlUrl="http://sam.roon.io/feed" htmlUrl="http://sam.roon.io"/>
 		<outline text="Roger and Mike's Hypernet Blog" title="Roger and Mike's Hypernet Blog" type="rss" xmlUrl="http://rogerandmike.com/rss" htmlUrl="http://rogerandmike.com/"/>
 		<outline text="Design for Developers" title="Design for Developers" type="rss" xmlUrl="http://jacojoubert.ca/rss" htmlUrl="http://jacojoubert.ca/"/>
 		<outline text="Studio Neat - News" title="Studio Neat - News" type="rss" xmlUrl="http://www.studioneat.com/blogs/news.atom" htmlUrl="http://www.studioneat.com/blogs/news"/>
@@ -383,6 +384,7 @@
 			<outline text="Wallblank" title="Wallblank" type="rss" xmlUrl="http://feeds.feedburner.com/wallblank" htmlUrl="http://wallblank.com/collections/all"/>
 			<outline text="Little Big Details" title="Little Big Details" type="rss" xmlUrl="http://littlebigdetails.com/rss" htmlUrl="http://littlebigdetails.com/"/>
 			<outline text="American Drink" title="American Drink" type="rss" xmlUrl="http://americandrink.net/rss" htmlUrl="http://americandrink.net/"/>
+			<outline text="Sam Soffes" title="Sam Soffes" type="rss" xmlUrl="http://sam.roon.io/feed" htmlUrl="http://sam.roon.io"/>
 			<outline text="Roger and Mike's Hypernet Blog" title="Roger and Mike's Hypernet Blog" type="rss" xmlUrl="http://rogerandmike.com/rss" htmlUrl="http://rogerandmike.com/"/>
 			<outline text="Design for Developers" title="Design for Developers" type="rss" xmlUrl="http://jacojoubert.ca/rss" htmlUrl="http://jacojoubert.ca/"/>
 			<outline text="Studio Neat - News" title="Studio Neat - News" type="rss" xmlUrl="http://www.studioneat.com/blogs/news.atom" htmlUrl="http://www.studioneat.com/blogs/news"/>
