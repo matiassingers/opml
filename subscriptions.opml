@@ -2,7 +2,7 @@
 <opml version="1.0">
 	<head>
 		<title>RSS subscriptions for mail@matiassingers.com</title>
-		<dateCreated>Sat, 17 May 2014 03:37:12 -0500</dateCreated>
+		<dateCreated>Mon, 26 May 2014 04:55:37 -0500</dateCreated>
 		<ownerEmail>mail@matiassingers.com</ownerEmail>
 	</head>
 	<body>
@@ -168,6 +168,7 @@
 		<outline text="Kent Wang" title="Kent Wang" type="rss" xmlUrl="http://kentwang.tumblr.com/rss" htmlUrl="http://kentwang.tumblr.com/"/>
 		<outline text="ARCHIPHILE" title="ARCHIPHILE" type="rss" xmlUrl="http://archiphile.tumblr.com/rss" htmlUrl="http://archiphile.tumblr.com/"/>
 		<outline text="Typedeck" title="Typedeck" type="rss" xmlUrl="http://feeds.feedburner.com/Typedeck" htmlUrl="http://typedeck.com"/>
+		<outline text="@briantford's blog" title="@briantford's blog" type="rss" xmlUrl="http://briantford.com/blog.rss" htmlUrl="http://briantford.com/blog/"/>
 		<outline text="iwantmyname Domain Blog" title="iwantmyname Domain Blog" type="rss" xmlUrl="http://blog.feeds.iwantmyname.com/iwantmyname" htmlUrl="https://iwantmyname.com/blog/"/>
 		<outline text="Svpply" title="Svpply" type="rss" xmlUrl="http://blog.svpply.com/rss" htmlUrl="http://blog.svpply.com/"/>
 		<outline text="THISISNOTNEW|TUMBLR" title="THISISNOTNEW|TUMBLR" type="rss" xmlUrl="http://thisisnotnew.tumblr.com/rss" htmlUrl="http://thisisnotnew.tumblr.com/"/>
@@ -381,6 +382,7 @@
 			<outline text="Aerotwist Blog" title="Aerotwist Blog" type="rss" xmlUrl="http://aerotwist.com/blog/feed/" htmlUrl="http://aerotwist.com/blog/feed/"/>
 			<outline text="ilovedust" title="ilovedust" type="rss" xmlUrl="http://ilovedust.com/blog/feed" htmlUrl="http://ilovedust.com/blog"/>
 			<outline text="Typedeck" title="Typedeck" type="rss" xmlUrl="http://feeds.feedburner.com/Typedeck" htmlUrl="http://typedeck.com"/>
+			<outline text="@briantford's blog" title="@briantford's blog" type="rss" xmlUrl="http://briantford.com/blog.rss" htmlUrl="http://briantford.com/blog/"/>
 			<outline text="cubicle 17" title="cubicle 17" type="rss" xmlUrl="http://feeds.feedburner.com/cubicle17" htmlUrl="http://cubicle17.com/"/>
 			<outline text="Rasmus Keger" title="Rasmus Keger" type="rss" xmlUrl="http://rasmuskeger.wordpress.com/feed/" htmlUrl="http://rasmuskeger.wordpress.com"/>
 			<outline text="Wallblank" title="Wallblank" type="rss" xmlUrl="http://feeds.feedburner.com/wallblank" htmlUrl="http://wallblank.com/collections/all"/>
