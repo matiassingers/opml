@@ -251,6 +251,7 @@
 		<outline text="Matias Singers" title="Matias Singers" type="rss" xmlUrl="http://mts.io/atom.xml" htmlUrl="http://mts.io"/>
 		<outline text="Andreas Stokholm" title="Andreas Stokholm" type="rss" xmlUrl="http://www.stokholm.io/feed.xml" htmlUrl="http://www.stokholm.io/"/>
 		<outline text="Kenneth Auchenberg" title="Kenneth Auchenberg" type="rss" xmlUrl="http://kenneth.io/atom.xml" htmlUrl="http://kenneth.io/"/>
+		<outline text="HOLDING PATTERN" title="HOLDING PATTERN" type="rss" xmlUrl="http://holding-pattern.tumblr.com/rss" htmlUrl="http://holding-pattern.tumblr.com/"/>
 		<outline text="bankrupt" title="bankrupt">
 			<outline text="Hacker News 50" title="Hacker News 50" type="rss" xmlUrl="http://feeds.feedburner.com/hacker-news-feed-50?format=xml" htmlUrl="http://news.ycombinator.com"/>
 			<outline text="Devour" title="Devour" type="rss" xmlUrl="http://feeds.feedburner.com/devourfeed" htmlUrl="http://devour.com/"/>
@@ -469,6 +470,7 @@
 			<outline text="tomohawk" title="tomohawk" type="rss" xmlUrl="http://tomohawk.tumblr.com/rss" htmlUrl="http://tomohawk.tumblr.com/"/>
 			<outline text="▲ KIDS ON CRACK ▲" title="▲ KIDS ON CRACK ▲" type="rss" xmlUrl="http://www.kidsoncrack.co.nz/rss" htmlUrl="http://www.kidsoncrack.co.nz/"/>
 			<outline text="Screen shots of computer code" title="Screen shots of computer code" type="rss" xmlUrl="http://moviecode.tumblr.com/rss" htmlUrl="http://moviecode.tumblr.com"/>
+			<outline text="HOLDING PATTERN" title="HOLDING PATTERN" type="rss" xmlUrl="http://holding-pattern.tumblr.com/rss" htmlUrl="http://holding-pattern.tumblr.com/"/>
 		</outline>
 		<outline text="photography" title="photography">
 			<outline text="The Lively Morgue" title="The Lively Morgue" type="rss" xmlUrl="http://livelymorgue.tumblr.com/rss" htmlUrl="http://livelymorgue.tumblr.com/"/>
