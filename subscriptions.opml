@@ -2,7 +2,7 @@
 <opml version="1.0">
 	<head>
 		<title>RSS subscriptions for mail@matiassingers.com</title>
-		<dateCreated>Mon, 26 May 2014 04:55:37 -0500</dateCreated>
+		<dateCreated>Fri, 30 May 2014 00:40:57 -0500</dateCreated>
 		<ownerEmail>mail@matiassingers.com</ownerEmail>
 	</head>
 	<body>
@@ -251,6 +251,7 @@
 		<outline text="Matias Singers" title="Matias Singers" type="rss" xmlUrl="http://mts.io/atom.xml" htmlUrl="http://mts.io"/>
 		<outline text="Andreas Stokholm" title="Andreas Stokholm" type="rss" xmlUrl="http://www.stokholm.io/feed.xml" htmlUrl="http://www.stokholm.io/"/>
 		<outline text="Kenneth Auchenberg" title="Kenneth Auchenberg" type="rss" xmlUrl="http://kenneth.io/atom.xml" htmlUrl="http://kenneth.io/"/>
+		<outline text="GitHub API Changes" title="GitHub API Changes" type="rss" xmlUrl="https://developer.github.com/changes.atom" htmlUrl="http://developer.github.com/changes.atom"/>
 		<outline text="HOLDING PATTERN" title="HOLDING PATTERN" type="rss" xmlUrl="http://holding-pattern.tumblr.com/rss" htmlUrl="http://holding-pattern.tumblr.com/"/>
 		<outline text="bankrupt" title="bankrupt">
 			<outline text="Hacker News 50" title="Hacker News 50" type="rss" xmlUrl="http://feeds.feedburner.com/hacker-news-feed-50?format=xml" htmlUrl="http://news.ycombinator.com"/>
@@ -503,6 +504,7 @@
 			<outline text="The Guardian Developer blog | theguardian.com" title="The Guardian Developer blog | theguardian.com" type="rss" xmlUrl="http://www.theguardian.com/info/developer-blog/rss" htmlUrl="http://www.theguardian.com/info/developer-blog"/>
 			<outline text="Foursquare Badges Information | How to Unlock Foursquare Badges" title="Foursquare Badges Information | How to Unlock Foursquare Badges" type="rss" xmlUrl="http://feeds.feedburner.com/4sqaddict?format=xml" htmlUrl="http://foursquareaddict.info"/>
 			<outline text="Dinosaur Polo Club" title="Dinosaur Polo Club" type="rss" xmlUrl="http://devlog.dinopoloclub.com/rss" htmlUrl="http://devlog.dinopoloclub.com"/>
+			<outline text="GitHub API Changes" title="GitHub API Changes" type="rss" xmlUrl="https://developer.github.com/changes.atom" htmlUrl="http://developer.github.com/changes.atom"/>
 		</outline>
 	</body>
 </opml>
