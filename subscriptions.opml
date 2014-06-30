@@ -2,7 +2,7 @@
 <opml version="1.0">
 	<head>
 		<title>RSS subscriptions for mail@matiassingers.com</title>
-		<dateCreated>Fri, 30 May 2014 00:40:57 -0500</dateCreated>
+		<dateCreated>Sun, 29 Jun 2014 23:56:16 -0500</dateCreated>
 		<ownerEmail>mail@matiassingers.com</ownerEmail>
 	</head>
 	<body>
@@ -66,6 +66,7 @@
 		<outline text="Rich Kids Of Instagram" title="Rich Kids Of Instagram" type="rss" xmlUrl="http://richkidsofinstagram.tumblr.com/rss" htmlUrl="http://richkidsofinstagram.tumblr.com/"/>
 		<outline text="Nice Web Type" title="Nice Web Type" type="rss" xmlUrl="http://feeds2.feedburner.com/NiceWebType" htmlUrl="http://nicewebtype.com/notes"/>
 		<outline text="mir.aculo.us" title="mir.aculo.us" type="rss" xmlUrl="http://feeds.feedburner.com/miraculous" htmlUrl="http://mir.aculo.us"/>
+		<outline text="CSS-Tricks" title="CSS-Tricks" type="rss" xmlUrl="http://feeds.feedburner.com/CssTricks" htmlUrl="http://css-tricks.com"/>
 		<outline text="Derek Sivers" title="Derek Sivers" type="rss" xmlUrl="http://sivers.org/en.atom" htmlUrl="http://sivers.org/"/>
 		<outline text="Aza on Design" title="Aza on Design" type="rss" xmlUrl="http://www.azarask.in/blog/feed/" htmlUrl="http://www.azarask.in/blog"/>
 		<outline text="Articles from AddedBytes.com (Full Feed)" title="Articles from AddedBytes.com (Full Feed)" type="rss" xmlUrl="http://feeds.addedbytes.com/added_bytes_full" htmlUrl="http://www.addedbytes.com/feeds/full/"/>
@@ -488,6 +489,7 @@
 			<outline text="Instapaper Blog" title="Instapaper Blog" type="rss" xmlUrl="http://blog.instapaper.com/rss" htmlUrl="http://blog.instapaper.com/"/>
 			<outline text="Panic Blog" title="Panic Blog" type="rss" xmlUrl="http://www.panic.com/blog/feed/" htmlUrl="http://www.panic.com/blog"/>
 			<outline text="simurai" title="simurai" type="rss" xmlUrl="http://simurai.com/rss" htmlUrl="http://simurai.com/"/>
+			<outline text="CSS-Tricks" title="CSS-Tricks" type="rss" xmlUrl="http://feeds.feedburner.com/CssTricks" htmlUrl="http://css-tricks.com"/>
 			<outline text="CloudApp Blog" title="CloudApp Blog" type="rss" xmlUrl="http://blog.getcloudapp.com/feed.xml" htmlUrl="http://blog.getcloudapp.com"/>
 			<outline text="Junecloud // All Entries" title="Junecloud // All Entries" type="rss" xmlUrl="http://junecloud.com/rss/" htmlUrl="http://junecloud.com/"/>
 			<outline text="Wolfram|Alpha Blog" title="Wolfram|Alpha Blog" type="rss" xmlUrl="http://blog.wolframalpha.com/feed/" htmlUrl="http://blog.wolframalpha.com"/>
