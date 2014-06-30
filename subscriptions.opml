@@ -255,6 +255,7 @@
 		<outline text="Kenneth Auchenberg" title="Kenneth Auchenberg" type="rss" xmlUrl="http://kenneth.io/atom.xml" htmlUrl="http://kenneth.io/"/>
 		<outline text="GitHub API Changes" title="GitHub API Changes" type="rss" xmlUrl="https://developer.github.com/changes.atom" htmlUrl="http://developer.github.com/changes.atom"/>
 		<outline text="HOLDING PATTERN" title="HOLDING PATTERN" type="rss" xmlUrl="http://holding-pattern.tumblr.com/rss" htmlUrl="http://holding-pattern.tumblr.com/"/>
+		<outline text="Podio Engineering Blog" title="Podio Engineering Blog" type="rss" xmlUrl="http://engineering.podio.com/feed/" htmlUrl="http://engineering.podio.com"/>
 		<outline text="bankrupt" title="bankrupt">
 			<outline text="Hacker News 50" title="Hacker News 50" type="rss" xmlUrl="http://feeds.feedburner.com/hacker-news-feed-50?format=xml" htmlUrl="http://news.ycombinator.com"/>
 			<outline text="Devour" title="Devour" type="rss" xmlUrl="http://feeds.feedburner.com/devourfeed" htmlUrl="http://devour.com/"/>
@@ -508,6 +509,7 @@
 			<outline text="Foursquare Badges Information | How to Unlock Foursquare Badges" title="Foursquare Badges Information | How to Unlock Foursquare Badges" type="rss" xmlUrl="http://feeds.feedburner.com/4sqaddict?format=xml" htmlUrl="http://foursquareaddict.info"/>
 			<outline text="Dinosaur Polo Club" title="Dinosaur Polo Club" type="rss" xmlUrl="http://devlog.dinopoloclub.com/rss" htmlUrl="http://devlog.dinopoloclub.com"/>
 			<outline text="GitHub API Changes" title="GitHub API Changes" type="rss" xmlUrl="https://developer.github.com/changes.atom" htmlUrl="http://developer.github.com/changes.atom"/>
+			<outline text="Podio Engineering Blog" title="Podio Engineering Blog" type="rss" xmlUrl="http://engineering.podio.com/feed/" htmlUrl="http://engineering.podio.com"/>
 		</outline>
 	</body>
 </opml>
