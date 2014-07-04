@@ -2,7 +2,7 @@
 <opml version="1.0">
 	<head>
 		<title>RSS subscriptions for mail@matiassingers.com</title>
-		<dateCreated>Sun, 29 Jun 2014 23:56:16 -0500</dateCreated>
+		<dateCreated>Fri, 04 Jul 2014 09:58:02 -0500</dateCreated>
 		<ownerEmail>mail@matiassingers.com</ownerEmail>
 	</head>
 	<body>
@@ -163,6 +163,7 @@
 		<outline text="Geek &amp; Mild" title="Geek &amp; Mild" type="rss" xmlUrl="http://seansperte.com/rss" htmlUrl="http://seansperte.com/"/>
 		<outline text="MyInkBlog" title="MyInkBlog" type="rss" xmlUrl="http://feeds.feedburner.com/MyInkBlog" htmlUrl="http://www.myinkblog.com"/>
 		<outline text="Jack Osborne — Freelance Web Designer Glasgow" title="Jack Osborne — Freelance Web Designer Glasgow" type="rss" xmlUrl="http://feeds.feedburner.com/jackosbornecouk" htmlUrl="http://jackosborne.com"/>
+		<outline text="Schedvin" title="Schedvin" type="rss" xmlUrl="http://theclassyissue.com/rss" htmlUrl="http://theclassyissue.com/"/>
 		<outline text="AaronMahnke.com" title="AaronMahnke.com" type="rss" xmlUrl="http://feeds.uri.lv/aaronmahnke" htmlUrl="http://aaronmahnke.com"/>
 		<outline text="Uber Blog" title="Uber Blog" type="rss" xmlUrl="http://blog.uber.com/feed/" htmlUrl="http://blog.uber.com"/>
 		<outline text="Aerotwist Blog" title="Aerotwist Blog" type="rss" xmlUrl="http://aerotwist.com/blog/feed/" htmlUrl="http://aerotwist.com/blog/feed/"/>
@@ -448,6 +449,7 @@
 			<outline text="Animals Being Dicks" title="Animals Being Dicks" type="rss" xmlUrl="http://animalsbeingdicks.com/rss" htmlUrl="http://animalsbeingdicks.com/"/>
 			<outline text="Black and WTF" title="Black and WTF" type="rss" xmlUrl="http://blackandwtf.tumblr.com/rss" htmlUrl="http://blackandwtf.tumblr.com/"/>
 			<outline text="convoy" title="convoy" type="rss" xmlUrl="http://convoy.tumblr.com/rss" htmlUrl="http://convoy.tumblr.com/"/>
+			<outline text="Schedvin" title="Schedvin" type="rss" xmlUrl="http://theclassyissue.com/rss" htmlUrl="http://theclassyissue.com/"/>
 			<outline text="ARCHIPHILE" title="ARCHIPHILE" type="rss" xmlUrl="http://archiphile.tumblr.com/rss" htmlUrl="http://archiphile.tumblr.com/"/>
 			<outline text="THISISNOTNEW|TUMBLR" title="THISISNOTNEW|TUMBLR" type="rss" xmlUrl="http://thisisnotnew.tumblr.com/rss" htmlUrl="http://thisisnotnew.tumblr.com/"/>
 			<outline text="Male Minded" title="Male Minded" type="rss" xmlUrl="http://maleminded.tumblr.com/rss" htmlUrl="http://maleminded.tumblr.com/"/>
