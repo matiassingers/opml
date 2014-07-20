@@ -259,6 +259,7 @@
 		<outline text="GitHub API Changes" title="GitHub API Changes" type="rss" xmlUrl="https://developer.github.com/changes.atom" htmlUrl="http://developer.github.com/changes.atom"/>
 		<outline text="HOLDING PATTERN" title="HOLDING PATTERN" type="rss" xmlUrl="http://holding-pattern.tumblr.com/rss" htmlUrl="http://holding-pattern.tumblr.com/"/>
 		<outline text="Podio Engineering Blog" title="Podio Engineering Blog" type="rss" xmlUrl="http://engineering.podio.com/feed/" htmlUrl="http://engineering.podio.com"/>
+		<outline text="SaraSoueidan.com" title="SaraSoueidan.com" type="rss" xmlUrl="http://feeds.feedburner.com/sarasoueidan?format=xml" htmlUrl="http://sarasoueidan.com"/>
 		<outline text="bankrupt" title="bankrupt">
 			<outline text="Hacker News 50" title="Hacker News 50" type="rss" xmlUrl="http://feeds.feedburner.com/hacker-news-feed-50?format=xml" htmlUrl="http://news.ycombinator.com"/>
 			<outline text="Devour" title="Devour" type="rss" xmlUrl="http://feeds.feedburner.com/devourfeed" htmlUrl="http://devour.com/"/>
@@ -423,6 +424,7 @@
 			<outline text="Redsgned" title="Redsgned" type="rss" xmlUrl="http://redsgned.com/feed/" htmlUrl="http://redsgned.com"/>
 			<outline text="Arbitrary + SuperFriendly build an app" title="Arbitrary + SuperFriendly build an app" type="rss" xmlUrl="http://howtobuildanapp.tumblr.com/rss" htmlUrl="http://howtobuildanapp.tumblr.com/"/>
 			<outline text="Kenneth Auchenberg" title="Kenneth Auchenberg" type="rss" xmlUrl="http://kenneth.io/atom.xml" htmlUrl="http://kenneth.io/"/>
+			<outline text="SaraSoueidan.com" title="SaraSoueidan.com" type="rss" xmlUrl="http://feeds.feedburner.com/sarasoueidan?format=xml" htmlUrl="http://sarasoueidan.com"/>
 		</outline>
 		<outline text="danish" title="danish">
 			<outline text="microformats.dk" title="microformats.dk" type="rss" xmlUrl="http://www.microformats.dk/feed/" htmlUrl="http://www.microformats.dk"/>
