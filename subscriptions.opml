@@ -249,6 +249,7 @@
 		<outline text="The Guardian Developer blog | theguardian.com" title="The Guardian Developer blog | theguardian.com" type="rss" xmlUrl="http://www.theguardian.com/info/developer-blog/rss" htmlUrl="http://www.theguardian.com/info/developer-blog"/>
 		<outline text="Foursquare Badges Information | How to Unlock Foursquare Badges" title="Foursquare Badges Information | How to Unlock Foursquare Badges" type="rss" xmlUrl="http://feeds.feedburner.com/4sqaddict?format=xml" htmlUrl="http://foursquareaddict.info"/>
 		<outline text="Randoom" title="Randoom" type="rss" xmlUrl="http://feeds.feedburner.com/friism/sLZw?format=xml" htmlUrl="http://friism.com"/>
+		<outline text="Google Ventures" title="Google Ventures" type="rss" xmlUrl="http://feeds.feedburner.com/GVLibrary" htmlUrl="http://www.gv.com"/>
 		<outline text="Mismo - Updates" title="Mismo - Updates" type="rss" xmlUrl="http://www.mismo.dk/blogs/news.atom" htmlUrl="http://www.mismo.dk/blogs/news"/>
 		<outline text="Screen shots of computer code" title="Screen shots of computer code" type="rss" xmlUrl="http://moviecode.tumblr.com/rss" htmlUrl="http://moviecode.tumblr.com"/>
 		<outline text="Dinosaur Polo Club" title="Dinosaur Polo Club" type="rss" xmlUrl="http://devlog.dinopoloclub.com/rss" htmlUrl="http://devlog.dinopoloclub.com"/>
@@ -423,6 +424,7 @@
 			<outline text="Both Sides of the Table" title="Both Sides of the Table" type="rss" xmlUrl="http://www.bothsidesofthetable.com/feed/" htmlUrl="http://www.bothsidesofthetable.com"/>
 			<outline text="Redsgned" title="Redsgned" type="rss" xmlUrl="http://redsgned.com/feed/" htmlUrl="http://redsgned.com"/>
 			<outline text="Arbitrary + SuperFriendly build an app" title="Arbitrary + SuperFriendly build an app" type="rss" xmlUrl="http://howtobuildanapp.tumblr.com/rss" htmlUrl="http://howtobuildanapp.tumblr.com/"/>
+			<outline text="Google Ventures" title="Google Ventures" type="rss" xmlUrl="http://feeds.feedburner.com/GVLibrary" htmlUrl="http://www.gv.com"/>
 			<outline text="Kenneth Auchenberg" title="Kenneth Auchenberg" type="rss" xmlUrl="http://kenneth.io/atom.xml" htmlUrl="http://kenneth.io/"/>
 			<outline text="SaraSoueidan.com" title="SaraSoueidan.com" type="rss" xmlUrl="http://feeds.feedburner.com/sarasoueidan?format=xml" htmlUrl="http://sarasoueidan.com"/>
 		</outline>
