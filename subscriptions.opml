@@ -54,6 +54,7 @@
 		<outline text="Panic Blog" title="Panic Blog" type="rss" xmlUrl="http://www.panic.com/blog/feed/" htmlUrl="http://www.panic.com/blog"/>
 		<outline text="National Geographic Found" title="National Geographic Found" type="rss" xmlUrl="http://natgeofound.tumblr.com/rss" htmlUrl="http://natgeofound.tumblr.com/"/>
 		<outline text="Bridging the Nerd Gap" title="Bridging the Nerd Gap" type="rss" xmlUrl="http://feeds.feedburner.com/NerdGap" htmlUrl="http://nerdgap.com"/>
+		<outline text="McSweeney’s" title="McSweeney’s" type="rss" xmlUrl="http://feeds.feedburner.com/mcsweeneys" htmlUrl="http://www.mcsweeneys.net/tendency"/>
 		<outline text="Hypertext" title="Hypertext" type="rss" xmlUrl="http://feeds.feedburner.com/jblanton" htmlUrl="http://hypertext.net"/>
 		<outline text="TightWind" title="TightWind" type="rss" xmlUrl="http://feeds.feedburner.com/tightwind" htmlUrl="http://tightwind.net"/>
 		<outline text="The Oatmeal - Comics, Quizzes, &amp; Stories" title="The Oatmeal - Comics, Quizzes, &amp; Stories" type="rss" xmlUrl="http://feeds.feedburner.com/oatmealfeed" htmlUrl="http://theoatmeal.com/"/>
