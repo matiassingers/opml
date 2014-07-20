@@ -49,6 +49,7 @@
 		<outline text="awesome people hanging out together" title="awesome people hanging out together" type="rss" xmlUrl="http://awesomepeoplehangingouttogether.tumblr.com/rss" htmlUrl="http://awesomepeoplehangingouttogether.tumblr.com/"/>
 		<outline text="43 Folders" title="43 Folders" type="rss" xmlUrl="http://feeds.feedburner.com/43folders" htmlUrl="http://www.43folders.com"/>
 		<outline text="Instapaper Blog" title="Instapaper Blog" type="rss" xmlUrl="http://blog.instapaper.com/rss" htmlUrl="http://blog.instapaper.com/"/>
+		<outline text="Idle Words" title="Idle Words" type="rss" xmlUrl="http://www.idlewords.com/index.xml" htmlUrl="http://idlewords.com"/>
 		<outline text="lonelysandwich" title="lonelysandwich" type="rss" xmlUrl="http://lonelysandwich.com/rss" htmlUrl="http://lonelysandwich.com/"/>
 		<outline text="stevenf.com" title="stevenf.com" type="rss" xmlUrl="http://stevenf.tumblr.com/rss" htmlUrl="http://stevenf.tumblr.com/"/>
 		<outline text="Panic Blog" title="Panic Blog" type="rss" xmlUrl="http://www.panic.com/blog/feed/" htmlUrl="http://www.panic.com/blog"/>
@@ -300,6 +301,7 @@
 			<outline text="MetaLab" title="MetaLab" type="rss" xmlUrl="http://feeds2.feedburner.com/metalabredesign" htmlUrl="http://blog.metalabdesign.com/"/>
 			<outline text="Venture Hacks" title="Venture Hacks" type="rss" xmlUrl="http://feeds.venturehacks.com/venturehacks" htmlUrl="http://venturehacks.com"/>
 			<outline text="43 Folders" title="43 Folders" type="rss" xmlUrl="http://feeds.feedburner.com/43folders" htmlUrl="http://www.43folders.com"/>
+			<outline text="Idle Words" title="Idle Words" type="rss" xmlUrl="http://www.idlewords.com/index.xml" htmlUrl="http://idlewords.com"/>
 			<outline text="lonelysandwich" title="lonelysandwich" type="rss" xmlUrl="http://lonelysandwich.com/rss" htmlUrl="http://lonelysandwich.com/"/>
 			<outline text="stevenf.com" title="stevenf.com" type="rss" xmlUrl="http://stevenf.tumblr.com/rss" htmlUrl="http://stevenf.tumblr.com/"/>
 			<outline text="Bridging the Nerd Gap" title="Bridging the Nerd Gap" type="rss" xmlUrl="http://feeds.feedburner.com/NerdGap" htmlUrl="http://nerdgap.com"/>
