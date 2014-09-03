@@ -119,6 +119,7 @@
 		<outline text="Sam Brown" title="Sam Brown" type="rss" xmlUrl="http://feeds.feedburner.com/massiveblue/sam" htmlUrl="http://sam.brown.tc/"/>
 		<outline text="Badass of the Week" title="Badass of the Week" type="rss" xmlUrl="http://www.badassoftheweek.com/rss.xml" htmlUrl="http://www.badassoftheweek.com"/>
 		<outline text="Beautiful Pixels" title="Beautiful Pixels" type="rss" xmlUrl="http://beautifulpixels.com/feed/" htmlUrl="http://beautifulpixels.com"/>
+		<outline text="The Loop" title="The Loop" type="rss" xmlUrl="http://www.loopinsight.com/feed/" htmlUrl="http://www.loopinsight.com"/>
 		<outline text="A Working Library: All" title="A Working Library: All" type="rss" xmlUrl="http://aworkinglibrary.com/library/rss_all/" htmlUrl="http://www.aworkinglibrary.com"/>
 		<outline text="ParisLemon" title="ParisLemon" type="rss" xmlUrl="http://feeds.feedburner.com/parislemon" htmlUrl="http://parislemon.com/"/>
 		<outline text="1001 rules for my unborn son" title="1001 rules for my unborn son" type="rss" xmlUrl="http://rulesformyunbornson.tumblr.com/rss" htmlUrl="http://rulesformyunbornson.tumblr.com/"/>
