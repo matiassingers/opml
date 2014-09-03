@@ -128,7 +128,6 @@
 		<outline text="WebKitbits" title="WebKitbits" type="rss" xmlUrl="http://feeds.webkitbits.com/WebKitBits" htmlUrl="http://www.webkitbits.com/"/>
 		<outline text="Black and WTF" title="Black and WTF" type="rss" xmlUrl="http://blackandwtf.tumblr.com/rss" htmlUrl="http://blackandwtf.tumblr.com/"/>
 		<outline text="nikf.org" title="nikf.org" type="rss" xmlUrl="http://feeds.feedburner.com/nikf" htmlUrl="http://nikf.org/"/>
-		<outline text="Inside Facebook" title="Inside Facebook" type="rss" xmlUrl="http://feeds.feedburner.com/InsideFacebook" htmlUrl="http://www.insidefacebook.com"/>
 		<outline text="miekd" title="miekd" type="rss" xmlUrl="http://feeds.feedburner.com/miekd" htmlUrl="http://miekd.com"/>
 		<outline text="microformats.dk" title="microformats.dk" type="rss" xmlUrl="http://www.microformats.dk/feed/" htmlUrl="http://www.microformats.dk"/>
 		<outline text="Morten Just og Rock" title="Morten Just og Rock" type="rss" xmlUrl="http://feeds.feedburner.com/GenstartOgRock" htmlUrl="http://mortenjust.com"/>
@@ -268,7 +267,6 @@
 		<outline text="bankrupt" title="bankrupt">
 			<outline text="Hacker News 50" title="Hacker News 50" type="rss" xmlUrl="http://feeds.feedburner.com/hacker-news-feed-50?format=xml" htmlUrl="http://news.ycombinator.com"/>
 			<outline text="Devour" title="Devour" type="rss" xmlUrl="http://feeds.feedburner.com/devourfeed" htmlUrl="http://devour.com/"/>
-			<outline text="Inside Facebook" title="Inside Facebook" type="rss" xmlUrl="http://feeds.feedburner.com/InsideFacebook" htmlUrl="http://www.insidefacebook.com"/>
 			<outline text="Skift" title="Skift" type="rss" xmlUrl="http://skift.com/feed/" htmlUrl="http://skift.com"/>
 			<outline text="Tech in Asia" title="Tech in Asia" type="rss" xmlUrl="http://feeds.feedburner.com/PennOlson?format=xml" htmlUrl="http://www.techinasia.com"/>
 		</outline>
