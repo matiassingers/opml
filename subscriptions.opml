@@ -259,6 +259,7 @@
 		<outline text="SaraSoueidan.com" title="SaraSoueidan.com" type="rss" xmlUrl="http://feeds.feedburner.com/sarasoueidan?format=xml" htmlUrl="http://sarasoueidan.com"/>
 		<outline text="Swift Blog - Apple Developer" title="Swift Blog - Apple Developer" type="rss" xmlUrl="https://developer.apple.com/swift/blog/news.rss" htmlUrl="http://developer.apple.com/swift/blog/"/>
 		<outline text="Layovers" title="Layovers" type="rss" xmlUrl="http://www.layovers.to/hub?format=RSS" htmlUrl="http://www.layovers.to/"/>
+		<outline text="Setosa blog" title="Setosa blog" type="rss" xmlUrl="http://setosa.io/blog/feed.xml" htmlUrl="http://setosa.io/blog/"/>
 		<outline text="One Mile at a Time" title="One Mile at a Time" type="rss" xmlUrl="http://onemileatatime.boardingarea.com/feed/" htmlUrl="http://onemileatatime.boardingarea.com"/>
 		<outline text="Alexander Jarvis" title="Alexander Jarvis" type="rss" xmlUrl="http://alexanderjarvis.com/feed/" htmlUrl="http://alexanderjarvis.com"/>
 		<outline text="aviation" title="aviation">
@@ -427,6 +428,7 @@
 			<outline text="Google Ventures" title="Google Ventures" type="rss" xmlUrl="http://feeds.feedburner.com/GVLibrary" htmlUrl="http://www.gv.com"/>
 			<outline text="Kenneth Auchenberg" title="Kenneth Auchenberg" type="rss" xmlUrl="http://kenneth.io/atom.xml" htmlUrl="http://kenneth.io/"/>
 			<outline text="SaraSoueidan.com" title="SaraSoueidan.com" type="rss" xmlUrl="http://feeds.feedburner.com/sarasoueidan?format=xml" htmlUrl="http://sarasoueidan.com"/>
+			<outline text="Setosa blog" title="Setosa blog" type="rss" xmlUrl="http://setosa.io/blog/feed.xml" htmlUrl="http://setosa.io/blog/"/>
 		</outline>
 		<outline text="danish" title="danish">
 			<outline text="microformats.dk" title="microformats.dk" type="rss" xmlUrl="http://www.microformats.dk/feed/" htmlUrl="http://www.microformats.dk"/>
