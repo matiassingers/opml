@@ -163,6 +163,7 @@
 		<outline text="Geek &amp; Mild" title="Geek &amp; Mild" type="rss" xmlUrl="http://seansperte.com/rss" htmlUrl="http://seansperte.com/"/>
 		<outline text="MyInkBlog" title="MyInkBlog" type="rss" xmlUrl="http://feeds.feedburner.com/MyInkBlog" htmlUrl="http://www.myinkblog.com"/>
 		<outline text="Jack Osborne — Freelance Web Designer Glasgow" title="Jack Osborne — Freelance Web Designer Glasgow" type="rss" xmlUrl="http://feeds.feedburner.com/jackosbornecouk" htmlUrl="http://jackosborne.com"/>
+		<outline text="Eat Drink KL" title="Eat Drink KL" type="rss" xmlUrl="http://eatdrinkkl.blogspot.com/feeds/posts/default" htmlUrl="http://eatdrinkkl.blogspot.com/"/>
 		<outline text="Schedvin" title="Schedvin" type="rss" xmlUrl="http://theclassyissue.com/rss" htmlUrl="http://theclassyissue.com/"/>
 		<outline text="AaronMahnke.com" title="AaronMahnke.com" type="rss" xmlUrl="http://feeds.uri.lv/aaronmahnke" htmlUrl="http://aaronmahnke.com"/>
 		<outline text="Uber Blog" title="Uber Blog" type="rss" xmlUrl="http://blog.uber.com/feed/" htmlUrl="http://blog.uber.com"/>
