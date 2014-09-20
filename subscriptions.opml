@@ -7,6 +7,7 @@
 	</head>
 	<body>
 		<outline text="Six Colors" title="Six Colors" type="rss" xmlUrl="http://feedpress.me/sixcolors" htmlUrl="http://www.sixcolors.com/"/>
+		<outline text="Elliot Jay Stocks" title="Elliot Jay Stocks" type="rss" xmlUrl="http://feeds.feedburner.com/elliotjaystocks/" htmlUrl="http://elliotjaystocks.com/blog/"/>
 		<outline text="xkcd.com" title="xkcd.com" type="rss" xmlUrl="http://xkcd.com/atom.xml" htmlUrl="http://xkcd.com/"/>
 		<outline text="josh.com" title="josh.com" type="rss" xmlUrl="http://wp.josh.com/feed/" htmlUrl="http://wp.josh.com"/>
 		<outline text="Eat Drink KL" title="Eat Drink KL" type="rss" xmlUrl="http://eatdrinkkl.blogspot.com/feeds/posts/default" htmlUrl="http://eatdrinkkl.blogspot.com/"/>
@@ -143,7 +144,6 @@
 		<outline text="seat-life." title="seat-life." type="rss" xmlUrl="http://seat-life.tumblr.com/rss" htmlUrl="http://seat-life.tumblr.com/"/>
 		<outline text="teddy-risation" title="teddy-risation" type="rss" xmlUrl="http://teddy-o-ted.com/feed/" htmlUrl="http://teddy-o-ted.com"/>
 		<outline text="A List Apart: The Full Feed" title="A List Apart: The Full Feed" type="rss" xmlUrl="http://feeds.feedburner.com/alistapart/main" htmlUrl="http://www.alistapart.com/articles/"/>
-		<outline text="Elliot Jay Stocks" title="Elliot Jay Stocks" type="rss" xmlUrl="http://feeds2.feedburner.com/elliotjaystocks" htmlUrl="http://feeds2.feedburner.com/elliotjaystocks"/>
 		<outline text="Flying With Fish" title="Flying With Fish" type="rss" xmlUrl="http://feeds.feedblitz.com/FlyingWithFish" htmlUrl="http://boardingarea.com/blogs/flyingwithfish"/>
 		<outline text="NOMO Design Shop" title="NOMO Design Shop" type="rss" xmlUrl="http://shop.nomodesign.com/products.rss" htmlUrl="http://shop.nomodesign.com"/>
 		<outline text="HUSK CHILI" title="HUSK CHILI" type="rss" xmlUrl="http://huskchili.tumblr.com/rss" htmlUrl="http://huskchili.tumblr.com/"/>
@@ -352,13 +352,13 @@
 			<outline text="Impressive Webs" title="Impressive Webs" type="rss" xmlUrl="http://feeds.feedburner.com/ImpressiveWebs" htmlUrl="http://www.impressivewebs.com"/>
 			<outline text="Pat Dryburgh" title="Pat Dryburgh" type="rss" xmlUrl="http://feeds.feedburner.com/patdryburgh" htmlUrl="http://feeds.feedburner.com/patdryburgh"/>
 			<outline text="Monday By Noon" title="Monday By Noon" type="rss" xmlUrl="http://mondaybynoon.com/feed/" htmlUrl="http://mondaybynoon.com"/>
+			<outline text="Elliot Jay Stocks" title="Elliot Jay Stocks" type="rss" xmlUrl="http://feeds.feedburner.com/elliotjaystocks/" htmlUrl="http://elliotjaystocks.com/blog/"/>
 			<outline text="less is more by Kevin Rose" title="less is more by Kevin Rose" type="rss" xmlUrl="http://kevinrose.com/feed" htmlUrl="http://feeds.feedburner.com/krose"/>
 			<outline text="Ministry of Type" title="Ministry of Type" type="rss" xmlUrl="http://ministryoftype.co.uk/words/rss/" htmlUrl="http://ministryoftype.co.uk/"/>
 			<outline text="chartsnthings" title="chartsnthings" type="rss" xmlUrl="http://chartsnthings.tumblr.com/rss" htmlUrl="http://chartsnthings.tumblr.com/"/>
 			<outline text="A. King in Society" title="A. King in Society" type="rss" xmlUrl="http://feeds.feedburner.com/akinginsociety" htmlUrl="http://b.aking.ca/"/>
 			<outline text="Andy Croll" title="Andy Croll" type="rss" xmlUrl="http://feeds2.feedburner.com/andycroll" htmlUrl="http://feeds2.feedburner.com/andycroll"/>
 			<outline text="Craig Mod - Considering the future of books, publishing and storytelling" title="Craig Mod - Considering the future of books, publishing and storytelling" type="rss" xmlUrl="http://feeds.feedburner.com/craigmod/" htmlUrl="http://craigmod.com/"/>
-			<outline text="Elliot Jay Stocks" title="Elliot Jay Stocks" type="rss" xmlUrl="http://feeds2.feedburner.com/elliotjaystocks" htmlUrl="http://feeds2.feedburner.com/elliotjaystocks"/>
 			<outline text="Joshua Blankenship | Blog" title="Joshua Blankenship | Blog" type="rss" xmlUrl="http://feeds.feedburner.com/joshuablankenship" htmlUrl="http://joshuablankenship.com/blog"/>
 			<outline text="KaishinLab" title="KaishinLab" type="rss" xmlUrl="http://feeds.feedburner.com/kaishinlab" htmlUrl="http://kaishinlab.com"/>
 			<outline text="Revert to Saved" title="Revert to Saved" type="rss" xmlUrl="http://reverttosaved.com/feed/" htmlUrl="http://reverttosaved.com"/>
