@@ -7,6 +7,7 @@
 	</head>
 	<body>
 		<outline text="Frequent Flyer University" title="Frequent Flyer University" type="rss" xmlUrl="http://frequentflyeruniversity.boardingarea.com/feed/" htmlUrl="http://frequentflyeruniversity.boardingarea.com"/>
+		<outline text="Hack My Trip" title="Hack My Trip" type="rss" xmlUrl="http://feeds.feedburner.com/hackmytripfeed" htmlUrl="http://hackmytrip.com"/>
 		<outline text="Six Colors" title="Six Colors" type="rss" xmlUrl="http://feedpress.me/sixcolors" htmlUrl="http://www.sixcolors.com/"/>
 		<outline text="Elliot Jay Stocks" title="Elliot Jay Stocks" type="rss" xmlUrl="http://feeds.feedburner.com/elliotjaystocks/" htmlUrl="http://elliotjaystocks.com/blog/"/>
 		<outline text="xkcd.com" title="xkcd.com" type="rss" xmlUrl="http://xkcd.com/atom.xml" htmlUrl="http://xkcd.com/"/>
@@ -267,6 +268,7 @@
 		<outline text="Y Combinator Posthaven" title="Y Combinator Posthaven" type="rss" xmlUrl="http://blog.ycombinator.com/posts.atom" htmlUrl="http://ycombinator.posterous.com"/>
 		<outline text="aviation" title="aviation">
 			<outline text="Flying With Fish" title="Flying With Fish" type="rss" xmlUrl="http://feeds.feedblitz.com/FlyingWithFish" htmlUrl="http://boardingarea.com/blogs/flyingwithfish"/>
+			<outline text="Hack My Trip" title="Hack My Trip" type="rss" xmlUrl="http://feeds.feedburner.com/hackmytripfeed" htmlUrl="http://hackmytrip.com"/>
 			<outline text="Layovers" title="Layovers" type="rss" xmlUrl="http://www.layovers.to/hub?format=RSS" htmlUrl="http://www.layovers.to/"/>
 			<outline text="One Mile at a Time" title="One Mile at a Time" type="rss" xmlUrl="http://onemileatatime.boardingarea.com/feed/" htmlUrl="http://onemileatatime.boardingarea.com"/>
 			<outline text="Frequent Flyer University" title="Frequent Flyer University" type="rss" xmlUrl="http://frequentflyeruniversity.boardingarea.com/feed/" htmlUrl="http://frequentflyeruniversity.boardingarea.com"/>
