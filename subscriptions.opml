@@ -183,7 +183,6 @@
 		<outline text="Big Week" title="Big Week" type="rss" xmlUrl="http://feeds.feedburner.com/big-week" htmlUrl="http://bigweek.co/"/>
 		<outline text="The Lively Morgue" title="The Lively Morgue" type="rss" xmlUrl="http://livelymorgue.tumblr.com/rss" htmlUrl="http://livelymorgue.tumblr.com/"/>
 		<outline text="gregorywood.co.uk - Journal RSS Feed" title="gregorywood.co.uk - Journal RSS Feed" type="rss" xmlUrl="http://feeds.feedburner.com/gregorywood" htmlUrl="http://gregorywood.co.uk"/>
-		<outline text="The Art of Non-Conformity » 3×5" title="The Art of Non-Conformity » 3×5" type="rss" xmlUrl="http://chrisguillebeau.com/3x5/feed/" htmlUrl="http://chrisguillebeau.com"/>
 		<outline text="cubicle 17" title="cubicle 17" type="rss" xmlUrl="http://feeds.feedburner.com/cubicle17" htmlUrl="http://cubicle17.com/"/>
 		<outline text="furbo.org" title="furbo.org" type="rss" xmlUrl="http://furbo.org/feed/" htmlUrl="http://furbo.org"/>
 		<outline text="Adactio: Journal" title="Adactio: Journal" type="rss" xmlUrl="http://adactio.com/journal/rss/" htmlUrl="http://adactio.com/journal/"/>
@@ -379,7 +378,6 @@
 			<outline text="Flying With Fish" title="Flying With Fish" type="rss" xmlUrl="http://feeds.feedblitz.com/FlyingWithFish" htmlUrl="http://boardingarea.com/blogs/flyingwithfish"/>
 			<outline text="Minimalissimo" title="Minimalissimo" type="rss" xmlUrl="http://feeds.feedburner.com/Minimalissimo" htmlUrl="http://minimalissimo.com"/>
 			<outline text="I am Paddy" title="I am Paddy" type="rss" xmlUrl="http://feeds.feedburner.com/iampaddy" htmlUrl="http://blog.iampaddy.com"/>
-			<outline text="The Art of Non-Conformity » 3×5" title="The Art of Non-Conformity » 3×5" type="rss" xmlUrl="http://chrisguillebeau.com/3x5/feed/" htmlUrl="http://chrisguillebeau.com"/>
 			<outline text="Kyle Meyer" title="Kyle Meyer" type="rss" xmlUrl="http://feeds.feedburner.com/astheria" htmlUrl="http://blog.kylemeyer.com/"/>
 			<outline text="Quotes on Design" title="Quotes on Design" type="rss" xmlUrl="http://feeds.feedburner.com/QuotesOnDesign" htmlUrl="http://quotesondesign.com"/>
 			<outline text="The Color Machine" title="The Color Machine" type="rss" xmlUrl="http://thecolormachine.com/feed/" htmlUrl="http://thecolormachine.com"/>
