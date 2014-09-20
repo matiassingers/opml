@@ -239,7 +239,6 @@
 		<outline text="The Big Picture" title="The Big Picture" type="rss" xmlUrl="http://feeds.boston.com/boston/bigpicture/index" htmlUrl="http://www.boston.com/bigpicture/"/>
 		<outline text="chartsnthings Links" title="chartsnthings Links" type="rss" xmlUrl="http://kpq.github.io/chartsnthings/atom.xml" htmlUrl="http://kpq.github.io/chartsnthings"/>
 		<outline text="Steven Frank's Posts" title="Steven Frank's Posts" type="rss" xmlUrl="http://stevenf.com/index.xml" htmlUrl="http://stevenf.com"/>
-		<outline text="Andy Croll" title="Andy Croll" type="rss" xmlUrl="http://feeds2.feedburner.com/andycroll" htmlUrl="http://feeds2.feedburner.com/andycroll"/>
 		<outline text="AaronMahnke.com" title="AaronMahnke.com" type="rss" xmlUrl="http://feeds.uri.lv/aaronmahnke" htmlUrl="http://aaronmahnke.com"/>
 		<outline text="▲ KIDS ON CRACK ▲" title="▲ KIDS ON CRACK ▲" type="rss" xmlUrl="http://www.kidsoncrack.co.nz/rss" htmlUrl="http://www.kidsoncrack.co.nz/"/>
 		<outline text="Subtraction.com" title="Subtraction.com" type="rss" xmlUrl="http://feeds.feedburner.com/subtraction" htmlUrl="http://www.subtraction.com/"/>
@@ -355,7 +354,6 @@
 			<outline text="Ministry of Type" title="Ministry of Type" type="rss" xmlUrl="http://ministryoftype.co.uk/words/rss/" htmlUrl="http://ministryoftype.co.uk/"/>
 			<outline text="chartsnthings" title="chartsnthings" type="rss" xmlUrl="http://chartsnthings.tumblr.com/rss" htmlUrl="http://chartsnthings.tumblr.com/"/>
 			<outline text="A. King in Society" title="A. King in Society" type="rss" xmlUrl="http://feeds.feedburner.com/akinginsociety" htmlUrl="http://b.aking.ca/"/>
-			<outline text="Andy Croll" title="Andy Croll" type="rss" xmlUrl="http://feeds2.feedburner.com/andycroll" htmlUrl="http://feeds2.feedburner.com/andycroll"/>
 			<outline text="Craig Mod - Considering the future of books, publishing and storytelling" title="Craig Mod - Considering the future of books, publishing and storytelling" type="rss" xmlUrl="http://feeds.feedburner.com/craigmod/" htmlUrl="http://craigmod.com/"/>
 			<outline text="Joshua Blankenship | Blog" title="Joshua Blankenship | Blog" type="rss" xmlUrl="http://feeds.feedburner.com/joshuablankenship" htmlUrl="http://joshuablankenship.com/blog"/>
 			<outline text="KaishinLab" title="KaishinLab" type="rss" xmlUrl="http://feeds.feedburner.com/kaishinlab" htmlUrl="http://kaishinlab.com"/>
