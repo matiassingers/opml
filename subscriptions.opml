@@ -86,7 +86,6 @@
 		<outline text="Dan Shapiro" title="Dan Shapiro" type="rss" xmlUrl="http://feeds.feedburner.com/DanShapiro" htmlUrl="http://www.danshapiro.com/blog"/>
 		<outline text="Coin" title="Coin" type="rss" xmlUrl="http://blog.onlycoin.com/posts?format=rss" htmlUrl="http://blog.onlycoin.com/"/>
 		<outline text="Felt Tip blog" title="Felt Tip blog" type="rss" xmlUrl="http://felttip.tumblr.com/rss" htmlUrl="http://felttip.tumblr.com/"/>
-		<outline text="imjustcreative–Graham Smith: Logo Designer" title="imjustcreative–Graham Smith: Logo Designer" type="rss" xmlUrl="http://feeds2.feedburner.com/imjustcreative" htmlUrl="http://imjustcreative.com"/>
 		<outline text="Bret Victor's website" title="Bret Victor's website" type="rss" xmlUrl="http://worrydream.com/feed.xml" htmlUrl="http://worrydream.com/"/>
 		<outline text="Wolfram|Alpha Blog" title="Wolfram|Alpha Blog" type="rss" xmlUrl="http://blog.wolframalpha.com/feed/" htmlUrl="http://blog.wolframalpha.com"/>
 		<outline text="Lickability Blog" title="Lickability Blog" type="rss" xmlUrl="http://blog.lickability.com/rss" htmlUrl="http://blog.lickability.com/"/>
@@ -347,7 +346,6 @@
 			<outline text="The Design Cubicle" title="The Design Cubicle" type="rss" xmlUrl="http://feeds.feedburner.com/thedesigncubicle/ioNz" htmlUrl="http://www.thedesigncubicle.com"/>
 			<outline text="The Grid System" title="The Grid System" type="rss" xmlUrl="http://feeds.feedburner.com/TheGridSystem" htmlUrl="http://www.thegridsystem.org"/>
 			<outline text="Line25" title="Line25" type="rss" xmlUrl="http://feeds.feedburner.com/Line25" htmlUrl="http://line25.com"/>
-			<outline text="imjustcreative–Graham Smith: Logo Designer" title="imjustcreative–Graham Smith: Logo Designer" type="rss" xmlUrl="http://feeds2.feedburner.com/imjustcreative" htmlUrl="http://imjustcreative.com"/>
 			<outline text="inessential.com" title="inessential.com" type="rss" xmlUrl="http://inessential.com/xml/rss.xml" htmlUrl="http://inessential.com/"/>
 			<outline text="Impressive Webs" title="Impressive Webs" type="rss" xmlUrl="http://feeds.feedburner.com/ImpressiveWebs" htmlUrl="http://www.impressivewebs.com"/>
 			<outline text="Pat Dryburgh" title="Pat Dryburgh" type="rss" xmlUrl="http://feeds.feedburner.com/patdryburgh" htmlUrl="http://feeds.feedburner.com/patdryburgh"/>
