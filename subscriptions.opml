@@ -265,6 +265,7 @@
 		<outline text="Google Ventures" title="Google Ventures" type="rss" xmlUrl="http://feeds.feedburner.com/GVLibrary" htmlUrl="http://www.gv.com"/>
 		<outline text="Y Combinator Posthaven" title="Y Combinator Posthaven" type="rss" xmlUrl="http://blog.ycombinator.com/posts.atom" htmlUrl="http://ycombinator.posterous.com"/>
 		<outline text="aviation" title="aviation">
+			<outline text="Flying With Fish" title="Flying With Fish" type="rss" xmlUrl="http://feeds.feedblitz.com/FlyingWithFish" htmlUrl="http://boardingarea.com/blogs/flyingwithfish"/>
 			<outline text="Layovers" title="Layovers" type="rss" xmlUrl="http://www.layovers.to/hub?format=RSS" htmlUrl="http://www.layovers.to/"/>
 			<outline text="One Mile at a Time" title="One Mile at a Time" type="rss" xmlUrl="http://onemileatatime.boardingarea.com/feed/" htmlUrl="http://onemileatatime.boardingarea.com"/>
 		</outline>
@@ -375,7 +376,6 @@
 			<outline text="Empty States" title="Empty States" type="rss" xmlUrl="http://emptystat.es/rss" htmlUrl="http://emptystat.es/"/>
 			<outline text="mnmlist" title="mnmlist" type="rss" xmlUrl="http://feeds.feedburner.com/mnmlist" htmlUrl="http://mnmlist.com"/>
 			<outline text="Hoban Letterpress" title="Hoban Letterpress" type="rss" xmlUrl="http://www.hobanpress.com/rss" htmlUrl="http://www.hobanpress.com/"/>
-			<outline text="Flying With Fish" title="Flying With Fish" type="rss" xmlUrl="http://feeds.feedblitz.com/FlyingWithFish" htmlUrl="http://boardingarea.com/blogs/flyingwithfish"/>
 			<outline text="Minimalissimo" title="Minimalissimo" type="rss" xmlUrl="http://feeds.feedburner.com/Minimalissimo" htmlUrl="http://minimalissimo.com"/>
 			<outline text="I am Paddy" title="I am Paddy" type="rss" xmlUrl="http://feeds.feedburner.com/iampaddy" htmlUrl="http://blog.iampaddy.com"/>
 			<outline text="Kyle Meyer" title="Kyle Meyer" type="rss" xmlUrl="http://feeds.feedburner.com/astheria" htmlUrl="http://blog.kylemeyer.com/"/>
