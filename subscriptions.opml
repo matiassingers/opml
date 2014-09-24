@@ -2,13 +2,12 @@
 <opml version="1.0">
 	<head>
 		<title>RSS subscriptions for mail@matiassingers.com</title>
-		<dateCreated>Sat, 20 Sep 2014 01:23:39 -0500</dateCreated>
+		<dateCreated>Wed, 24 Sep 2014 11:00:55 -0500</dateCreated>
 		<ownerEmail>mail@matiassingers.com</ownerEmail>
 	</head>
 	<body>
 		<outline text="Frequent Flyer University" title="Frequent Flyer University" type="rss" xmlUrl="http://frequentflyeruniversity.boardingarea.com/feed/" htmlUrl="http://frequentflyeruniversity.boardingarea.com"/>
 		<outline text="Hack My Trip" title="Hack My Trip" type="rss" xmlUrl="http://feeds.feedburner.com/hackmytripfeed" htmlUrl="http://hackmytrip.com"/>
-		<outline text="Bonusfeber.dk" title="Bonusfeber.dk" type="rss" xmlUrl="http://bonusfeber.dk/feed/" htmlUrl="http://bonusfeber.dk"/>
 		<outline text="Six Colors" title="Six Colors" type="rss" xmlUrl="http://feedpress.me/sixcolors" htmlUrl="http://www.sixcolors.com/"/>
 		<outline text="Elliot Jay Stocks" title="Elliot Jay Stocks" type="rss" xmlUrl="http://feeds.feedburner.com/elliotjaystocks/" htmlUrl="http://elliotjaystocks.com/blog/"/>
 		<outline text="xkcd.com" title="xkcd.com" type="rss" xmlUrl="http://xkcd.com/atom.xml" htmlUrl="http://xkcd.com/"/>
@@ -272,7 +271,6 @@
 			<outline text="Hack My Trip" title="Hack My Trip" type="rss" xmlUrl="http://feeds.feedburner.com/hackmytripfeed" htmlUrl="http://hackmytrip.com"/>
 			<outline text="Layovers" title="Layovers" type="rss" xmlUrl="http://www.layovers.to/hub?format=RSS" htmlUrl="http://www.layovers.to/"/>
 			<outline text="One Mile at a Time" title="One Mile at a Time" type="rss" xmlUrl="http://onemileatatime.boardingarea.com/feed/" htmlUrl="http://onemileatatime.boardingarea.com"/>
-			<outline text="Bonusfeber.dk" title="Bonusfeber.dk" type="rss" xmlUrl="http://bonusfeber.dk/feed/" htmlUrl="http://bonusfeber.dk"/>
 			<outline text="Frequent Flyer University" title="Frequent Flyer University" type="rss" xmlUrl="http://frequentflyeruniversity.boardingarea.com/feed/" htmlUrl="http://frequentflyeruniversity.boardingarea.com"/>
 		</outline>
 		<outline text="bankrupt" title="bankrupt">
