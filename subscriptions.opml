@@ -6,6 +6,7 @@
 		<ownerEmail>mail@matiassingers.com</ownerEmail>
 	</head>
 	<body>
+		<outline text="Chris Stucchio's Blog" title="Chris Stucchio's Blog" type="rss" xmlUrl="http://www.chrisstucchio.com/blog/atom.xml" htmlUrl="http://www.chrisstucchio.com/"/>
 		<outline text="Frequent Flyer University" title="Frequent Flyer University" type="rss" xmlUrl="http://frequentflyeruniversity.boardingarea.com/feed/" htmlUrl="http://frequentflyeruniversity.boardingarea.com"/>
 		<outline text="Hack My Trip" title="Hack My Trip" type="rss" xmlUrl="http://feeds.feedburner.com/hackmytripfeed" htmlUrl="http://hackmytrip.com"/>
 		<outline text="Six Colors" title="Six Colors" type="rss" xmlUrl="http://feedpress.me/sixcolors" htmlUrl="http://www.sixcolors.com/"/>
@@ -451,6 +452,9 @@
 			<outline text="Caliroots.com RSS" title="Caliroots.com RSS" type="rss" xmlUrl="http://caliroots.com/system/search/rss.asp?langid=44&amp;currency=DKK&amp;shopid=2&amp;type=latest" htmlUrl="http://caliroots.com"/>
 			<outline text="THE LOCALS » Men" title="THE LOCALS » Men" type="rss" xmlUrl="http://thelocals.dk/category/people/men/feed/" htmlUrl="http://thelocals.dk"/>
 			<outline text="Mismo - Updates" title="Mismo - Updates" type="rss" xmlUrl="http://www.mismo.dk/blogs/news.atom" htmlUrl="http://www.mismo.dk/blogs/news"/>
+		</outline>
+		<outline text="finance" title="finance">
+			<outline text="Chris Stucchio's Blog" title="Chris Stucchio's Blog" type="rss" xmlUrl="http://www.chrisstucchio.com/blog/atom.xml" htmlUrl="http://www.chrisstucchio.com/"/>
 		</outline>
 		<outline text="friends" title="friends">
 			<outline text="Simon Tørring" title="Simon Tørring" type="rss" xmlUrl="http://simontoerring.dk/feed/" htmlUrl="http://simontoerring.dk"/>
