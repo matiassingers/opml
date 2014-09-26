@@ -2,10 +2,11 @@
 <opml version="1.0">
 	<head>
 		<title>RSS subscriptions for mail@matiassingers.com</title>
-		<dateCreated>Wed, 24 Sep 2014 11:00:55 -0500</dateCreated>
+		<dateCreated>Fri, 26 Sep 2014 07:41:00 -0500</dateCreated>
 		<ownerEmail>mail@matiassingers.com</ownerEmail>
 	</head>
 	<body>
+		<outline text="Sniper In Mahwah" title="Sniper In Mahwah" type="rss" xmlUrl="http://sniperinmahwah.wordpress.com/feed/" htmlUrl="http://sniperinmahwah.wordpress.com"/>
 		<outline text="Chris Stucchio's Blog" title="Chris Stucchio's Blog" type="rss" xmlUrl="http://www.chrisstucchio.com/blog/atom.xml" htmlUrl="http://www.chrisstucchio.com/"/>
 		<outline text="Frequent Flyer University" title="Frequent Flyer University" type="rss" xmlUrl="http://frequentflyeruniversity.boardingarea.com/feed/" htmlUrl="http://frequentflyeruniversity.boardingarea.com"/>
 		<outline text="Hack My Trip" title="Hack My Trip" type="rss" xmlUrl="http://feeds.feedburner.com/hackmytripfeed" htmlUrl="http://hackmytrip.com"/>
@@ -455,6 +456,7 @@
 		</outline>
 		<outline text="finance" title="finance">
 			<outline text="Chris Stucchio's Blog" title="Chris Stucchio's Blog" type="rss" xmlUrl="http://www.chrisstucchio.com/blog/atom.xml" htmlUrl="http://www.chrisstucchio.com/"/>
+			<outline text="Sniper In Mahwah" title="Sniper In Mahwah" type="rss" xmlUrl="http://sniperinmahwah.wordpress.com/feed/" htmlUrl="http://sniperinmahwah.wordpress.com"/>
 		</outline>
 		<outline text="friends" title="friends">
 			<outline text="Simon Tørring" title="Simon Tørring" type="rss" xmlUrl="http://simontoerring.dk/feed/" htmlUrl="http://simontoerring.dk"/>
