@@ -224,7 +224,6 @@
 		<outline text="ShaunInman.com // plus Elsewhere" title="ShaunInman.com // plus Elsewhere" type="rss" xmlUrl="http://www.shauninman.com/feeds/plus" htmlUrl="http://www.shauninman.com/"/>
 		<outline text="Web typography for the Lonely" title="Web typography for the Lonely" type="rss" xmlUrl="http://webtypographyforthelonely.com/feed.rss" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Fwebtypographyforthelonely.com%2Ffeed.rss"/>
 		<outline text="Ryan Block" title="Ryan Block" type="rss" xmlUrl="http://ryanblock.com/feed/" htmlUrl="http://ryanblock.com"/>
-		<outline text="Kent Wang" title="Kent Wang" type="rss" xmlUrl="http://kentwang.tumblr.com/rss" htmlUrl="http://kentwang.tumblr.com/"/>
 		<outline text="Facts and Chicks" title="Facts and Chicks" type="rss" xmlUrl="http://factsandchicks.com/rss" htmlUrl="http://factsandchicks.com/"/>
 		<outline text="We Are Mammoth" title="We Are Mammoth" type="rss" xmlUrl="http://wearemammoth.com/feed" htmlUrl="http://wearemammoth.com"/>
 		<outline text="Rands In Repose" title="Rands In Repose" type="rss" xmlUrl="http://www.randsinrepose.com/index.xml" htmlUrl="http://www.randsinrepose.com/"/>
@@ -438,7 +437,6 @@
 		</outline>
 		<outline text="fashion" title="fashion">
 			<outline text="Valet." title="Valet." type="rss" xmlUrl="http://www.valetmag.com/distribution/rss_all.xml" htmlUrl="http://www.valetmag.com/index.php?rss"/>
-			<outline text="Kent Wang" title="Kent Wang" type="rss" xmlUrl="http://kentwang.tumblr.com/rss" htmlUrl="http://kentwang.tumblr.com/"/>
 			<outline text="THE LOCALS » Men" title="THE LOCALS » Men" type="rss" xmlUrl="http://thelocals.dk/category/people/men/feed/" htmlUrl="http://thelocals.dk"/>
 			<outline text="Mismo - Updates" title="Mismo - Updates" type="rss" xmlUrl="http://www.mismo.dk/blogs/news.atom" htmlUrl="http://www.mismo.dk/blogs/news"/>
 		</outline>
