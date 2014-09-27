@@ -2,7 +2,7 @@
 <opml version="1.0">
 	<head>
 		<title>RSS subscriptions for mail@matiassingers.com</title>
-		<dateCreated>Fri, 26 Sep 2014 07:41:00 -0500</dateCreated>
+		<dateCreated>Sat, 27 Sep 2014 07:30:54 -0500</dateCreated>
 		<ownerEmail>mail@matiassingers.com</ownerEmail>
 	</head>
 	<body>
@@ -74,7 +74,6 @@
 		<outline text="tomohawk" title="tomohawk" type="rss" xmlUrl="http://tomohawk.tumblr.com/rss" htmlUrl="http://tomohawk.tumblr.com/"/>
 		<outline text="Nice Web Type" title="Nice Web Type" type="rss" xmlUrl="http://feeds2.feedburner.com/NiceWebType" htmlUrl="http://nicewebtype.com/notes"/>
 		<outline text="Blog - MapBox" title="Blog - MapBox" type="rss" xmlUrl="http://mapbox.com/blog/blog.rss" htmlUrl="http://mapbox.com/blog"/>
-		<outline text="STREETFSN" title="STREETFSN" type="rss" xmlUrl="http://streetfsn.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://streetfsn.blogspot.com/"/>
 		<outline text="Devour" title="Devour" type="rss" xmlUrl="http://feeds.feedburner.com/devourfeed" htmlUrl="http://devour.com/"/>
 		<outline text="Derek Sivers" title="Derek Sivers" type="rss" xmlUrl="http://sivers.org/en.atom" htmlUrl="http://sivers.org/"/>
 		<outline text="Randoom" title="Randoom" type="rss" xmlUrl="http://feeds.feedburner.com/friism/sLZw?format=xml" htmlUrl="http://friism.com"/>
@@ -157,7 +156,6 @@
 		<outline text="Foursquare Badges Information | How to Unlock Foursquare Badges" title="Foursquare Badges Information | How to Unlock Foursquare Badges" type="rss" xmlUrl="http://feeds.feedburner.com/4sqaddict?format=xml" htmlUrl="http://foursquareaddict.info"/>
 		<outline text="Dan Mall: Articles" title="Dan Mall: Articles" type="rss" xmlUrl="http://feeds.feedburner.com/dan-mall-articles" htmlUrl="http://www.danielmall.com/"/>
 		<outline text="maxvoltar" title="maxvoltar" type="rss" xmlUrl="http://feeds.feedburner.com/maxvoltar" htmlUrl="http://maxvoltar.com/"/>
-		<outline text="Hacker News 50" title="Hacker News 50" type="rss" xmlUrl="http://feeds.feedburner.com/hacker-news-feed-50?format=xml" htmlUrl="http://news.ycombinator.com"/>
 		<outline text="Junecloud // All Entries" title="Junecloud // All Entries" type="rss" xmlUrl="http://junecloud.com/rss/" htmlUrl="http://junecloud.com/"/>
 		<outline text="WebKitbits" title="WebKitbits" type="rss" xmlUrl="http://feeds.webkitbits.com/WebKitBits" htmlUrl="http://www.webkitbits.com/"/>
 		<outline text="minimal design" title="minimal design" type="rss" xmlUrl="http://feeds.feedburner.com/minimaldesign" htmlUrl="http://minimal.io"/>
@@ -203,7 +201,6 @@
 		<outline text="simurai" title="simurai" type="rss" xmlUrl="http://simurai.com/rss" htmlUrl="http://simurai.com/"/>
 		<outline text="nikf.org" title="nikf.org" type="rss" xmlUrl="http://feeds.feedburner.com/nikf" htmlUrl="http://nikf.org/"/>
 		<outline text="Interuserface" title="Interuserface" type="rss" xmlUrl="http://interuserface.net/feed/" htmlUrl="http://interuserface.net"/>
-		<outline text="Caliroots.com RSS" title="Caliroots.com RSS" type="rss" xmlUrl="http://caliroots.com/system/search/rss.asp?langid=44&amp;currency=DKK&amp;shopid=2&amp;type=latest" htmlUrl="http://caliroots.com"/>
 		<outline text="Komodo Media" title="Komodo Media" type="rss" xmlUrl="http://feeds.feedburner.com/komodomedia" htmlUrl="http://www.komodomedia.com"/>
 		<outline text="Signal vs. Noise" title="Signal vs. Noise" type="rss" xmlUrl="http://feeds.feedburner.com/37signals/beMH" htmlUrl="http://37signals.com/svn/posts"/>
 		<outline text="Uber Blog" title="Uber Blog" type="rss" xmlUrl="http://blog.uber.com/feed/" htmlUrl="http://blog.uber.com"/>
@@ -240,7 +237,6 @@
 		<outline text="maximilianstudios" title="maximilianstudios" type="rss" xmlUrl="http://maximilianstudios.tumblr.com/rss" htmlUrl="http://maximilianstudios.tumblr.com/"/>
 		<outline text="Snook.ca" title="Snook.ca" type="rss" xmlUrl="http://feeds.feedburner.com/snookca" htmlUrl="http://snook.ca/"/>
 		<outline text="The Big Picture" title="The Big Picture" type="rss" xmlUrl="http://feeds.boston.com/boston/bigpicture/index" htmlUrl="http://www.boston.com/bigpicture/"/>
-		<outline text="chartsnthings Links" title="chartsnthings Links" type="rss" xmlUrl="http://kpq.github.io/chartsnthings/atom.xml" htmlUrl="http://kpq.github.io/chartsnthings"/>
 		<outline text="Steven Frank's Posts" title="Steven Frank's Posts" type="rss" xmlUrl="http://stevenf.com/index.xml" htmlUrl="http://stevenf.com"/>
 		<outline text="AaronMahnke.com" title="AaronMahnke.com" type="rss" xmlUrl="http://feeds.uri.lv/aaronmahnke" htmlUrl="http://aaronmahnke.com"/>
 		<outline text="▲ KIDS ON CRACK ▲" title="▲ KIDS ON CRACK ▲" type="rss" xmlUrl="http://www.kidsoncrack.co.nz/rss" htmlUrl="http://www.kidsoncrack.co.nz/"/>
@@ -253,7 +249,6 @@
 		<outline text="UsabilityPost" title="UsabilityPost" type="rss" xmlUrl="http://feeds.feedburner.com/usabilitypost" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Ffeeds.feedburner.com%2Fusabilitypost"/>
 		<outline text="swissmiss" title="swissmiss" type="rss" xmlUrl="http://feeds2.feedburner.com/Swissmiss" htmlUrl="http://www.swiss-miss.com"/>
 		<outline text="Joshua Topolsky" title="Joshua Topolsky" type="rss" xmlUrl="http://joshuatopolsky.com/rss" htmlUrl="http://joshuatopolsky.com/"/>
-		<outline text="Style Hunting" title="Style Hunting" type="rss" xmlUrl="http://stylehunting.tumblr.com/rss" htmlUrl="http://stylehunting.tumblr.com/"/>
 		<outline text="iwantmyname Domain Blog" title="iwantmyname Domain Blog" type="rss" xmlUrl="http://blog.feeds.iwantmyname.com/iwantmyname" htmlUrl="https://iwantmyname.com/blog/"/>
 		<outline text="WELCOME BACK TO THE MONEY" title="WELCOME BACK TO THE MONEY" type="rss" xmlUrl="http://welcomebacktothemoney.tumblr.com/rss" htmlUrl="http://welcomebacktothemoney.tumblr.com/"/>
 		<outline text="SplatF" title="SplatF" type="rss" xmlUrl="http://www.splatf.com/feed/" htmlUrl="http://www.splatf.com"/>
@@ -276,7 +271,6 @@
 			<outline text="Frequent Flyer University" title="Frequent Flyer University" type="rss" xmlUrl="http://frequentflyeruniversity.boardingarea.com/feed/" htmlUrl="http://frequentflyeruniversity.boardingarea.com"/>
 		</outline>
 		<outline text="bankrupt" title="bankrupt">
-			<outline text="Hacker News 50" title="Hacker News 50" type="rss" xmlUrl="http://feeds.feedburner.com/hacker-news-feed-50?format=xml" htmlUrl="http://news.ycombinator.com"/>
 			<outline text="Devour" title="Devour" type="rss" xmlUrl="http://feeds.feedburner.com/devourfeed" htmlUrl="http://devour.com/"/>
 			<outline text="Skift" title="Skift" type="rss" xmlUrl="http://skift.com/feed/" htmlUrl="http://skift.com"/>
 			<outline text="Tech in Asia" title="Tech in Asia" type="rss" xmlUrl="http://feeds.feedburner.com/PennOlson?format=xml" htmlUrl="http://www.techinasia.com"/>
@@ -447,10 +441,7 @@
 		</outline>
 		<outline text="fashion" title="fashion">
 			<outline text="Valet." title="Valet." type="rss" xmlUrl="http://www.valetmag.com/distribution/rss_all.xml" htmlUrl="http://www.valetmag.com/index.php?rss"/>
-			<outline text="Style Hunting" title="Style Hunting" type="rss" xmlUrl="http://stylehunting.tumblr.com/rss" htmlUrl="http://stylehunting.tumblr.com/"/>
 			<outline text="Kent Wang" title="Kent Wang" type="rss" xmlUrl="http://kentwang.tumblr.com/rss" htmlUrl="http://kentwang.tumblr.com/"/>
-			<outline text="STREETFSN" title="STREETFSN" type="rss" xmlUrl="http://streetfsn.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://streetfsn.blogspot.com/"/>
-			<outline text="Caliroots.com RSS" title="Caliroots.com RSS" type="rss" xmlUrl="http://caliroots.com/system/search/rss.asp?langid=44&amp;currency=DKK&amp;shopid=2&amp;type=latest" htmlUrl="http://caliroots.com"/>
 			<outline text="THE LOCALS » Men" title="THE LOCALS » Men" type="rss" xmlUrl="http://thelocals.dk/category/people/men/feed/" htmlUrl="http://thelocals.dk"/>
 			<outline text="Mismo - Updates" title="Mismo - Updates" type="rss" xmlUrl="http://www.mismo.dk/blogs/news.atom" htmlUrl="http://www.mismo.dk/blogs/news"/>
 		</outline>
