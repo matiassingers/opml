@@ -102,14 +102,12 @@
 		<outline text="Suit Up or Die" title="Suit Up or Die" type="rss" xmlUrl="http://www.suitupordie.com/rss.xml" htmlUrl="http://www.suitupordie.com"/>
 		<outline text="Roger and Mike's Hypernet Blog" title="Roger and Mike's Hypernet Blog" type="rss" xmlUrl="http://rogerandmike.com/rss" htmlUrl="http://rogerandmike.com/"/>
 		<outline text="Thorborgs Talkshow" title="Thorborgs Talkshow" type="rss" xmlUrl="http://feeds.feedburner.com/thorborgstalkshow" htmlUrl="http://thorborg.tv"/>
-		<outline text="Chase Jarvis Blog" title="Chase Jarvis Blog" type="rss" xmlUrl="http://feeds.feedburner.com/ChaseJarvis" htmlUrl="http://blog.chasejarvis.com/blog"/>
 		<outline text="A Working Library: All" title="A Working Library: All" type="rss" xmlUrl="http://aworkinglibrary.com/library/rss_all/" htmlUrl="http://www.aworkinglibrary.com"/>
 		<outline text="Little Big Details" title="Little Big Details" type="rss" xmlUrl="http://littlebigdetails.com/rss" htmlUrl="http://littlebigdetails.com/"/>
 		<outline text="Martin Kaufmann Photography" title="Martin Kaufmann Photography" type="rss" xmlUrl="http://www.martinkaufmann.dk/feed/" htmlUrl="http://www.martinkaufmann.dk"/>
 		<outline text="Craig Mod - Considering the future of books, publishing and storytelling" title="Craig Mod - Considering the future of books, publishing and storytelling" type="rss" xmlUrl="http://feeds.feedburner.com/craigmod/" htmlUrl="http://craigmod.com/"/>
 		<outline text="Jack Osborne — Freelance Web Designer Glasgow" title="Jack Osborne — Freelance Web Designer Glasgow" type="rss" xmlUrl="http://feeds.feedburner.com/jackosbornecouk" htmlUrl="http://jackosborne.com"/>
 		<outline text="Cal Aggie Flyer ✈" title="Cal Aggie Flyer ✈" type="rss" xmlUrl="http://calaggieflyer.tumblr.com/rss" htmlUrl="http://calaggieflyer.tumblr.com/"/>
-		<outline text="Albin Holmqvist / hello@albinholmqvist.com / +46 (0)72 72 24 900" title="Albin Holmqvist / hello@albinholmqvist.com / +46 (0)72 72 24 900" type="rss" xmlUrl="http://www.albinholmqvist.com/rss" htmlUrl="http://www.albinholmqvist.com"/>
 		<outline text="Badass of the Week" title="Badass of the Week" type="rss" xmlUrl="http://www.badassoftheweek.com/rss.xml" htmlUrl="http://www.badassoftheweek.com"/>
 		<outline text="ParisLemon" title="ParisLemon" type="rss" xmlUrl="http://feeds.feedburner.com/parislemon" htmlUrl="http://parislemon.com/"/>
 		<outline text="Posh CSS" title="Posh CSS" type="rss" xmlUrl="http://feeds.feedburner.com/poshcss" htmlUrl="http://poshcss.com/"/>
@@ -183,7 +181,6 @@
 		<outline text="Jason Santa Maria" title="Jason Santa Maria" type="rss" xmlUrl="http://feeds.feedburner.com/jsm-rss" htmlUrl="http://jasonsantamaria.com/"/>
 		<outline text="Journal" title="Journal" type="rss" xmlUrl="http://feeds.feedburner.com/colly/WraZ" htmlUrl="http://colly.com/"/>
 		<outline text="Big Week" title="Big Week" type="rss" xmlUrl="http://feeds.feedburner.com/big-week" htmlUrl="http://bigweek.co/"/>
-		<outline text="The Lively Morgue" title="The Lively Morgue" type="rss" xmlUrl="http://livelymorgue.tumblr.com/rss" htmlUrl="http://livelymorgue.tumblr.com/"/>
 		<outline text="gregorywood.co.uk - Journal RSS Feed" title="gregorywood.co.uk - Journal RSS Feed" type="rss" xmlUrl="http://feeds.feedburner.com/gregorywood" htmlUrl="http://gregorywood.co.uk"/>
 		<outline text="cubicle 17" title="cubicle 17" type="rss" xmlUrl="http://feeds.feedburner.com/cubicle17" htmlUrl="http://cubicle17.com/"/>
 		<outline text="furbo.org" title="furbo.org" type="rss" xmlUrl="http://furbo.org/feed/" htmlUrl="http://furbo.org"/>
@@ -492,12 +489,12 @@
 			<outline text="HOLDING PATTERN" title="HOLDING PATTERN" type="rss" xmlUrl="http://holding-pattern.tumblr.com/rss" htmlUrl="http://holding-pattern.tumblr.com/"/>
 		</outline>
 		<outline text="photography" title="photography">
-			<outline text="The Lively Morgue" title="The Lively Morgue" type="rss" xmlUrl="http://livelymorgue.tumblr.com/rss" htmlUrl="http://livelymorgue.tumblr.com/"/>
-			<outline text="Chase Jarvis Blog" title="Chase Jarvis Blog" type="rss" xmlUrl="http://feeds.feedburner.com/ChaseJarvis" htmlUrl="http://blog.chasejarvis.com/blog"/>
 			<outline text="The Big Picture" title="The Big Picture" type="rss" xmlUrl="http://feeds.boston.com/boston/bigpicture/index" htmlUrl="http://www.boston.com/bigpicture/"/>
 			<outline text="K-Nguyen's photo blog" title="K-Nguyen's photo blog" type="rss" xmlUrl="http://kennethnuigen.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://kennethnuigen.blogspot.com/"/>
-			<outline text="Albin Holmqvist / hello@albinholmqvist.com / +46 (0)72 72 24 900" title="Albin Holmqvist / hello@albinholmqvist.com / +46 (0)72 72 24 900" type="rss" xmlUrl="http://www.albinholmqvist.com/rss" htmlUrl="http://www.albinholmqvist.com"/>
 			<outline text="Martin Kaufmann Photography" title="Martin Kaufmann Photography" type="rss" xmlUrl="http://www.martinkaufmann.dk/feed/" htmlUrl="http://www.martinkaufmann.dk"/>
+		</outline>
+		<outline text="reactions" title="reactions">
+			<outline text="#whatshouldwecallmgmtconsulting" title="#whatshouldwecallmgmtconsulting" type="rss" xmlUrl="http://whatshouldwecallmgmtconsulting.tumblr.com/rss" htmlUrl="http://whatshouldwecallmgmtconsulting.tumblr.com/"/>
 		</outline>
 		<outline text="tech" title="tech">
 			<outline text="Komodo Media" title="Komodo Media" type="rss" xmlUrl="http://feeds.feedburner.com/komodomedia" htmlUrl="http://www.komodomedia.com"/>
