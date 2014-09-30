@@ -2,10 +2,11 @@
 <opml version="1.0">
 	<head>
 		<title>RSS subscriptions for mail@matiassingers.com</title>
-		<dateCreated>Sat, 27 Sep 2014 07:30:54 -0500</dateCreated>
+		<dateCreated>Tue, 30 Sep 2014 02:16:16 -0500</dateCreated>
 		<ownerEmail>mail@matiassingers.com</ownerEmail>
 	</head>
 	<body>
+		<outline text="Zach Holman" title="Zach Holman" type="rss" xmlUrl="http://feeds.feedburner.com/holman" htmlUrl="http://zachholman.com/"/>
 		<outline text="Sniper In Mahwah" title="Sniper In Mahwah" type="rss" xmlUrl="http://sniperinmahwah.wordpress.com/feed/" htmlUrl="http://sniperinmahwah.wordpress.com"/>
 		<outline text="Chris Stucchio's Blog" title="Chris Stucchio's Blog" type="rss" xmlUrl="http://www.chrisstucchio.com/blog/atom.xml" htmlUrl="http://www.chrisstucchio.com/"/>
 		<outline text="Frequent Flyer University" title="Frequent Flyer University" type="rss" xmlUrl="http://frequentflyeruniversity.boardingarea.com/feed/" htmlUrl="http://frequentflyeruniversity.boardingarea.com"/>
@@ -294,6 +295,7 @@
 			<outline text="Steven Frank's Posts" title="Steven Frank's Posts" type="rss" xmlUrl="http://stevenf.com/index.xml" htmlUrl="http://stevenf.com"/>
 			<outline text="Snook.ca" title="Snook.ca" type="rss" xmlUrl="http://feeds.feedburner.com/snookca" htmlUrl="http://snook.ca/"/>
 			<outline text="Subtraction.com" title="Subtraction.com" type="rss" xmlUrl="http://feeds.feedburner.com/subtraction" htmlUrl="http://www.subtraction.com/"/>
+			<outline text="Zach Holman" title="Zach Holman" type="rss" xmlUrl="http://feeds.feedburner.com/holman" htmlUrl="http://zachholman.com/"/>
 			<outline text="Perishable Press" title="Perishable Press" type="rss" xmlUrl="http://feeds.feedburner.com/perishablepress" htmlUrl="http://perishablepress.com"/>
 			<outline text="24 ways" title="24 ways" type="rss" xmlUrl="http://feeds.feedburner.com/24ways" htmlUrl="http://24ways.org/"/>
 			<outline text="Jeffrey Zeldman Presents The Daily Report" title="Jeffrey Zeldman Presents The Daily Report" type="rss" xmlUrl="http://www.zeldman.com/feed/" htmlUrl="http://www.zeldman.com"/>
