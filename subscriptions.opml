@@ -6,6 +6,7 @@
 		<ownerEmail>mail@matiassingers.com</ownerEmail>
 	</head>
 	<body>
+		<outline text="TOP SHELFIE" title="TOP SHELFIE" type="rss" xmlUrl="http://topshelfie.co/rss" htmlUrl="http://topshelfie.co/"/>
 		<outline text="Kidogo - Christina Cacioppo" title="Kidogo - Christina Cacioppo" type="rss" xmlUrl="http://christinacacioppo.com/blog/feed.rss" htmlUrl="http://christinacacioppo.com/blog"/>
 		<outline text="Zach Holman" title="Zach Holman" type="rss" xmlUrl="http://feeds.feedburner.com/holman" htmlUrl="http://zachholman.com/"/>
 		<outline text="Sniper In Mahwah" title="Sniper In Mahwah" type="rss" xmlUrl="http://sniperinmahwah.wordpress.com/feed/" htmlUrl="http://sniperinmahwah.wordpress.com"/>
