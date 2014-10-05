@@ -396,6 +396,7 @@
 			<outline text="AaronMahnke.com" title="AaronMahnke.com" type="rss" xmlUrl="http://feeds.uri.lv/aaronmahnke" htmlUrl="http://aaronmahnke.com"/>
 			<outline text="Aerotwist Blog" title="Aerotwist Blog" type="rss" xmlUrl="http://aerotwist.com/blog/feed/" htmlUrl="http://aerotwist.com/blog/feed/"/>
 			<outline text="ilovedust" title="ilovedust" type="rss" xmlUrl="http://ilovedust.com/blog/feed" htmlUrl="http://ilovedust.com/blog"/>
+			<outline text="Feed: stratēchery" title="Feed: stratēchery" type="rss" xmlUrl="http://stratechery.com/feed/" htmlUrl="http://stratechery.com"/>
 			<outline text="Typedeck" title="Typedeck" type="rss" xmlUrl="http://feeds.feedburner.com/Typedeck" htmlUrl="http://typedeck.com"/>
 			<outline text="@briantford's blog" title="@briantford's blog" type="rss" xmlUrl="http://briantford.com/blog.rss" htmlUrl="http://briantford.com/blog/"/>
 			<outline text="cubicle 17" title="cubicle 17" type="rss" xmlUrl="http://feeds.feedburner.com/cubicle17" htmlUrl="http://cubicle17.com/"/>
