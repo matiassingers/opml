@@ -6,6 +6,7 @@
 	<dateModified>Wed, 8 Oct 2014 15:20:29 GMT</dateModified>
 </head>
 <body>
+	<outline text="Dorm Room Tycoon" type="rss" xmlUrl="http://feeds.feedburner.com/DormRoomTycoon" htmlUrl="http://drt.fm" />
 	<outline text="StartUp Podcast" type="rss" xmlUrl="http://feeds.hearstartup.com/hearstartup" htmlUrl="http://hearstartup.com" />
 	<outline text="The Talk Show With John Gruber" type="rss" xmlUrl="http://daringfireball.net/thetalkshow/rss" htmlUrl="http://daringfireball.net/thetalkshow" />
 	<outline text="Radiolab from WNYC" type="rss" xmlUrl="http://feeds.wnyc.org/radiolab" htmlUrl="http://www.radiolab.org/series/podcasts/" />
