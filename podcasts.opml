@@ -6,6 +6,7 @@
 	<dateModified>Wed, 8 Oct 2014 15:20:29 GMT</dateModified>
 </head>
 <body>
+	<outline text="Product People" type="rss" xmlUrl="http://feeds.feedburner.com/productpeople/JXQt" htmlUrl="http://productpeople.tv" />
 	<outline text="Serial" type="rss" xmlUrl="http://feeds.serialpodcast.org/serialpodcast" htmlUrl="http://serialpodcast.org" />
 	<outline text="Dorm Room Tycoon" type="rss" xmlUrl="http://feeds.feedburner.com/DormRoomTycoon" htmlUrl="http://drt.fm" />
 	<outline text="StartUp Podcast" type="rss" xmlUrl="http://feeds.hearstartup.com/hearstartup" htmlUrl="http://hearstartup.com" />
