@@ -2,7 +2,7 @@
 <opml version="1.0">
 	<head>
 		<title>RSS subscriptions for mail@matiassingers.com</title>
-		<dateCreated>Sun, 05 Oct 2014 10:50:22 -0500</dateCreated>
+		<dateCreated>Thu, 09 Oct 2014 11:23:21 -0500</dateCreated>
 		<ownerEmail>mail@matiassingers.com</ownerEmail>
 	</head>
 	<body>
@@ -34,7 +34,6 @@
 		<outline text="Zach Holman" title="Zach Holman" type="rss" xmlUrl="http://feeds.feedburner.com/holman" htmlUrl="http://zachholman.com/"/>
 		<outline text="Perishable Press" title="Perishable Press" type="rss" xmlUrl="http://feeds.feedburner.com/perishablepress" htmlUrl="http://perishablepress.com"/>
 		<outline text="24 ways" title="24 ways" type="rss" xmlUrl="http://feeds.feedburner.com/24ways" htmlUrl="http://24ways.org/"/>
-		<outline text="Jeffrey Zeldman Presents The Daily Report" title="Jeffrey Zeldman Presents The Daily Report" type="rss" xmlUrl="http://www.zeldman.com/feed/" htmlUrl="http://www.zeldman.com"/>
 		<outline text="The Dropbox Blog" title="The Dropbox Blog" type="rss" xmlUrl="https://blog.dropbox.com/feed/" htmlUrl="https://blog.dropbox.com"/>
 		<outline text="Signal vs. Noise" title="Signal vs. Noise" type="rss" xmlUrl="http://feeds.feedburner.com/37signals/beMH" htmlUrl="http://37signals.com/svn/posts"/>
 		<outline text="SplatF" title="SplatF" type="rss" xmlUrl="http://www.splatf.com/feed/" htmlUrl="http://www.splatf.com"/>
@@ -301,7 +300,6 @@
 			<outline text="Zach Holman" title="Zach Holman" type="rss" xmlUrl="http://feeds.feedburner.com/holman" htmlUrl="http://zachholman.com/"/>
 			<outline text="Perishable Press" title="Perishable Press" type="rss" xmlUrl="http://feeds.feedburner.com/perishablepress" htmlUrl="http://perishablepress.com"/>
 			<outline text="24 ways" title="24 ways" type="rss" xmlUrl="http://feeds.feedburner.com/24ways" htmlUrl="http://24ways.org/"/>
-			<outline text="Jeffrey Zeldman Presents The Daily Report" title="Jeffrey Zeldman Presents The Daily Report" type="rss" xmlUrl="http://www.zeldman.com/feed/" htmlUrl="http://www.zeldman.com"/>
 			<outline text="Signal vs. Noise" title="Signal vs. Noise" type="rss" xmlUrl="http://feeds.feedburner.com/37signals/beMH" htmlUrl="http://37signals.com/svn/posts"/>
 			<outline text="SplatF" title="SplatF" type="rss" xmlUrl="http://www.splatf.com/feed/" htmlUrl="http://www.splatf.com"/>
 			<outline text="Adactio: Journal" title="Adactio: Journal" type="rss" xmlUrl="http://adactio.com/journal/rss/" htmlUrl="http://adactio.com/journal/"/>
