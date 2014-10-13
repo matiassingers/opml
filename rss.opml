@@ -2,7 +2,7 @@
 <opml version="1.0">
 	<head>
 		<title>RSS subscriptions for mail@matiassingers.com</title>
-		<dateCreated>Sun, 12 Oct 2014 00:47:39 -0500</dateCreated>
+		<dateCreated>Mon, 13 Oct 2014 05:00:39 -0500</dateCreated>
 		<ownerEmail>mail@matiassingers.com</ownerEmail>
 	</head>
 	<body>
@@ -237,6 +237,7 @@
 		<outline text="Michael Nielsen" title="Michael Nielsen" type="rss" xmlUrl="http://feeds.feedburner.com/michaelnielsen/wmna?format=xml" htmlUrl="http://michaelnielsen.org/blog"/>
 		<outline text="Both Sides of the Table" title="Both Sides of the Table" type="rss" xmlUrl="http://www.bothsidesofthetable.com/feed/" htmlUrl="http://www.bothsidesofthetable.com"/>
 		<outline text="Arbitrary + SuperFriendly build an app" title="Arbitrary + SuperFriendly build an app" type="rss" xmlUrl="http://howtobuildanapp.tumblr.com/rss" htmlUrl="http://howtobuildanapp.tumblr.com/"/>
+		<outline text="carpeaqua by Justin Williams" title="carpeaqua by Justin Williams" type="rss" xmlUrl="http://carpeaqua.com/feed/index.xml" htmlUrl="http://carpeaqua.com/"/>
 		<outline text="The GitHub Blog" title="The GitHub Blog" type="rss" xmlUrl="https://github.com/blog/all.atom" htmlUrl="https://github.com/blog"/>
 		<outline text="Coin" title="Coin" type="rss" xmlUrl="http://blog.onlycoin.com/posts?format=rss" htmlUrl="http://blog.onlycoin.com/"/>
 		<outline text="The Guardian Developer blog | theguardian.com" title="The Guardian Developer blog | theguardian.com" type="rss" xmlUrl="http://www.theguardian.com/info/developer-blog/rss" htmlUrl="http://www.theguardian.com/info/developer-blog"/>
@@ -430,6 +431,7 @@
 			<outline text="josh.com" title="josh.com" type="rss" xmlUrl="http://wp.josh.com/feed/" htmlUrl="http://wp.josh.com"/>
 			<outline text="Both Sides of the Table" title="Both Sides of the Table" type="rss" xmlUrl="http://www.bothsidesofthetable.com/feed/" htmlUrl="http://www.bothsidesofthetable.com"/>
 			<outline text="Arbitrary + SuperFriendly build an app" title="Arbitrary + SuperFriendly build an app" type="rss" xmlUrl="http://howtobuildanapp.tumblr.com/rss" htmlUrl="http://howtobuildanapp.tumblr.com/"/>
+			<outline text="carpeaqua by Justin Williams" title="carpeaqua by Justin Williams" type="rss" xmlUrl="http://carpeaqua.com/feed/index.xml" htmlUrl="http://carpeaqua.com/"/>
 			<outline text="Google Ventures" title="Google Ventures" type="rss" xmlUrl="http://feeds.feedburner.com/GVLibrary" htmlUrl="http://www.gv.com"/>
 			<outline text="Kidogo - Christina Cacioppo" title="Kidogo - Christina Cacioppo" type="rss" xmlUrl="http://christinacacioppo.com/blog/feed.rss" htmlUrl="http://christinacacioppo.com/blog"/>
 			<outline text="Kenneth Auchenberg" title="Kenneth Auchenberg" type="rss" xmlUrl="http://kenneth.io/atom.xml" htmlUrl="http://kenneth.io/"/>
