@@ -242,6 +242,7 @@
 		<outline text="Coin" title="Coin" type="rss" xmlUrl="http://blog.onlycoin.com/posts?format=rss" htmlUrl="http://blog.onlycoin.com/"/>
 		<outline text="The Guardian Developer blog | theguardian.com" title="The Guardian Developer blog | theguardian.com" type="rss" xmlUrl="http://www.theguardian.com/info/developer-blog/rss" htmlUrl="http://www.theguardian.com/info/developer-blog"/>
 		<outline text="Foursquare Badges Information | How to Unlock Foursquare Badges" title="Foursquare Badges Information | How to Unlock Foursquare Badges" type="rss" xmlUrl="http://feeds.feedburner.com/4sqaddict?format=xml" htmlUrl="http://foursquareaddict.info"/>
+		<outline text="The Flight Deal" title="The Flight Deal" type="rss" xmlUrl="http://feeds.feedburner.com/TheFlightDeal?format=xml" htmlUrl="http://www.theflightdeal.com"/>
 		<outline text="Randoom" title="Randoom" type="rss" xmlUrl="http://feeds.feedburner.com/friism/sLZw?format=xml" htmlUrl="http://friism.com"/>
 		<outline text="Google Ventures" title="Google Ventures" type="rss" xmlUrl="http://feeds.feedburner.com/GVLibrary" htmlUrl="http://www.gv.com"/>
 		<outline text="Mismo - Updates" title="Mismo - Updates" type="rss" xmlUrl="http://www.mismo.dk/blogs/news.atom" htmlUrl="http://www.mismo.dk/blogs/news"/>
@@ -268,6 +269,7 @@
 		<outline text="aviation" title="aviation">
 			<outline text="Flying With Fish" title="Flying With Fish" type="rss" xmlUrl="http://feeds.feedblitz.com/FlyingWithFish" htmlUrl="http://boardingarea.com/blogs/flyingwithfish"/>
 			<outline text="Hack My Trip" title="Hack My Trip" type="rss" xmlUrl="http://feeds.feedburner.com/hackmytripfeed" htmlUrl="http://hackmytrip.com"/>
+			<outline text="The Flight Deal" title="The Flight Deal" type="rss" xmlUrl="http://feeds.feedburner.com/TheFlightDeal?format=xml" htmlUrl="http://www.theflightdeal.com"/>
 			<outline text="Layovers" title="Layovers" type="rss" xmlUrl="http://www.layovers.to/hub?format=RSS" htmlUrl="http://www.layovers.to/"/>
 			<outline text="One Mile at a Time" title="One Mile at a Time" type="rss" xmlUrl="http://onemileatatime.boardingarea.com/feed/" htmlUrl="http://onemileatatime.boardingarea.com"/>
 			<outline text="Frequent Flyer University" title="Frequent Flyer University" type="rss" xmlUrl="http://frequentflyeruniversity.boardingarea.com/feed/" htmlUrl="http://frequentflyeruniversity.boardingarea.com"/>
