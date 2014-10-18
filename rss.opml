@@ -2,7 +2,7 @@
 <opml version="1.0">
 	<head>
 		<title>RSS subscriptions for mail@matiassingers.com</title>
-		<dateCreated>Mon, 13 Oct 2014 05:00:39 -0500</dateCreated>
+		<dateCreated>Fri, 17 Oct 2014 00:51:43 -0500</dateCreated>
 		<ownerEmail>mail@matiassingers.com</ownerEmail>
 	</head>
 	<body>
@@ -254,6 +254,7 @@
 		<outline text="Kenneth Auchenberg" title="Kenneth Auchenberg" type="rss" xmlUrl="http://kenneth.io/atom.xml" htmlUrl="http://kenneth.io/"/>
 		<outline text="GitHub API Changes" title="GitHub API Changes" type="rss" xmlUrl="https://developer.github.com/changes.atom" htmlUrl="http://developer.github.com/changes.atom"/>
 		<outline text="HOLDING PATTERN" title="HOLDING PATTERN" type="rss" xmlUrl="http://holding-pattern.tumblr.com/rss" htmlUrl="http://holding-pattern.tumblr.com/"/>
+		<outline text="Vimeo / Tony Zhou's videos" title="Vimeo / Tony Zhou's videos" type="rss" xmlUrl="http://vimeo.com/tonyzhou/videos/rss" htmlUrl="https://vimeo.com/tonyzhou/videos"/>
 		<outline text="Podio Engineering Blog" title="Podio Engineering Blog" type="rss" xmlUrl="http://engineering.podio.com/feed/" htmlUrl="http://engineering.podio.com"/>
 		<outline text="SaraSoueidan.com" title="SaraSoueidan.com" type="rss" xmlUrl="http://feeds.feedburner.com/sarasoueidan?format=xml" htmlUrl="http://sarasoueidan.com"/>
 		<outline text="Swift Blog - Apple Developer" title="Swift Blog - Apple Developer" type="rss" xmlUrl="https://developer.apple.com/swift/blog/news.rss" htmlUrl="http://developer.apple.com/swift/blog/"/>
