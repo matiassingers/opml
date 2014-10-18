@@ -267,6 +267,7 @@
 		<outline text="Sniper In Mahwah" title="Sniper In Mahwah" type="rss" xmlUrl="http://sniperinmahwah.wordpress.com/feed/" htmlUrl="http://sniperinmahwah.wordpress.com"/>
 		<outline text="TOP SHELFIE" title="TOP SHELFIE" type="rss" xmlUrl="http://topshelfie.co/rss" htmlUrl="http://topshelfie.co/"/>
 		<outline text="What's the Fare" title="What's the Fare" type="rss" xmlUrl="http://blog.whatsthefare.com/feeds/posts/default" htmlUrl="http://blog.whatsthefare.com/"/>
+		<outline text="Foodamentals" title="Foodamentals" type="rss" xmlUrl="http://www.foodamentals.com/feed/" htmlUrl="http://www.foodamentals.com"/>
 		<outline text="aviation" title="aviation">
 			<outline text="Flying With Fish" title="Flying With Fish" type="rss" xmlUrl="http://feeds.feedblitz.com/FlyingWithFish" htmlUrl="http://boardingarea.com/blogs/flyingwithfish"/>
 			<outline text="Hack My Trip" title="Hack My Trip" type="rss" xmlUrl="http://feeds.feedburner.com/hackmytripfeed" htmlUrl="http://hackmytrip.com"/>
@@ -537,6 +538,9 @@
 			<outline text="Podio Engineering Blog" title="Podio Engineering Blog" type="rss" xmlUrl="http://engineering.podio.com/feed/" htmlUrl="http://engineering.podio.com"/>
 			<outline text="Swift Blog - Apple Developer" title="Swift Blog - Apple Developer" type="rss" xmlUrl="https://developer.apple.com/swift/blog/news.rss" htmlUrl="http://developer.apple.com/swift/blog/"/>
 			<outline text="What's the Fare" title="What's the Fare" type="rss" xmlUrl="http://blog.whatsthefare.com/feeds/posts/default" htmlUrl="http://blog.whatsthefare.com/"/>
+		</outline>
+		<outline text="travel" title="travel">
+			<outline text="Foodamentals" title="Foodamentals" type="rss" xmlUrl="http://www.foodamentals.com/feed/" htmlUrl="http://www.foodamentals.com"/>
 		</outline>
 	</body>
 </opml>
