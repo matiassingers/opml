@@ -2,7 +2,7 @@
 <opml version="1.0">
 	<head>
 		<title>RSS subscriptions for mail@matiassingers.com</title>
-		<dateCreated>Fri, 17 Oct 2014 00:51:43 -0500</dateCreated>
+		<dateCreated>Sun, 19 Oct 2014 10:49:57 -0500</dateCreated>
 		<ownerEmail>mail@matiassingers.com</ownerEmail>
 	</head>
 	<body>
@@ -267,7 +267,6 @@
 		<outline text="Sniper In Mahwah" title="Sniper In Mahwah" type="rss" xmlUrl="http://sniperinmahwah.wordpress.com/feed/" htmlUrl="http://sniperinmahwah.wordpress.com"/>
 		<outline text="TOP SHELFIE" title="TOP SHELFIE" type="rss" xmlUrl="http://topshelfie.co/rss" htmlUrl="http://topshelfie.co/"/>
 		<outline text="What's the Fare" title="What's the Fare" type="rss" xmlUrl="http://blog.whatsthefare.com/feeds/posts/default" htmlUrl="http://blog.whatsthefare.com/"/>
-		<outline text="Foodamentals" title="Foodamentals" type="rss" xmlUrl="http://www.foodamentals.com/feed/" htmlUrl="http://www.foodamentals.com"/>
 		<outline text="aviation" title="aviation">
 			<outline text="Flying With Fish" title="Flying With Fish" type="rss" xmlUrl="http://feeds.feedblitz.com/FlyingWithFish" htmlUrl="http://boardingarea.com/blogs/flyingwithfish"/>
 			<outline text="Hack My Trip" title="Hack My Trip" type="rss" xmlUrl="http://feeds.feedburner.com/hackmytripfeed" htmlUrl="http://hackmytrip.com"/>
@@ -451,8 +450,8 @@
 			<outline text="Randoom" title="Randoom" type="rss" xmlUrl="http://feeds.feedburner.com/friism/sLZw?format=xml" htmlUrl="http://friism.com"/>
 		</outline>
 		<outline text="fashion" title="fashion">
-			<outline text="Valet." title="Valet." type="rss" xmlUrl="http://www.valetmag.com/distribution/rss_all.xml" htmlUrl="http://www.valetmag.com/index.php?rss"/>
 			<outline text="Mismo - Updates" title="Mismo - Updates" type="rss" xmlUrl="http://www.mismo.dk/blogs/news.atom" htmlUrl="http://www.mismo.dk/blogs/news"/>
+			<outline text="Valet." title="Valet." type="rss" xmlUrl="http://www.valetmag.com/distribution/rss_all.xml" htmlUrl="http://www.valetmag.com/index.php?rss"/>
 		</outline>
 		<outline text="finance" title="finance">
 			<outline text="Chris Stucchio's Blog" title="Chris Stucchio's Blog" type="rss" xmlUrl="http://www.chrisstucchio.com/blog/atom.xml" htmlUrl="http://www.chrisstucchio.com/"/>
@@ -538,9 +537,6 @@
 			<outline text="Podio Engineering Blog" title="Podio Engineering Blog" type="rss" xmlUrl="http://engineering.podio.com/feed/" htmlUrl="http://engineering.podio.com"/>
 			<outline text="Swift Blog - Apple Developer" title="Swift Blog - Apple Developer" type="rss" xmlUrl="https://developer.apple.com/swift/blog/news.rss" htmlUrl="http://developer.apple.com/swift/blog/"/>
 			<outline text="What's the Fare" title="What's the Fare" type="rss" xmlUrl="http://blog.whatsthefare.com/feeds/posts/default" htmlUrl="http://blog.whatsthefare.com/"/>
-		</outline>
-		<outline text="travel" title="travel">
-			<outline text="Foodamentals" title="Foodamentals" type="rss" xmlUrl="http://www.foodamentals.com/feed/" htmlUrl="http://www.foodamentals.com"/>
 		</outline>
 	</body>
 </opml>
