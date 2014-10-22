@@ -276,7 +276,6 @@
 			<outline text="nikf.org" title="nikf.org" type="rss" xmlUrl="http://feeds.feedburner.com/nikf" htmlUrl="http://nikf.org/"/>
 			<outline text="miekd" title="miekd" type="rss" xmlUrl="http://feeds.feedburner.com/miekd" htmlUrl="http://miekd.com"/>
 			<outline text="Dan Shapiro" title="Dan Shapiro" type="rss" xmlUrl="http://feeds.feedburner.com/DanShapiro" htmlUrl="http://www.danshapiro.com/blog"/>
-			<outline text="Sirupsen" title="Sirupsen" type="rss" xmlUrl="http://feeds.feedburner.com/sirupsen" htmlUrl="http://sirupsen.github.com/"/>
 			<outline text="Minimalissimo" title="Minimalissimo" type="rss" xmlUrl="http://feeds.feedburner.com/Minimalissimo" htmlUrl="http://minimalissimo.com"/>
 			<outline text="Quotes on Design" title="Quotes on Design" type="rss" xmlUrl="http://feeds.feedburner.com/QuotesOnDesign" htmlUrl="http://quotesondesign.com"/>
 			<outline text="Daniel Eden" title="Daniel Eden" type="rss" xmlUrl="http://daneden.me/feed/" htmlUrl="http://daneden.me"/>
@@ -299,7 +298,6 @@
 			<outline text="Google Ventures" title="Google Ventures" type="rss" xmlUrl="http://feeds.feedburner.com/GVLibrary" htmlUrl="http://www.gv.com"/>
 			<outline text="Kidogo - Christina Cacioppo" title="Kidogo - Christina Cacioppo" type="rss" xmlUrl="http://christinacacioppo.com/blog/feed.rss" htmlUrl="http://christinacacioppo.com/blog"/>
 			<outline text="stevenf.com" title="stevenf.com" type="rss" xmlUrl="http://stevenf.com/feed/" htmlUrl="http://stevenf.com/"/>
-			<outline text="Kenneth Auchenberg" title="Kenneth Auchenberg" type="rss" xmlUrl="http://kenneth.io/atom.xml" htmlUrl="http://kenneth.io/"/>
 			<outline text="SaraSoueidan.com" title="SaraSoueidan.com" type="rss" xmlUrl="http://feeds.feedburner.com/sarasoueidan?format=xml" htmlUrl="http://sarasoueidan.com"/>
 			<outline text="Setosa blog" title="Setosa blog" type="rss" xmlUrl="http://setosa.io/blog/feed.xml" htmlUrl="http://setosa.io/blog/"/>
 			<outline text="Six Colors" title="Six Colors" type="rss" xmlUrl="http://feedpress.me/sixcolors" htmlUrl="http://www.sixcolors.com/"/>
@@ -307,8 +305,10 @@
 		<outline text="danish" title="danish">
 			<outline text="microformats.dk" title="microformats.dk" type="rss" xmlUrl="http://www.microformats.dk/feed/" htmlUrl="http://www.microformats.dk"/>
 			<outline text="Morten Just og Rock" title="Morten Just og Rock" type="rss" xmlUrl="http://feeds.feedburner.com/GenstartOgRock" htmlUrl="http://mortenjust.com"/>
+			<outline text="Sirupsen" title="Sirupsen" type="rss" xmlUrl="http://feeds.feedburner.com/sirupsen" htmlUrl="http://sirupsen.github.com/"/>
 			<outline text="Michael Nielsen" title="Michael Nielsen" type="rss" xmlUrl="http://feeds.feedburner.com/michaelnielsen/wmna?format=xml" htmlUrl="http://michaelnielsen.org/blog"/>
 			<outline text="Randoom" title="Randoom" type="rss" xmlUrl="http://feeds.feedburner.com/friism/sLZw?format=xml" htmlUrl="http://friism.com"/>
+			<outline text="Kenneth Auchenberg" title="Kenneth Auchenberg" type="rss" xmlUrl="http://kenneth.io/atom.xml" htmlUrl="http://kenneth.io/"/>
 		</outline>
 		<outline text="fashion" title="fashion">
 			<outline text="Valet." title="Valet." type="rss" xmlUrl="http://www.valetmag.com/distribution/rss_all.xml" htmlUrl="http://www.valetmag.com/index.php?rss"/>
