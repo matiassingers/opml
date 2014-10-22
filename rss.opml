@@ -164,7 +164,6 @@
 		<outline text="K-Nguyen's photo blog" title="K-Nguyen's photo blog" type="rss" xmlUrl="http://kennethnuigen.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://kennethnuigen.blogspot.com/"/>
 		<outline text="Martin Kaufmann Photography" title="Martin Kaufmann Photography" type="rss" xmlUrl="http://www.martinkaufmann.dk/feed/" htmlUrl="http://www.martinkaufmann.dk"/>
 		<outline text="Simon Tørring" title="Simon Tørring" type="rss" xmlUrl="http://simontoerring.dk/feed/" htmlUrl="http://simontoerring.dk"/>
-		<outline text="Thorborgs Talkshow" title="Thorborgs Talkshow" type="rss" xmlUrl="http://feeds.feedburner.com/thorborgstalkshow" htmlUrl="http://thorborg.tv"/>
 		<outline text="Casper Blom" title="Casper Blom" type="rss" xmlUrl="http://www.casperblom.dk/feed/" htmlUrl="http://www.casperblom.dk"/>
 		<outline text="We Are Mammoth" title="We Are Mammoth" type="rss" xmlUrl="http://wearemammoth.com/feed" htmlUrl="http://wearemammoth.com"/>
 		<outline text="#whatshouldwecallmgmtconsulting" title="#whatshouldwecallmgmtconsulting" type="rss" xmlUrl="http://whatshouldwecallmgmtconsulting.tumblr.com/rss" htmlUrl="http://whatshouldwecallmgmtconsulting.tumblr.com/"/>
@@ -308,7 +307,6 @@
 		<outline text="danish" title="danish">
 			<outline text="microformats.dk" title="microformats.dk" type="rss" xmlUrl="http://www.microformats.dk/feed/" htmlUrl="http://www.microformats.dk"/>
 			<outline text="Morten Just og Rock" title="Morten Just og Rock" type="rss" xmlUrl="http://feeds.feedburner.com/GenstartOgRock" htmlUrl="http://mortenjust.com"/>
-			<outline text="Thorborgs Talkshow" title="Thorborgs Talkshow" type="rss" xmlUrl="http://feeds.feedburner.com/thorborgstalkshow" htmlUrl="http://thorborg.tv"/>
 			<outline text="Michael Nielsen" title="Michael Nielsen" type="rss" xmlUrl="http://feeds.feedburner.com/michaelnielsen/wmna?format=xml" htmlUrl="http://michaelnielsen.org/blog"/>
 			<outline text="Randoom" title="Randoom" type="rss" xmlUrl="http://feeds.feedburner.com/friism/sLZw?format=xml" htmlUrl="http://friism.com"/>
 		</outline>
