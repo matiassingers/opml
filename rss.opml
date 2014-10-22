@@ -195,7 +195,6 @@
 		<outline text="One Mile at a Time" title="One Mile at a Time" type="rss" xmlUrl="http://onemileatatime.boardingarea.com/feed/" htmlUrl="http://onemileatatime.boardingarea.com"/>
 		<outline text="Alexander Jarvis" title="Alexander Jarvis" type="rss" xmlUrl="http://alexanderjarvis.com/feed/" htmlUrl="http://alexanderjarvis.com"/>
 		<outline text="Six Colors" title="Six Colors" type="rss" xmlUrl="http://feedpress.me/sixcolors" htmlUrl="http://www.sixcolors.com/"/>
-		<outline text="Frequent Flyer University" title="Frequent Flyer University" type="rss" xmlUrl="http://frequentflyeruniversity.boardingarea.com/feed/" htmlUrl="http://frequentflyeruniversity.boardingarea.com"/>
 		<outline text="Sniper In Mahwah" title="Sniper In Mahwah" type="rss" xmlUrl="http://sniperinmahwah.wordpress.com/feed/" htmlUrl="http://sniperinmahwah.wordpress.com"/>
 		<outline text="TOP SHELFIE" title="TOP SHELFIE" type="rss" xmlUrl="http://topshelfie.co/rss" htmlUrl="http://topshelfie.co/"/>
 		<outline text="What's the Fare" title="What's the Fare" type="rss" xmlUrl="http://blog.whatsthefare.com/feeds/posts/default" htmlUrl="http://blog.whatsthefare.com/"/>
@@ -204,7 +203,6 @@
 			<outline text="Hack My Trip" title="Hack My Trip" type="rss" xmlUrl="http://feeds.feedburner.com/hackmytripfeed" htmlUrl="http://hackmytrip.com"/>
 			<outline text="Layovers" title="Layovers" type="rss" xmlUrl="http://www.layovers.to/hub?format=RSS" htmlUrl="http://www.layovers.to/"/>
 			<outline text="One Mile at a Time" title="One Mile at a Time" type="rss" xmlUrl="http://onemileatatime.boardingarea.com/feed/" htmlUrl="http://onemileatatime.boardingarea.com"/>
-			<outline text="Frequent Flyer University" title="Frequent Flyer University" type="rss" xmlUrl="http://frequentflyeruniversity.boardingarea.com/feed/" htmlUrl="http://frequentflyeruniversity.boardingarea.com"/>
 		</outline>
 		<outline text="bankrupt" title="bankrupt">
 			<outline text="Devour" title="Devour" type="rss" xmlUrl="http://feeds.feedburner.com/devourfeed" htmlUrl="http://devour.com/"/>
