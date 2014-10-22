@@ -27,7 +27,6 @@
 		<outline text="Pinboard - bookmarking for introverts" title="Pinboard - bookmarking for introverts" type="rss" xmlUrl="http://blog.pinboard.in/feed/" htmlUrl="http://pinboard.in/"/>
 		<outline text="Rands In Repose" title="Rands In Repose" type="rss" xmlUrl="http://www.randsinrepose.com/index.xml" htmlUrl="http://www.randsinrepose.com/"/>
 		<outline text="ShaunInman.com // plus Elsewhere" title="ShaunInman.com // plus Elsewhere" type="rss" xmlUrl="http://www.shauninman.com/feeds/plus" htmlUrl="http://www.shauninman.com/"/>
-		<outline text="Steven Frank's Posts" title="Steven Frank's Posts" type="rss" xmlUrl="http://stevenf.com/index.xml" htmlUrl="http://stevenf.com"/>
 		<outline text="Snook.ca" title="Snook.ca" type="rss" xmlUrl="http://feeds.feedburner.com/snookca" htmlUrl="http://snook.ca/"/>
 		<outline text="Subtraction.com" title="Subtraction.com" type="rss" xmlUrl="http://feeds.feedburner.com/subtraction" htmlUrl="http://www.subtraction.com/"/>
 		<outline text="Dustin Curtis" title="Dustin Curtis" type="rss" xmlUrl="http://feeds.feedburner.com/dcurtis" htmlUrl="http://dcurt.is/"/>
@@ -50,7 +49,6 @@
 		<outline text="Instapaper Blog" title="Instapaper Blog" type="rss" xmlUrl="http://blog.instapaper.com/rss" htmlUrl="http://blog.instapaper.com/"/>
 		<outline text="Idle Words" title="Idle Words" type="rss" xmlUrl="http://www.idlewords.com/index.xml" htmlUrl="http://idlewords.com"/>
 		<outline text="lonelysandwich" title="lonelysandwich" type="rss" xmlUrl="http://lonelysandwich.com/rss" htmlUrl="http://lonelysandwich.com/"/>
-		<outline text="stevenf.com" title="stevenf.com" type="rss" xmlUrl="http://stevenf.tumblr.com/rss" htmlUrl="http://stevenf.tumblr.com/"/>
 		<outline text="Panic Blog" title="Panic Blog" type="rss" xmlUrl="http://www.panic.com/blog/feed/" htmlUrl="http://www.panic.com/blog"/>
 		<outline text="National Geographic Found" title="National Geographic Found" type="rss" xmlUrl="http://natgeofound.tumblr.com/rss" htmlUrl="http://natgeofound.tumblr.com/"/>
 		<outline text="Bridging the Nerd Gap" title="Bridging the Nerd Gap" type="rss" xmlUrl="http://feeds.feedburner.com/NerdGap" htmlUrl="http://nerdgap.com"/>
@@ -247,6 +245,7 @@
 		<outline text="Mismo - Updates" title="Mismo - Updates" type="rss" xmlUrl="http://www.mismo.dk/blogs/news.atom" htmlUrl="http://www.mismo.dk/blogs/news"/>
 		<outline text="Kidogo - Christina Cacioppo" title="Kidogo - Christina Cacioppo" type="rss" xmlUrl="http://christinacacioppo.com/blog/feed.rss" htmlUrl="http://christinacacioppo.com/blog"/>
 		<outline text="Screen shots of computer code" title="Screen shots of computer code" type="rss" xmlUrl="http://moviecode.tumblr.com/rss" htmlUrl="http://moviecode.tumblr.com"/>
+		<outline text="stevenf.com" title="stevenf.com" type="rss" xmlUrl="http://stevenf.com/feed/" htmlUrl="http://stevenf.com/"/>
 		<outline text="Dinosaur Polo Club" title="Dinosaur Polo Club" type="rss" xmlUrl="http://devlog.dinopoloclub.com/rss" htmlUrl="http://devlog.dinopoloclub.com"/>
 		<outline text="Matias Singers" title="Matias Singers" type="rss" xmlUrl="http://mts.io/atom.xml" htmlUrl="http://mts.io"/>
 		<outline text="Andreas Stokholm" title="Andreas Stokholm" type="rss" xmlUrl="http://www.stokholm.io/feed.xml" htmlUrl="http://www.stokholm.io/"/>
@@ -297,7 +296,6 @@
 			<outline text="Mike Industries" title="Mike Industries" type="rss" xmlUrl="http://feeds2.feedburner.com/mikeindustries" htmlUrl="http://www.mikeindustries.com/blog"/>
 			<outline text="Rands In Repose" title="Rands In Repose" type="rss" xmlUrl="http://www.randsinrepose.com/index.xml" htmlUrl="http://www.randsinrepose.com/"/>
 			<outline text="ShaunInman.com // plus Elsewhere" title="ShaunInman.com // plus Elsewhere" type="rss" xmlUrl="http://www.shauninman.com/feeds/plus" htmlUrl="http://www.shauninman.com/"/>
-			<outline text="Steven Frank's Posts" title="Steven Frank's Posts" type="rss" xmlUrl="http://stevenf.com/index.xml" htmlUrl="http://stevenf.com"/>
 			<outline text="Snook.ca" title="Snook.ca" type="rss" xmlUrl="http://feeds.feedburner.com/snookca" htmlUrl="http://snook.ca/"/>
 			<outline text="Subtraction.com" title="Subtraction.com" type="rss" xmlUrl="http://feeds.feedburner.com/subtraction" htmlUrl="http://www.subtraction.com/"/>
 			<outline text="Dustin Curtis" title="Dustin Curtis" type="rss" xmlUrl="http://feeds.feedburner.com/dcurtis" htmlUrl="http://dcurt.is/"/>
@@ -315,7 +313,6 @@
 			<outline text="43 Folders" title="43 Folders" type="rss" xmlUrl="http://feeds.feedburner.com/43folders" htmlUrl="http://www.43folders.com"/>
 			<outline text="Idle Words" title="Idle Words" type="rss" xmlUrl="http://www.idlewords.com/index.xml" htmlUrl="http://idlewords.com"/>
 			<outline text="lonelysandwich" title="lonelysandwich" type="rss" xmlUrl="http://lonelysandwich.com/rss" htmlUrl="http://lonelysandwich.com/"/>
-			<outline text="stevenf.com" title="stevenf.com" type="rss" xmlUrl="http://stevenf.tumblr.com/rss" htmlUrl="http://stevenf.tumblr.com/"/>
 			<outline text="Bridging the Nerd Gap" title="Bridging the Nerd Gap" type="rss" xmlUrl="http://feeds.feedburner.com/NerdGap" htmlUrl="http://nerdgap.com"/>
 			<outline text="Hypertext" title="Hypertext" type="rss" xmlUrl="http://feeds.feedburner.com/jblanton" htmlUrl="http://hypertext.net"/>
 			<outline text="TightWind" title="TightWind" type="rss" xmlUrl="http://feeds.feedburner.com/tightwind" htmlUrl="http://tightwind.net"/>
@@ -432,6 +429,7 @@
 			<outline text="carpeaqua by Justin Williams" title="carpeaqua by Justin Williams" type="rss" xmlUrl="http://carpeaqua.com/feed/index.xml" htmlUrl="http://carpeaqua.com/"/>
 			<outline text="Google Ventures" title="Google Ventures" type="rss" xmlUrl="http://feeds.feedburner.com/GVLibrary" htmlUrl="http://www.gv.com"/>
 			<outline text="Kidogo - Christina Cacioppo" title="Kidogo - Christina Cacioppo" type="rss" xmlUrl="http://christinacacioppo.com/blog/feed.rss" htmlUrl="http://christinacacioppo.com/blog"/>
+			<outline text="stevenf.com" title="stevenf.com" type="rss" xmlUrl="http://stevenf.com/feed/" htmlUrl="http://stevenf.com/"/>
 			<outline text="Kenneth Auchenberg" title="Kenneth Auchenberg" type="rss" xmlUrl="http://kenneth.io/atom.xml" htmlUrl="http://kenneth.io/"/>
 			<outline text="SaraSoueidan.com" title="SaraSoueidan.com" type="rss" xmlUrl="http://feeds.feedburner.com/sarasoueidan?format=xml" htmlUrl="http://sarasoueidan.com"/>
 			<outline text="Setosa blog" title="Setosa blog" type="rss" xmlUrl="http://setosa.io/blog/feed.xml" htmlUrl="http://setosa.io/blog/"/>
