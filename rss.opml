@@ -382,7 +382,6 @@
 			<outline text="Quotes on Design" title="Quotes on Design" type="rss" xmlUrl="http://feeds.feedburner.com/QuotesOnDesign" htmlUrl="http://quotesondesign.com"/>
 			<outline text="The Color Machine" title="The Color Machine" type="rss" xmlUrl="http://thecolormachine.com/feed/" htmlUrl="http://thecolormachine.com"/>
 			<outline text="Daniel Eden" title="Daniel Eden" type="rss" xmlUrl="http://daneden.me/feed/" htmlUrl="http://daneden.me"/>
-			<outline text="Musings of The Global Traveller" title="Musings of The Global Traveller" type="rss" xmlUrl="http://feeds.feedburner.com/MusingsOfTheGlobalTraveller" htmlUrl="http://boardingarea.com/blogs/theglobaltraveller"/>
 			<outline text="Lickability Blog" title="Lickability Blog" type="rss" xmlUrl="http://blog.lickability.com/rss" htmlUrl="http://blog.lickability.com/"/>
 			<outline text="Under the Hat - A weblog written by 10to1" title="Under the Hat - A weblog written by 10to1" type="rss" xmlUrl="http://feeds.feedburner.com/UnderTheHat-10to1" htmlUrl="http://10to1.be/"/>
 			<outline text="Andrew Greig" title="Andrew Greig" type="rss" xmlUrl="http://feeds.feedburner.com/AndrewGreig" htmlUrl="http://www.andrewgreig.com"/>
@@ -533,6 +532,9 @@
 			<outline text="Podio Engineering Blog" title="Podio Engineering Blog" type="rss" xmlUrl="http://engineering.podio.com/feed/" htmlUrl="http://engineering.podio.com"/>
 			<outline text="Swift Blog - Apple Developer" title="Swift Blog - Apple Developer" type="rss" xmlUrl="https://developer.apple.com/swift/blog/news.rss" htmlUrl="http://developer.apple.com/swift/blog/"/>
 			<outline text="What's the Fare" title="What's the Fare" type="rss" xmlUrl="http://blog.whatsthefare.com/feeds/posts/default" htmlUrl="http://blog.whatsthefare.com/"/>
+		</outline>
+		<outline text="travel" title="travel">
+			<outline text="Musings of The Global Traveller" title="Musings of The Global Traveller" type="rss" xmlUrl="http://feeds.feedburner.com/MusingsOfTheGlobalTraveller" htmlUrl="http://boardingarea.com/blogs/theglobaltraveller"/>
 		</outline>
 	</body>
 </opml>
