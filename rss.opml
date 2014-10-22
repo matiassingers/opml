@@ -143,7 +143,6 @@
 		<outline text="Flying With Fish" title="Flying With Fish" type="rss" xmlUrl="http://feeds.feedblitz.com/FlyingWithFish" htmlUrl="http://boardingarea.com/blogs/flyingwithfish"/>
 		<outline text="Minimalissimo" title="Minimalissimo" type="rss" xmlUrl="http://feeds.feedburner.com/Minimalissimo" htmlUrl="http://minimalissimo.com"/>
 		<outline text="I am Paddy" title="I am Paddy" type="rss" xmlUrl="http://feeds.feedburner.com/iampaddy" htmlUrl="http://blog.iampaddy.com"/>
-		<outline text="Kyle Meyer" title="Kyle Meyer" type="rss" xmlUrl="http://feeds.feedburner.com/astheria" htmlUrl="http://blog.kylemeyer.com/"/>
 		<outline text="Quotes on Design" title="Quotes on Design" type="rss" xmlUrl="http://feeds.feedburner.com/QuotesOnDesign" htmlUrl="http://quotesondesign.com"/>
 		<outline text="Suit Up or Die" title="Suit Up or Die" type="rss" xmlUrl="http://www.suitupordie.com/rss.xml" htmlUrl="http://www.suitupordie.com"/>
 		<outline text="The Color Machine" title="The Color Machine" type="rss" xmlUrl="http://thecolormachine.com/feed/" htmlUrl="http://thecolormachine.com"/>
@@ -186,6 +185,7 @@
 		<outline text="Roger and Mike's Hypernet Blog" title="Roger and Mike's Hypernet Blog" type="rss" xmlUrl="http://rogerandmike.com/rss" htmlUrl="http://rogerandmike.com/"/>
 		<outline text="Design for Developers" title="Design for Developers" type="rss" xmlUrl="http://jacojoubert.ca/rss" htmlUrl="http://jacojoubert.ca/"/>
 		<outline text="Studio Neat - News" title="Studio Neat - News" type="rss" xmlUrl="http://www.studioneat.com/blogs/news.atom" htmlUrl="http://www.studioneat.com/blogs/news"/>
+		<outline text="Kyle Meyer" title="Kyle Meyer" type="rss" xmlUrl="http://blog.kylemeyer.com/rss" htmlUrl="http://blog.kylemeyer.com/"/>
 		<outline text="sincerely syvogfirs" title="sincerely syvogfirs" type="rss" xmlUrl="http://sincerelysyvogfirs.tumblr.com/rss" htmlUrl="http://sincerelysyvogfirs.tumblr.com/"/>
 		<outline text="Fine Goods" title="Fine Goods" type="rss" xmlUrl="http://www.finegoodsmarket.com/products.rss" htmlUrl="http://www.finegoodsmarket.com"/>
 		<outline text="minimal design" title="minimal design" type="rss" xmlUrl="http://feeds.feedburner.com/minimaldesign" htmlUrl="http://minimal.io"/>
@@ -382,7 +382,6 @@
 			<outline text="Hoban Letterpress" title="Hoban Letterpress" type="rss" xmlUrl="http://www.hobanpress.com/rss" htmlUrl="http://www.hobanpress.com/"/>
 			<outline text="Minimalissimo" title="Minimalissimo" type="rss" xmlUrl="http://feeds.feedburner.com/Minimalissimo" htmlUrl="http://minimalissimo.com"/>
 			<outline text="I am Paddy" title="I am Paddy" type="rss" xmlUrl="http://feeds.feedburner.com/iampaddy" htmlUrl="http://blog.iampaddy.com"/>
-			<outline text="Kyle Meyer" title="Kyle Meyer" type="rss" xmlUrl="http://feeds.feedburner.com/astheria" htmlUrl="http://blog.kylemeyer.com/"/>
 			<outline text="Quotes on Design" title="Quotes on Design" type="rss" xmlUrl="http://feeds.feedburner.com/QuotesOnDesign" htmlUrl="http://quotesondesign.com"/>
 			<outline text="The Color Machine" title="The Color Machine" type="rss" xmlUrl="http://thecolormachine.com/feed/" htmlUrl="http://thecolormachine.com"/>
 			<outline text="Daniel Eden" title="Daniel Eden" type="rss" xmlUrl="http://daneden.me/feed/" htmlUrl="http://daneden.me"/>
@@ -410,6 +409,7 @@
 			<outline text="Design for Developers" title="Design for Developers" type="rss" xmlUrl="http://jacojoubert.ca/rss" htmlUrl="http://jacojoubert.ca/"/>
 			<outline text="Studio Neat - News" title="Studio Neat - News" type="rss" xmlUrl="http://www.studioneat.com/blogs/news.atom" htmlUrl="http://www.studioneat.com/blogs/news"/>
 			<outline text="minimal design" title="minimal design" type="rss" xmlUrl="http://feeds.feedburner.com/minimaldesign" htmlUrl="http://minimal.io"/>
+			<outline text="Kyle Meyer" title="Kyle Meyer" type="rss" xmlUrl="http://blog.kylemeyer.com/rss" htmlUrl="http://blog.kylemeyer.com/"/>
 			<outline text="NOMO Design Shop" title="NOMO Design Shop" type="rss" xmlUrl="http://shop.nomodesign.com/products.rss" htmlUrl="http://shop.nomodesign.com"/>
 			<outline text="Cold Hard Facts" title="Cold Hard Facts" type="rss" xmlUrl="http://feeds.feedburner.com/coldhardfacts?format=xml" htmlUrl="http://mewo2.com"/>
 			<outline text="An Event Apart News" title="An Event Apart News" type="rss" xmlUrl="http://aneventapart.com/news/rss2" htmlUrl="http://aneventapart.com/news/feed/"/>
