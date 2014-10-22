@@ -2,7 +2,7 @@
 <opml version="1.0">
 	<head>
 		<title>RSS subscriptions for mail@matiassingers.com</title>
-		<dateCreated>Tue, 21 Oct 2014 07:11:54 -0500</dateCreated>
+		<dateCreated>Wed, 22 Oct 2014 07:35:31 -0500</dateCreated>
 		<ownerEmail>mail@matiassingers.com</ownerEmail>
 	</head>
 	<body>
@@ -13,7 +13,6 @@
 		<outline text="Coding Horror" title="Coding Horror" type="rss" xmlUrl="http://feeds.feedburner.com/codinghorror/" htmlUrl="http://www.codinghorror.com/blog/"/>
 		<outline text="Dan Mall: Articles" title="Dan Mall: Articles" type="rss" xmlUrl="http://feeds.feedburner.com/dan-mall-articles" htmlUrl="http://www.danielmall.com/"/>
 		<outline text="Daring Fireball" title="Daring Fireball" type="rss" xmlUrl="http://daringfireball.net/index.xml" htmlUrl="http://daringfireball.net/"/>
-		<outline text="Dustin Curtis" title="Dustin Curtis" type="rss" xmlUrl="http://dustincurtis.com/rss.xml" htmlUrl="http://dustincurtis.com/"/>
 		<outline text="furbo.org" title="furbo.org" type="rss" xmlUrl="http://furbo.org/feed/" htmlUrl="http://furbo.org"/>
 		<outline text="The Hickensian" title="The Hickensian" type="rss" xmlUrl="http://feeds.feedburner.com/hicksdesign" htmlUrl="http://hicksdesign.co.uk/journal/"/>
 		<outline text="Jason Santa Maria" title="Jason Santa Maria" type="rss" xmlUrl="http://feeds.feedburner.com/jsm-rss" htmlUrl="http://jasonsantamaria.com/"/>
@@ -31,6 +30,7 @@
 		<outline text="Steven Frank's Posts" title="Steven Frank's Posts" type="rss" xmlUrl="http://stevenf.com/index.xml" htmlUrl="http://stevenf.com"/>
 		<outline text="Snook.ca" title="Snook.ca" type="rss" xmlUrl="http://feeds.feedburner.com/snookca" htmlUrl="http://snook.ca/"/>
 		<outline text="Subtraction.com" title="Subtraction.com" type="rss" xmlUrl="http://feeds.feedburner.com/subtraction" htmlUrl="http://www.subtraction.com/"/>
+		<outline text="Dustin Curtis" title="Dustin Curtis" type="rss" xmlUrl="http://feeds.feedburner.com/dcurtis" htmlUrl="http://dcurt.is/"/>
 		<outline text="Zach Holman" title="Zach Holman" type="rss" xmlUrl="http://feeds.feedburner.com/holman" htmlUrl="http://zachholman.com/"/>
 		<outline text="Perishable Press" title="Perishable Press" type="rss" xmlUrl="http://feeds.feedburner.com/perishablepress" htmlUrl="http://perishablepress.com"/>
 		<outline text="24 ways" title="24 ways" type="rss" xmlUrl="http://feeds.feedburner.com/24ways" htmlUrl="http://24ways.org/"/>
@@ -285,7 +285,6 @@
 			<outline text="Cameron Moll / Designer, Speaker, Author" title="Cameron Moll / Designer, Speaker, Author" type="rss" xmlUrl="http://cameronmoll.tumblr.com/rss" htmlUrl="http://cameronmoll.tumblr.com/"/>
 			<outline text="Coding Horror" title="Coding Horror" type="rss" xmlUrl="http://feeds.feedburner.com/codinghorror/" htmlUrl="http://www.codinghorror.com/blog/"/>
 			<outline text="Dan Mall: Articles" title="Dan Mall: Articles" type="rss" xmlUrl="http://feeds.feedburner.com/dan-mall-articles" htmlUrl="http://www.danielmall.com/"/>
-			<outline text="Dustin Curtis" title="Dustin Curtis" type="rss" xmlUrl="http://dustincurtis.com/rss.xml" htmlUrl="http://dustincurtis.com/"/>
 			<outline text="furbo.org" title="furbo.org" type="rss" xmlUrl="http://furbo.org/feed/" htmlUrl="http://furbo.org"/>
 			<outline text="The Hickensian" title="The Hickensian" type="rss" xmlUrl="http://feeds.feedburner.com/hicksdesign" htmlUrl="http://hicksdesign.co.uk/journal/"/>
 			<outline text="Jason Santa Maria" title="Jason Santa Maria" type="rss" xmlUrl="http://feeds.feedburner.com/jsm-rss" htmlUrl="http://jasonsantamaria.com/"/>
@@ -301,6 +300,7 @@
 			<outline text="Steven Frank's Posts" title="Steven Frank's Posts" type="rss" xmlUrl="http://stevenf.com/index.xml" htmlUrl="http://stevenf.com"/>
 			<outline text="Snook.ca" title="Snook.ca" type="rss" xmlUrl="http://feeds.feedburner.com/snookca" htmlUrl="http://snook.ca/"/>
 			<outline text="Subtraction.com" title="Subtraction.com" type="rss" xmlUrl="http://feeds.feedburner.com/subtraction" htmlUrl="http://www.subtraction.com/"/>
+			<outline text="Dustin Curtis" title="Dustin Curtis" type="rss" xmlUrl="http://feeds.feedburner.com/dcurtis" htmlUrl="http://dcurt.is/"/>
 			<outline text="Zach Holman" title="Zach Holman" type="rss" xmlUrl="http://feeds.feedburner.com/holman" htmlUrl="http://zachholman.com/"/>
 			<outline text="Perishable Press" title="Perishable Press" type="rss" xmlUrl="http://feeds.feedburner.com/perishablepress" htmlUrl="http://perishablepress.com"/>
 			<outline text="24 ways" title="24 ways" type="rss" xmlUrl="http://feeds.feedburner.com/24ways" htmlUrl="http://24ways.org/"/>
