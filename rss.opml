@@ -253,6 +253,7 @@
 			<outline text="A VC" title="A VC" type="rss" xmlUrl="http://feeds.feedburner.com/avc" htmlUrl="http://www.avc.com/a_vc/"/>
 			<outline text="Bobulate" title="Bobulate" type="rss" xmlUrl="http://bobulate.com/rss" htmlUrl="http://bobulate.com/"/>
 			<outline text="Felt Tip blog" title="Felt Tip blog" type="rss" xmlUrl="http://felttip.tumblr.com/rss" htmlUrl="http://felttip.tumblr.com/"/>
+			<outline text="Y Combinator Posthaven" title="Y Combinator Posthaven" type="rss" xmlUrl="http://blog.ycombinator.com/posts.atom" htmlUrl="http://ycombinator.posterous.com"/>
 			<outline text="swissmiss" title="swissmiss" type="rss" xmlUrl="http://feeds2.feedburner.com/Swissmiss" htmlUrl="http://www.swiss-miss.com"/>
 			<outline text="Amber on Rails" title="Amber on Rails" type="rss" xmlUrl="http://amberonrails.com/feed/" htmlUrl="http://amberonrails.com/"/>
 			<outline text="Bret Victor's website" title="Bret Victor's website" type="rss" xmlUrl="http://worrydream.com/feed.xml" htmlUrl="http://worrydream.com/"/>
