@@ -2,7 +2,7 @@
 <opml version="1.0">
 	<head>
 		<title>RSS subscriptions for mail@matiassingers.com</title>
-		<dateCreated>Wed, 22 Oct 2014 07:49:08 -0500</dateCreated>
+		<dateCreated>Mon, 27 Oct 2014 01:25:10 -0500</dateCreated>
 		<ownerEmail>mail@matiassingers.com</ownerEmail>
 	</head>
 	<body>
@@ -198,11 +198,17 @@
 		<outline text="Sniper In Mahwah" title="Sniper In Mahwah" type="rss" xmlUrl="http://sniperinmahwah.wordpress.com/feed/" htmlUrl="http://sniperinmahwah.wordpress.com"/>
 		<outline text="TOP SHELFIE" title="TOP SHELFIE" type="rss" xmlUrl="http://topshelfie.co/rss" htmlUrl="http://topshelfie.co/"/>
 		<outline text="What's the Fare" title="What's the Fare" type="rss" xmlUrl="http://blog.whatsthefare.com/feeds/posts/default" htmlUrl="http://blog.whatsthefare.com/"/>
+		<outline text="FlyerTalk Forums - Premium Fare Deals" title="FlyerTalk Forums - Premium Fare Deals" type="rss" xmlUrl="http://www.flyertalk.com/forum/external.php?type=RSS2&amp;forumids=740" htmlUrl="http://www.flyertalk.com/forum"/>
+		<outline text="FlyerTalk Forums - Qatar Airways | Privilege Club" title="FlyerTalk Forums - Qatar Airways | Privilege Club" type="rss" xmlUrl="http://www.flyertalk.com/forum/external.php?type=RSS2&amp;forumids=644" htmlUrl="http://www.flyertalk.com/forum"/>
+		<outline text="FlyerTalk Forums - Budget Asian, Australian, and South Pacific Airlines" title="FlyerTalk Forums - Budget Asian, Australian, and South Pacific Airlines" type="rss" xmlUrl="http://www.flyertalk.com/forum/external.php?type=RSS2&amp;forumids=726" htmlUrl="http://www.flyertalk.com/forum"/>
 		<outline text="aviation" title="aviation">
 			<outline text="Flying With Fish" title="Flying With Fish" type="rss" xmlUrl="http://feeds.feedblitz.com/FlyingWithFish" htmlUrl="http://boardingarea.com/blogs/flyingwithfish"/>
 			<outline text="Hack My Trip" title="Hack My Trip" type="rss" xmlUrl="http://feeds.feedburner.com/hackmytripfeed" htmlUrl="http://hackmytrip.com"/>
 			<outline text="Layovers" title="Layovers" type="rss" xmlUrl="http://www.layovers.to/hub?format=RSS" htmlUrl="http://www.layovers.to/"/>
 			<outline text="One Mile at a Time" title="One Mile at a Time" type="rss" xmlUrl="http://onemileatatime.boardingarea.com/feed/" htmlUrl="http://onemileatatime.boardingarea.com"/>
+			<outline text="FlyerTalk Forums - Premium Fare Deals" title="FlyerTalk Forums - Premium Fare Deals" type="rss" xmlUrl="http://www.flyertalk.com/forum/external.php?type=RSS2&amp;forumids=740" htmlUrl="http://www.flyertalk.com/forum"/>
+			<outline text="FlyerTalk Forums - Qatar Airways | Privilege Club" title="FlyerTalk Forums - Qatar Airways | Privilege Club" type="rss" xmlUrl="http://www.flyertalk.com/forum/external.php?type=RSS2&amp;forumids=644" htmlUrl="http://www.flyertalk.com/forum"/>
+			<outline text="FlyerTalk Forums - Budget Asian, Australian, and South Pacific Airlines" title="FlyerTalk Forums - Budget Asian, Australian, and South Pacific Airlines" type="rss" xmlUrl="http://www.flyertalk.com/forum/external.php?type=RSS2&amp;forumids=726" htmlUrl="http://www.flyertalk.com/forum"/>
 		</outline>
 		<outline text="bankrupt" title="bankrupt">
 			<outline text="Devour" title="Devour" type="rss" xmlUrl="http://feeds.feedburner.com/devourfeed" htmlUrl="http://devour.com/"/>
