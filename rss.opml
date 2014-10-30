@@ -2,7 +2,7 @@
 <opml version="1.0">
 	<head>
 		<title>RSS subscriptions for mail@matiassingers.com</title>
-		<dateCreated>Mon, 27 Oct 2014 01:25:10 -0500</dateCreated>
+		<dateCreated>Thu, 30 Oct 2014 04:11:39 -0500</dateCreated>
 		<ownerEmail>mail@matiassingers.com</ownerEmail>
 	</head>
 	<body>
@@ -90,6 +90,7 @@
 		<outline text="The Loop" title="The Loop" type="rss" xmlUrl="http://www.loopinsight.com/feed/" htmlUrl="http://www.loopinsight.com"/>
 		<outline text="A Working Library: All" title="A Working Library: All" type="rss" xmlUrl="http://aworkinglibrary.com/library/rss_all/" htmlUrl="http://www.aworkinglibrary.com"/>
 		<outline text="ParisLemon" title="ParisLemon" type="rss" xmlUrl="http://feeds.feedburner.com/parislemon" htmlUrl="http://parislemon.com/"/>
+		<outline text="Derrick Ko" title="Derrick Ko" type="rss" xmlUrl="http://blog.derrickko.com/feed" htmlUrl="http://blog.derrickko.com"/>
 		<outline text="Valet." title="Valet." type="rss" xmlUrl="http://www.valetmag.com/distribution/rss_all.xml" htmlUrl="http://www.valetmag.com/index.php?rss"/>
 		<outline text="Joshua Topolsky" title="Joshua Topolsky" type="rss" xmlUrl="http://joshuatopolsky.com/rss" htmlUrl="http://joshuatopolsky.com/"/>
 		<outline text="WebKitbits" title="WebKitbits" type="rss" xmlUrl="http://feeds.webkitbits.com/WebKitBits" htmlUrl="http://www.webkitbits.com/"/>
@@ -275,6 +276,7 @@
 			<outline text="The Loop" title="The Loop" type="rss" xmlUrl="http://www.loopinsight.com/feed/" htmlUrl="http://www.loopinsight.com"/>
 			<outline text="A Working Library: All" title="A Working Library: All" type="rss" xmlUrl="http://aworkinglibrary.com/library/rss_all/" htmlUrl="http://www.aworkinglibrary.com"/>
 			<outline text="ParisLemon" title="ParisLemon" type="rss" xmlUrl="http://feeds.feedburner.com/parislemon" htmlUrl="http://parislemon.com/"/>
+			<outline text="Derrick Ko" title="Derrick Ko" type="rss" xmlUrl="http://blog.derrickko.com/feed" htmlUrl="http://blog.derrickko.com"/>
 			<outline text="Joshua Topolsky" title="Joshua Topolsky" type="rss" xmlUrl="http://joshuatopolsky.com/rss" htmlUrl="http://joshuatopolsky.com/"/>
 			<outline text="WebKitbits" title="WebKitbits" type="rss" xmlUrl="http://feeds.webkitbits.com/WebKitBits" htmlUrl="http://www.webkitbits.com/"/>
 			<outline text="nikf.org" title="nikf.org" type="rss" xmlUrl="http://feeds.feedburner.com/nikf" htmlUrl="http://nikf.org/"/>
