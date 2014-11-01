@@ -2,7 +2,7 @@
 <opml version="1.0">
 	<head>
 		<title>RSS subscriptions for mail@matiassingers.com</title>
-		<dateCreated>Thu, 30 Oct 2014 04:11:39 -0500</dateCreated>
+		<dateCreated>Fri, 31 Oct 2014 05:16:01 -0500</dateCreated>
 		<ownerEmail>mail@matiassingers.com</ownerEmail>
 	</head>
 	<body>
@@ -31,6 +31,7 @@
 		<outline text="Dustin Curtis" title="Dustin Curtis" type="rss" xmlUrl="http://feeds.feedburner.com/dcurtis" htmlUrl="http://dcurt.is/"/>
 		<outline text="Zach Holman" title="Zach Holman" type="rss" xmlUrl="http://feeds.feedburner.com/holman" htmlUrl="http://zachholman.com/"/>
 		<outline text="24 ways" title="24 ways" type="rss" xmlUrl="http://feeds.feedburner.com/24ways" htmlUrl="http://24ways.org/"/>
+		<outline text="PhoneGap" title="PhoneGap" type="rss" xmlUrl="http://phonegap.com/rss.xml" htmlUrl="http://phonegap.com/"/>
 		<outline text="The Dropbox Blog" title="The Dropbox Blog" type="rss" xmlUrl="https://blog.dropbox.com/feed/" htmlUrl="https://blog.dropbox.com"/>
 		<outline text="Signal vs. Noise" title="Signal vs. Noise" type="rss" xmlUrl="http://feeds.feedburner.com/37signals/beMH" htmlUrl="http://37signals.com/svn/posts"/>
 		<outline text="SplatF" title="SplatF" type="rss" xmlUrl="http://www.splatf.com/feed/" htmlUrl="http://www.splatf.com"/>
@@ -170,6 +171,7 @@
 		<outline text="josh.com" title="josh.com" type="rss" xmlUrl="http://wp.josh.com/feed/" htmlUrl="http://wp.josh.com"/>
 		<outline text="Michael Nielsen" title="Michael Nielsen" type="rss" xmlUrl="http://feeds.feedburner.com/michaelnielsen/wmna?format=xml" htmlUrl="http://michaelnielsen.org/blog"/>
 		<outline text="Both Sides of the Table" title="Both Sides of the Table" type="rss" xmlUrl="http://www.bothsidesofthetable.com/feed/" htmlUrl="http://www.bothsidesofthetable.com"/>
+		<outline text="Apache Cordova" title="Apache Cordova" type="rss" xmlUrl="http://cordova.apache.org/rss.xml" htmlUrl="http://cordova.apache.org/rss.xml"/>
 		<outline text="carpeaqua by Justin Williams" title="carpeaqua by Justin Williams" type="rss" xmlUrl="http://carpeaqua.com/feed/index.xml" htmlUrl="http://carpeaqua.com/"/>
 		<outline text="The GitHub Blog" title="The GitHub Blog" type="rss" xmlUrl="https://github.com/blog/all.atom" htmlUrl="https://github.com/blog"/>
 		<outline text="Coin" title="Coin" type="rss" xmlUrl="http://blog.onlycoin.com/posts?format=rss" htmlUrl="http://blog.onlycoin.com/"/>
