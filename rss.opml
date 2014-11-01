@@ -314,6 +314,14 @@
 			<outline text="Setosa blog" title="Setosa blog" type="rss" xmlUrl="http://setosa.io/blog/feed.xml" htmlUrl="http://setosa.io/blog/"/>
 			<outline text="Six Colors" title="Six Colors" type="rss" xmlUrl="http://feedpress.me/sixcolors" htmlUrl="http://www.sixcolors.com/"/>
 		</outline>
+		<outline text="cordova" title="cordova">
+			<outline text="PhoneGap" title="PhoneGap" type="rss" xmlUrl="http://phonegap.com/rss.xml" htmlUrl="http://phonegap.com/"/>
+			<outline text="RisingJ" title="RisingJ" type="rss" xmlUrl="http://www.risingj.com/feed" htmlUrl="http://www.risingj.com"/>
+			<outline text="Shazron's Cordova (aka PhoneGap) Blog" title="Shazron's Cordova (aka PhoneGap) Blog" type="rss" xmlUrl="http://shazronatadobe.wordpress.com/feed/" htmlUrl="http://shazronatadobe.wordpress.com"/>
+			<outline text="Apache Cordova" title="Apache Cordova" type="rss" xmlUrl="http://cordova.apache.org/rss.xml" htmlUrl="http://cordova.apache.org/rss.xml"/>
+			<outline text="Tech. Gaming. Open-Source Wizards" title="Tech. Gaming. Open-Source Wizards" type="rss" xmlUrl="http://wizcorp.tumblr.com/rss" htmlUrl="http://wizcorp.tumblr.com/"/>
+			<outline text="(No title)" title="(No title)" type="rss" xmlUrl="http://infil00p.org/feed.xml" htmlUrl="http://infil00p.org"/>
+		</outline>
 		<outline text="danish" title="danish">
 			<outline text="microformats.dk" title="microformats.dk" type="rss" xmlUrl="http://www.microformats.dk/feed/" htmlUrl="http://www.microformats.dk"/>
 			<outline text="Morten Just og Rock" title="Morten Just og Rock" type="rss" xmlUrl="http://feeds.feedburner.com/GenstartOgRock" htmlUrl="http://mortenjust.com"/>
