@@ -206,6 +206,7 @@
 		<outline text="FlyerTalk Forums - Premium Fare Deals" title="FlyerTalk Forums - Premium Fare Deals" type="rss" xmlUrl="http://www.flyertalk.com/forum/external.php?type=RSS2&amp;forumids=740" htmlUrl="http://www.flyertalk.com/forum"/>
 		<outline text="FlyerTalk Forums - Qatar Airways | Privilege Club" title="FlyerTalk Forums - Qatar Airways | Privilege Club" type="rss" xmlUrl="http://www.flyertalk.com/forum/external.php?type=RSS2&amp;forumids=644" htmlUrl="http://www.flyertalk.com/forum"/>
 		<outline text="FlyerTalk Forums - Budget Asian, Australian, and South Pacific Airlines" title="FlyerTalk Forums - Budget Asian, Australian, and South Pacific Airlines" type="rss" xmlUrl="http://www.flyertalk.com/forum/external.php?type=RSS2&amp;forumids=726" htmlUrl="http://www.flyertalk.com/forum"/>
+		<outline text="Tech. Gaming. Open-Source Wizards" title="Tech. Gaming. Open-Source Wizards" type="rss" xmlUrl="http://wizcorp.tumblr.com/rss" htmlUrl="http://wizcorp.tumblr.com/"/>
 		<outline text="aviation" title="aviation">
 			<outline text="Flying With Fish" title="Flying With Fish" type="rss" xmlUrl="http://feeds.feedblitz.com/FlyingWithFish" htmlUrl="http://boardingarea.com/blogs/flyingwithfish"/>
 			<outline text="Hack My Trip" title="Hack My Trip" type="rss" xmlUrl="http://feeds.feedburner.com/hackmytripfeed" htmlUrl="http://hackmytrip.com"/>
