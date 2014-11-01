@@ -33,6 +33,7 @@
 		<outline text="24 ways" title="24 ways" type="rss" xmlUrl="http://feeds.feedburner.com/24ways" htmlUrl="http://24ways.org/"/>
 		<outline text="PhoneGap" title="PhoneGap" type="rss" xmlUrl="http://phonegap.com/rss.xml" htmlUrl="http://phonegap.com/"/>
 		<outline text="The Dropbox Blog" title="The Dropbox Blog" type="rss" xmlUrl="https://blog.dropbox.com/feed/" htmlUrl="https://blog.dropbox.com"/>
+		<outline text="RisingJ" title="RisingJ" type="rss" xmlUrl="http://www.risingj.com/feed" htmlUrl="http://www.risingj.com"/>
 		<outline text="Signal vs. Noise" title="Signal vs. Noise" type="rss" xmlUrl="http://feeds.feedburner.com/37signals/beMH" htmlUrl="http://37signals.com/svn/posts"/>
 		<outline text="SplatF" title="SplatF" type="rss" xmlUrl="http://www.splatf.com/feed/" htmlUrl="http://www.splatf.com"/>
 		<outline text="Adactio: Journal" title="Adactio: Journal" type="rss" xmlUrl="http://adactio.com/journal/rss/" htmlUrl="http://adactio.com/journal/"/>
