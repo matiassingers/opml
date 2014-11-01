@@ -126,6 +126,7 @@
 		<outline text="Aerotwist Blog" title="Aerotwist Blog" type="rss" xmlUrl="http://aerotwist.com/blog/feed/" htmlUrl="http://aerotwist.com/blog/feed/"/>
 		<outline text="Feed: stratēchery" title="Feed: stratēchery" type="rss" xmlUrl="http://stratechery.com/feed/" htmlUrl="http://stratechery.com"/>
 		<outline text="ARCHIPHILE" title="ARCHIPHILE" type="rss" xmlUrl="http://archiphile.tumblr.com/rss" htmlUrl="http://archiphile.tumblr.com/"/>
+		<outline text="Shazron's Cordova (aka PhoneGap) Blog" title="Shazron's Cordova (aka PhoneGap) Blog" type="rss" xmlUrl="http://shazronatadobe.wordpress.com/feed/" htmlUrl="http://shazronatadobe.wordpress.com"/>
 		<outline text="@briantford's blog" title="@briantford's blog" type="rss" xmlUrl="http://briantford.com/blog.rss" htmlUrl="http://briantford.com/blog/"/>
 		<outline text="iwantmyname Domain Blog" title="iwantmyname Domain Blog" type="rss" xmlUrl="http://blog.feeds.iwantmyname.com/iwantmyname" htmlUrl="https://iwantmyname.com/blog/"/>
 		<outline text="Svpply" title="Svpply" type="rss" xmlUrl="http://blog.svpply.com/rss" htmlUrl="http://blog.svpply.com/"/>
