@@ -2,7 +2,7 @@
 <opml version="1.0">
 	<head>
 		<title>RSS subscriptions for mail@matiassingers.com</title>
-		<dateCreated>Fri, 31 Oct 2014 05:16:01 -0500</dateCreated>
+		<dateCreated>Tue, 04 Nov 2014 10:06:05 -0600</dateCreated>
 		<ownerEmail>mail@matiassingers.com</ownerEmail>
 	</head>
 	<body>
@@ -102,6 +102,7 @@
 		<outline text="microformats.dk" title="microformats.dk" type="rss" xmlUrl="http://www.microformats.dk/feed/" htmlUrl="http://www.microformats.dk"/>
 		<outline text="Morten Just og Rock" title="Morten Just og Rock" type="rss" xmlUrl="http://feeds.feedburner.com/GenstartOgRock" htmlUrl="http://mortenjust.com"/>
 		<outline text="convoy" title="convoy" type="rss" xmlUrl="http://convoy.tumblr.com/rss" htmlUrl="http://convoy.tumblr.com/"/>
+		<outline text="Mike Bostock" title="Mike Bostock" type="rss" xmlUrl="http://bost.ocks.org/mike/index.rss" htmlUrl="http://bost.ocks.org/mike/"/>
 		<outline text="Dan Shapiro" title="Dan Shapiro" type="rss" xmlUrl="http://feeds.feedburner.com/DanShapiro" htmlUrl="http://www.danshapiro.com/blog"/>
 		<outline text="Sirupsen" title="Sirupsen" type="rss" xmlUrl="http://feeds.feedburner.com/sirupsen" htmlUrl="http://sirupsen.github.com/"/>
 		<outline text="Empty States" title="Empty States" type="rss" xmlUrl="http://emptystat.es/rss" htmlUrl="http://emptystat.es/"/>
@@ -287,6 +288,7 @@
 			<outline text="WebKitbits" title="WebKitbits" type="rss" xmlUrl="http://feeds.webkitbits.com/WebKitBits" htmlUrl="http://www.webkitbits.com/"/>
 			<outline text="nikf.org" title="nikf.org" type="rss" xmlUrl="http://feeds.feedburner.com/nikf" htmlUrl="http://nikf.org/"/>
 			<outline text="miekd" title="miekd" type="rss" xmlUrl="http://feeds.feedburner.com/miekd" htmlUrl="http://miekd.com"/>
+			<outline text="Mike Bostock" title="Mike Bostock" type="rss" xmlUrl="http://bost.ocks.org/mike/index.rss" htmlUrl="http://bost.ocks.org/mike/"/>
 			<outline text="Dan Shapiro" title="Dan Shapiro" type="rss" xmlUrl="http://feeds.feedburner.com/DanShapiro" htmlUrl="http://www.danshapiro.com/blog"/>
 			<outline text="Minimalissimo" title="Minimalissimo" type="rss" xmlUrl="http://feeds.feedburner.com/Minimalissimo" htmlUrl="http://minimalissimo.com"/>
 			<outline text="Quotes on Design" title="Quotes on Design" type="rss" xmlUrl="http://feeds.feedburner.com/QuotesOnDesign" htmlUrl="http://quotesondesign.com"/>
