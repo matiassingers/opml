@@ -119,9 +119,9 @@
 		<outline text="Geek &amp; Mild" title="Geek &amp; Mild" type="rss" xmlUrl="http://seansperte.com/rss" htmlUrl="http://seansperte.com/"/>
 		<outline text="Chris Stucchio's Blog" title="Chris Stucchio's Blog" type="rss" xmlUrl="http://www.chrisstucchio.com/blog/atom.xml" htmlUrl="http://www.chrisstucchio.com/"/>
 		<outline text="Eat Drink KL" title="Eat Drink KL" type="rss" xmlUrl="http://eatdrinkkl.blogspot.com/feeds/posts/default" htmlUrl="http://eatdrinkkl.blogspot.com/"/>
+		<outline text="(No title)" title="(No title)" type="rss" xmlUrl="https://www.getcloak.com/blog/feed.rss" htmlUrl="https://www.getcloak.com/blog/"/>
 		<outline text="Schedvin" title="Schedvin" type="rss" xmlUrl="http://theclassyissue.com/rss" htmlUrl="http://theclassyissue.com/"/>
 		<outline text="AaronMahnke.com" title="AaronMahnke.com" type="rss" xmlUrl="http://feeds.uri.lv/aaronmahnke" htmlUrl="http://aaronmahnke.com"/>
-		<outline text="Uber Blog" title="Uber Blog" type="rss" xmlUrl="http://blog.uber.com/feed/" htmlUrl="http://blog.uber.com"/>
 		<outline text="Aerotwist Blog" title="Aerotwist Blog" type="rss" xmlUrl="http://aerotwist.com/blog/feed/" htmlUrl="http://aerotwist.com/blog/feed/"/>
 		<outline text="Feed: stratēchery" title="Feed: stratēchery" type="rss" xmlUrl="http://stratechery.com/feed/" htmlUrl="http://stratechery.com"/>
 		<outline text="ARCHIPHILE" title="ARCHIPHILE" type="rss" xmlUrl="http://archiphile.tumblr.com/rss" htmlUrl="http://archiphile.tumblr.com/"/>
@@ -184,6 +184,7 @@
 		<outline text="Kidogo - Christina Cacioppo" title="Kidogo - Christina Cacioppo" type="rss" xmlUrl="http://christinacacioppo.com/blog/feed.rss" htmlUrl="http://christinacacioppo.com/blog"/>
 		<outline text="Screen shots of computer code" title="Screen shots of computer code" type="rss" xmlUrl="http://moviecode.tumblr.com/rss" htmlUrl="http://moviecode.tumblr.com"/>
 		<outline text="stevenf.com" title="stevenf.com" type="rss" xmlUrl="http://stevenf.com/feed/" htmlUrl="http://stevenf.com/"/>
+		<outline text="LoungeBuddy" title="LoungeBuddy" type="rss" xmlUrl="http://www.loungebuddy.com/feed/" htmlUrl="http://www.loungebuddy.com"/>
 		<outline text="Dinosaur Polo Club" title="Dinosaur Polo Club" type="rss" xmlUrl="http://devlog.dinopoloclub.com/rss" htmlUrl="http://devlog.dinopoloclub.com"/>
 		<outline text="Matias Singers" title="Matias Singers" type="rss" xmlUrl="http://mts.io/atom.xml" htmlUrl="http://mts.io"/>
 		<outline text="Andreas Stokholm" title="Andreas Stokholm" type="rss" xmlUrl="http://www.stokholm.io/feed.xml" htmlUrl="http://www.stokholm.io/"/>
@@ -207,6 +208,7 @@
 		<outline text="FlyerTalk Forums - Budget Asian, Australian, and South Pacific Airlines" title="FlyerTalk Forums - Budget Asian, Australian, and South Pacific Airlines" type="rss" xmlUrl="http://www.flyertalk.com/forum/external.php?type=RSS2&amp;forumids=726" htmlUrl="http://www.flyertalk.com/forum"/>
 		<outline text="Tech. Gaming. Open-Source Wizards" title="Tech. Gaming. Open-Source Wizards" type="rss" xmlUrl="http://wizcorp.tumblr.com/rss" htmlUrl="http://wizcorp.tumblr.com/"/>
 		<outline text="(No title)" title="(No title)" type="rss" xmlUrl="http://infil00p.org/feed.xml" htmlUrl="http://infil00p.org"/>
+		<outline text="Facebook Code" title="Facebook Code" type="rss" xmlUrl="https://code.facebook.com/posts/rss" htmlUrl="https://code.facebook.com/"/>
 		<outline text="aviation" title="aviation">
 			<outline text="Flying With Fish" title="Flying With Fish" type="rss" xmlUrl="http://feeds.feedblitz.com/FlyingWithFish" htmlUrl="http://boardingarea.com/blogs/flyingwithfish"/>
 			<outline text="Hack My Trip" title="Hack My Trip" type="rss" xmlUrl="http://feeds.feedburner.com/hackmytripfeed" htmlUrl="http://hackmytrip.com"/>
@@ -404,7 +406,7 @@
 			<outline text="Empty States" title="Empty States" type="rss" xmlUrl="http://emptystat.es/rss" htmlUrl="http://emptystat.es/"/>
 			<outline text="Blog - MapBox" title="Blog - MapBox" type="rss" xmlUrl="http://mapbox.com/blog/blog.rss" htmlUrl="http://mapbox.com/blog"/>
 			<outline text="Official Duolingo Blog" title="Official Duolingo Blog" type="rss" xmlUrl="http://blog.duolingo.com/rss" htmlUrl="http://blog.duolingo.com/"/>
-			<outline text="Uber Blog" title="Uber Blog" type="rss" xmlUrl="http://blog.uber.com/feed/" htmlUrl="http://blog.uber.com"/>
+			<outline text="(No title)" title="(No title)" type="rss" xmlUrl="https://www.getcloak.com/blog/feed.rss" htmlUrl="https://www.getcloak.com/blog/"/>
 			<outline text="iwantmyname Domain Blog" title="iwantmyname Domain Blog" type="rss" xmlUrl="http://blog.feeds.iwantmyname.com/iwantmyname" htmlUrl="https://iwantmyname.com/blog/"/>
 			<outline text="Svpply" title="Svpply" type="rss" xmlUrl="http://blog.svpply.com/rss" htmlUrl="http://blog.svpply.com/"/>
 			<outline text="Scalyr Blog" title="Scalyr Blog" type="rss" xmlUrl="http://blog.scalyr.com/feed/" htmlUrl="http://blog.scalyr.com"/>
@@ -414,11 +416,13 @@
 			<outline text="Coin" title="Coin" type="rss" xmlUrl="http://blog.onlycoin.com/posts?format=rss" htmlUrl="http://blog.onlycoin.com/"/>
 			<outline text="The Guardian Developer blog | theguardian.com" title="The Guardian Developer blog | theguardian.com" type="rss" xmlUrl="http://www.theguardian.com/info/developer-blog/rss" htmlUrl="http://www.theguardian.com/info/developer-blog"/>
 			<outline text="Foursquare Badges Information | How to Unlock Foursquare Badges" title="Foursquare Badges Information | How to Unlock Foursquare Badges" type="rss" xmlUrl="http://feeds.feedburner.com/4sqaddict?format=xml" htmlUrl="http://foursquareaddict.info"/>
+			<outline text="LoungeBuddy" title="LoungeBuddy" type="rss" xmlUrl="http://www.loungebuddy.com/feed/" htmlUrl="http://www.loungebuddy.com"/>
 			<outline text="Dinosaur Polo Club" title="Dinosaur Polo Club" type="rss" xmlUrl="http://devlog.dinopoloclub.com/rss" htmlUrl="http://devlog.dinopoloclub.com"/>
 			<outline text="GitHub API Changes" title="GitHub API Changes" type="rss" xmlUrl="https://developer.github.com/changes.atom" htmlUrl="http://developer.github.com/changes.atom"/>
 			<outline text="Podio Engineering Blog" title="Podio Engineering Blog" type="rss" xmlUrl="http://engineering.podio.com/feed/" htmlUrl="http://engineering.podio.com"/>
 			<outline text="Swift Blog - Apple Developer" title="Swift Blog - Apple Developer" type="rss" xmlUrl="https://developer.apple.com/swift/blog/news.rss" htmlUrl="http://developer.apple.com/swift/blog/"/>
 			<outline text="What's the Fare" title="What's the Fare" type="rss" xmlUrl="http://blog.whatsthefare.com/feeds/posts/default" htmlUrl="http://blog.whatsthefare.com/"/>
+			<outline text="Facebook Code" title="Facebook Code" type="rss" xmlUrl="https://code.facebook.com/posts/rss" htmlUrl="https://code.facebook.com/"/>
 		</outline>
 		<outline text="travel" title="travel">
 			<outline text="Musings of The Global Traveller" title="Musings of The Global Traveller" type="rss" xmlUrl="http://feeds.feedburner.com/MusingsOfTheGlobalTraveller" htmlUrl="http://boardingarea.com/blogs/theglobaltraveller"/>
