@@ -92,6 +92,7 @@
 		<outline text="ParisLemon" title="ParisLemon" type="rss" xmlUrl="http://feeds.feedburner.com/parislemon" htmlUrl="http://parislemon.com/"/>
 		<outline text="Derrick Ko" title="Derrick Ko" type="rss" xmlUrl="http://blog.derrickko.com/feed" htmlUrl="http://blog.derrickko.com"/>
 		<outline text="Valet." title="Valet." type="rss" xmlUrl="http://www.valetmag.com/distribution/rss_all.xml" htmlUrl="http://www.valetmag.com/index.php?rss"/>
+		<outline text="DataGenetics" title="DataGenetics" type="rss" xmlUrl="http://www.datagenetics.com/feed/rss.xml" htmlUrl="http://datagenetics.com"/>
 		<outline text="Joshua Topolsky" title="Joshua Topolsky" type="rss" xmlUrl="http://joshuatopolsky.com/rss" htmlUrl="http://joshuatopolsky.com/"/>
 		<outline text="WebKitbits" title="WebKitbits" type="rss" xmlUrl="http://feeds.webkitbits.com/WebKitBits" htmlUrl="http://www.webkitbits.com/"/>
 		<outline text="Black and WTF" title="Black and WTF" type="rss" xmlUrl="http://blackandwtf.tumblr.com/rss" htmlUrl="http://blackandwtf.tumblr.com/"/>
