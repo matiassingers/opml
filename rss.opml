@@ -2,7 +2,7 @@
 <opml version="1.0">
 	<head>
 		<title>RSS subscriptions for mail@matiassingers.com</title>
-		<dateCreated>Tue, 04 Nov 2014 10:06:05 -0600</dateCreated>
+		<dateCreated>Sat, 11 Apr 2015 13:07:48 -0500</dateCreated>
 		<ownerEmail>mail@matiassingers.com</ownerEmail>
 	</head>
 	<body>
@@ -64,7 +64,6 @@
 		<outline text="A VC" title="A VC" type="rss" xmlUrl="http://feeds.feedburner.com/avc" htmlUrl="http://www.avc.com/a_vc/"/>
 		<outline text="Bobulate" title="Bobulate" type="rss" xmlUrl="http://bobulate.com/rss" htmlUrl="http://bobulate.com/"/>
 		<outline text="Felt Tip blog" title="Felt Tip blog" type="rss" xmlUrl="http://felttip.tumblr.com/rss" htmlUrl="http://felttip.tumblr.com/"/>
-		<outline text="Jorge Quinteros" title="Jorge Quinteros" type="rss" xmlUrl="http://feeds.feedburner.com/jorgequinterosphotoblog" htmlUrl="http://folio.jorgeq.com/"/>
 		<outline text="Y Combinator Posthaven" title="Y Combinator Posthaven" type="rss" xmlUrl="http://blog.ycombinator.com/posts.atom" htmlUrl="http://ycombinator.posterous.com"/>
 		<outline text="swissmiss" title="swissmiss" type="rss" xmlUrl="http://feeds2.feedburner.com/Swissmiss" htmlUrl="http://www.swiss-miss.com"/>
 		<outline text="Amber on Rails" title="Amber on Rails" type="rss" xmlUrl="http://amberonrails.com/feed/" htmlUrl="http://amberonrails.com/"/>
@@ -385,7 +384,6 @@
 			<outline text="HOLDING PATTERN" title="HOLDING PATTERN" type="rss" xmlUrl="http://holding-pattern.tumblr.com/rss" htmlUrl="http://holding-pattern.tumblr.com/"/>
 		</outline>
 		<outline text="photography" title="photography">
-			<outline text="Jorge Quinteros" title="Jorge Quinteros" type="rss" xmlUrl="http://feeds.feedburner.com/jorgequinterosphotoblog" htmlUrl="http://folio.jorgeq.com/"/>
 			<outline text="The Big Picture" title="The Big Picture" type="rss" xmlUrl="http://feeds.boston.com/boston/bigpicture/index" htmlUrl="http://www.boston.com/bigpicture/"/>
 			<outline text="K-Nguyen's photo blog" title="K-Nguyen's photo blog" type="rss" xmlUrl="http://kennethnuigen.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://kennethnuigen.blogspot.com/"/>
 			<outline text="Martin Kaufmann Photography" title="Martin Kaufmann Photography" type="rss" xmlUrl="http://www.martinkaufmann.dk/feed/" htmlUrl="http://www.martinkaufmann.dk"/>
