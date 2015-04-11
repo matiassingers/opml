@@ -209,6 +209,7 @@
 		<outline text="Tech. Gaming. Open-Source Wizards" title="Tech. Gaming. Open-Source Wizards" type="rss" xmlUrl="http://wizcorp.tumblr.com/rss" htmlUrl="http://wizcorp.tumblr.com/"/>
 		<outline text="(No title)" title="(No title)" type="rss" xmlUrl="http://infil00p.org/feed.xml" htmlUrl="http://infil00p.org"/>
 		<outline text="Facebook Code" title="Facebook Code" type="rss" xmlUrl="https://code.facebook.com/posts/rss" htmlUrl="https://code.facebook.com/"/>
+		<outline text="Bruun's blog" title="Bruun's blog" type="rss" xmlUrl="http://stefanbruun.com/feed/" htmlUrl="http://stefanbruun.com"/>
 		<outline text="aviation" title="aviation">
 			<outline text="Flying With Fish" title="Flying With Fish" type="rss" xmlUrl="http://feeds.feedblitz.com/FlyingWithFish" htmlUrl="http://boardingarea.com/blogs/flyingwithfish"/>
 			<outline text="Hack My Trip" title="Hack My Trip" type="rss" xmlUrl="http://feeds.feedburner.com/hackmytripfeed" htmlUrl="http://hackmytrip.com"/>
@@ -344,6 +345,7 @@
 			<outline text="Casper Blom" title="Casper Blom" type="rss" xmlUrl="http://www.casperblom.dk/feed/" htmlUrl="http://www.casperblom.dk"/>
 			<outline text="Andreas Stokholm" title="Andreas Stokholm" type="rss" xmlUrl="http://www.stokholm.io/feed.xml" htmlUrl="http://www.stokholm.io/"/>
 			<outline text="Alexander Jarvis" title="Alexander Jarvis" type="rss" xmlUrl="http://alexanderjarvis.com/feed/" htmlUrl="http://alexanderjarvis.com"/>
+			<outline text="Bruun's blog" title="Bruun's blog" type="rss" xmlUrl="http://stefanbruun.com/feed/" htmlUrl="http://stefanbruun.com"/>
 		</outline>
 		<outline text="photo-blogs" title="photo-blogs">
 			<outline text="awesome people hanging out together" title="awesome people hanging out together" type="rss" xmlUrl="http://awesomepeoplehangingouttogether.tumblr.com/rss" htmlUrl="http://awesomepeoplehangingouttogether.tumblr.com/"/>
