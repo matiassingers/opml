@@ -2,7 +2,7 @@
 <opml version="1.0">
 	<head>
 		<title>RSS subscriptions for mail@matiassingers.com</title>
-		<dateCreated>Sat, 11 Apr 2015 13:07:48 -0500</dateCreated>
+		<dateCreated>Thu, 09 Jul 2015 01:26:54 -0500</dateCreated>
 		<ownerEmail>mail@matiassingers.com</ownerEmail>
 	</head>
 	<body>
@@ -32,12 +32,10 @@
 		<outline text="Dustin Curtis" title="Dustin Curtis" type="rss" xmlUrl="http://feeds.feedburner.com/dcurtis" htmlUrl="http://dcurt.is/"/>
 		<outline text="Zach Holman" title="Zach Holman" type="rss" xmlUrl="http://feeds.feedburner.com/holman" htmlUrl="http://zachholman.com/"/>
 		<outline text="24 ways" title="24 ways" type="rss" xmlUrl="http://feeds.feedburner.com/24ways" htmlUrl="http://24ways.org/"/>
-		<outline text="PhoneGap" title="PhoneGap" type="rss" xmlUrl="http://phonegap.com/rss.xml" htmlUrl="http://phonegap.com/"/>
 		<outline text="The Dropbox Blog" title="The Dropbox Blog" type="rss" xmlUrl="https://blog.dropbox.com/feed/" htmlUrl="https://blog.dropbox.com"/>
 		<outline text="RisingJ" title="RisingJ" type="rss" xmlUrl="http://www.risingj.com/feed" htmlUrl="http://www.risingj.com"/>
 		<outline text="Signal vs. Noise" title="Signal vs. Noise" type="rss" xmlUrl="http://feeds.feedburner.com/37signals/beMH" htmlUrl="http://37signals.com/svn/posts"/>
 		<outline text="SplatF" title="SplatF" type="rss" xmlUrl="http://www.splatf.com/feed/" htmlUrl="http://www.splatf.com"/>
-		<outline text="Adactio: Journal" title="Adactio: Journal" type="rss" xmlUrl="http://adactio.com/journal/rss/" htmlUrl="http://adactio.com/journal/"/>
 		<outline text="Oliver Emberton" title="Oliver Emberton" type="rss" xmlUrl="http://oliveremberton.com/feed/" htmlUrl="http://oliveremberton.com"/>
 		<outline text="What If?" title="What If?" type="rss" xmlUrl="http://what-if.xkcd.com/feed.atom" htmlUrl="http://what-if.xkcd.com"/>
 		<outline text="Venture Hacks" title="Venture Hacks" type="rss" xmlUrl="http://feeds.venturehacks.com/venturehacks" htmlUrl="http://venturehacks.com"/>
@@ -88,6 +86,7 @@
 		<outline text="Revert to Saved" title="Revert to Saved" type="rss" xmlUrl="http://reverttosaved.com/feed/" htmlUrl="http://reverttosaved.com"/>
 		<outline text="Sam Brown" title="Sam Brown" type="rss" xmlUrl="http://feeds.feedburner.com/massiveblue/sam" htmlUrl="http://sam.brown.tc/"/>
 		<outline text="Badass of the Week" title="Badass of the Week" type="rss" xmlUrl="http://www.badassoftheweek.com/rss.xml" htmlUrl="http://www.badassoftheweek.com"/>
+		<outline text="interfluidity" title="interfluidity" type="rss" xmlUrl="http://www.interfluidity.com/feed" htmlUrl="http://www.interfluidity.com"/>
 		<outline text="Beautiful Pixels" title="Beautiful Pixels" type="rss" xmlUrl="http://beautifulpixels.com/feed/" htmlUrl="http://beautifulpixels.com"/>
 		<outline text="A Working Library: All" title="A Working Library: All" type="rss" xmlUrl="http://aworkinglibrary.com/library/rss_all/" htmlUrl="http://www.aworkinglibrary.com"/>
 		<outline text="ParisLemon" title="ParisLemon" type="rss" xmlUrl="http://feeds.feedburner.com/parislemon" htmlUrl="http://parislemon.com/"/>
@@ -96,6 +95,7 @@
 		<outline text="DataGenetics" title="DataGenetics" type="rss" xmlUrl="http://www.datagenetics.com/feed/rss.xml" htmlUrl="http://datagenetics.com"/>
 		<outline text="Joshua Topolsky" title="Joshua Topolsky" type="rss" xmlUrl="http://joshuatopolsky.com/rss" htmlUrl="http://joshuatopolsky.com/"/>
 		<outline text="WebKitbits" title="WebKitbits" type="rss" xmlUrl="http://feeds.webkitbits.com/WebKitBits" htmlUrl="http://www.webkitbits.com/"/>
+		<outline text="Cap Watkins" title="Cap Watkins" type="rss" xmlUrl="http://blog.capwatkins.com/feed" htmlUrl="http://blog.capwatkins.com"/>
 		<outline text="Black and WTF" title="Black and WTF" type="rss" xmlUrl="http://blackandwtf.tumblr.com/rss" htmlUrl="http://blackandwtf.tumblr.com/"/>
 		<outline text="nikf.org" title="nikf.org" type="rss" xmlUrl="http://feeds.feedburner.com/nikf" htmlUrl="http://nikf.org/"/>
 		<outline text="miekd" title="miekd" type="rss" xmlUrl="http://feeds.feedburner.com/miekd" htmlUrl="http://miekd.com"/>
@@ -189,6 +189,7 @@
 		<outline text="Google Ventures" title="Google Ventures" type="rss" xmlUrl="http://feeds.feedburner.com/GVLibrary" htmlUrl="http://www.gv.com"/>
 		<outline text="Mismo - Updates" title="Mismo - Updates" type="rss" xmlUrl="http://www.mismo.dk/blogs/news.atom" htmlUrl="http://www.mismo.dk/blogs/news"/>
 		<outline text="Kidogo - Christina Cacioppo" title="Kidogo - Christina Cacioppo" type="rss" xmlUrl="http://christinacacioppo.com/blog/feed.rss" htmlUrl="http://christinacacioppo.com/blog"/>
+		<outline text="Wait But Why" title="Wait But Why" type="rss" xmlUrl="http://waitbutwhy.com/feed" htmlUrl="http://waitbutwhy.com"/>
 		<outline text="Screen shots of computer code" title="Screen shots of computer code" type="rss" xmlUrl="http://moviecode.tumblr.com/rss" htmlUrl="http://moviecode.tumblr.com"/>
 		<outline text="stevenf.com" title="stevenf.com" type="rss" xmlUrl="http://stevenf.com/feed/" htmlUrl="http://stevenf.com/"/>
 		<outline text="LoungeBuddy" title="LoungeBuddy" type="rss" xmlUrl="http://www.loungebuddy.com/feed/" htmlUrl="http://www.loungebuddy.com"/>
@@ -222,6 +223,7 @@
 		<outline text="HACK THE DIASPORA" title="HACK THE DIASPORA" type="rss" xmlUrl="http://oliversegovia.com/feed/" htmlUrl="http://oliversegovia.com"/>
 		<outline text="Blog - Chris Baglieri" title="Blog - Chris Baglieri" type="rss" xmlUrl="http://www.chrisbaglieri.com/blog?format=RSS" htmlUrl="http://www.chrisbaglieri.com/blog/"/>
 		<outline text="GitHub Engineering" title="GitHub Engineering" type="rss" xmlUrl="http://githubengineering.com/atom.xml" htmlUrl="http://githubengineering.com/"/>
+		<outline text="Morten Just's experiments" title="Morten Just's experiments" type="rss" xmlUrl="http://mortenjust-experiments.tumblr.com/rss" htmlUrl="http://mortenjust-experiments.tumblr.com/"/>
 		<outline text="aviation" title="aviation">
 			<outline text="Flying With Fish" title="Flying With Fish" type="rss" xmlUrl="http://feeds.feedblitz.com/FlyingWithFish" htmlUrl="http://boardingarea.com/blogs/flyingwithfish"/>
 			<outline text="Hack My Trip" title="Hack My Trip" type="rss" xmlUrl="http://feeds.feedburner.com/hackmytripfeed" htmlUrl="http://hackmytrip.com"/>
@@ -262,7 +264,6 @@
 			<outline text="24 ways" title="24 ways" type="rss" xmlUrl="http://feeds.feedburner.com/24ways" htmlUrl="http://24ways.org/"/>
 			<outline text="Signal vs. Noise" title="Signal vs. Noise" type="rss" xmlUrl="http://feeds.feedburner.com/37signals/beMH" htmlUrl="http://37signals.com/svn/posts"/>
 			<outline text="SplatF" title="SplatF" type="rss" xmlUrl="http://www.splatf.com/feed/" htmlUrl="http://www.splatf.com"/>
-			<outline text="Adactio: Journal" title="Adactio: Journal" type="rss" xmlUrl="http://adactio.com/journal/rss/" htmlUrl="http://adactio.com/journal/"/>
 			<outline text="Venture Hacks" title="Venture Hacks" type="rss" xmlUrl="http://feeds.venturehacks.com/venturehacks" htmlUrl="http://venturehacks.com"/>
 			<outline text="Idle Words" title="Idle Words" type="rss" xmlUrl="http://www.idlewords.com/index.xml" htmlUrl="http://idlewords.com"/>
 			<outline text="lonelysandwich" title="lonelysandwich" type="rss" xmlUrl="http://lonelysandwich.com/rss" htmlUrl="http://lonelysandwich.com/"/>
@@ -299,6 +300,7 @@
 			<outline text="Derrick Ko" title="Derrick Ko" type="rss" xmlUrl="http://blog.derrickko.com/feed" htmlUrl="http://blog.derrickko.com"/>
 			<outline text="Joshua Topolsky" title="Joshua Topolsky" type="rss" xmlUrl="http://joshuatopolsky.com/rss" htmlUrl="http://joshuatopolsky.com/"/>
 			<outline text="WebKitbits" title="WebKitbits" type="rss" xmlUrl="http://feeds.webkitbits.com/WebKitBits" htmlUrl="http://www.webkitbits.com/"/>
+			<outline text="Cap Watkins" title="Cap Watkins" type="rss" xmlUrl="http://blog.capwatkins.com/feed" htmlUrl="http://blog.capwatkins.com"/>
 			<outline text="nikf.org" title="nikf.org" type="rss" xmlUrl="http://feeds.feedburner.com/nikf" htmlUrl="http://nikf.org/"/>
 			<outline text="miekd" title="miekd" type="rss" xmlUrl="http://feeds.feedburner.com/miekd" htmlUrl="http://miekd.com"/>
 			<outline text="Mike Bostock" title="Mike Bostock" type="rss" xmlUrl="http://bost.ocks.org/mike/index.rss" htmlUrl="http://bost.ocks.org/mike/"/>
@@ -327,6 +329,7 @@
 			<outline text="Cappuccino" title="Cappuccino" type="rss" xmlUrl="http://christinacaci.tumblr.com/rss" htmlUrl="http://christinacaci.tumblr.com/"/>
 			<outline text="Google Ventures" title="Google Ventures" type="rss" xmlUrl="http://feeds.feedburner.com/GVLibrary" htmlUrl="http://www.gv.com"/>
 			<outline text="Kidogo - Christina Cacioppo" title="Kidogo - Christina Cacioppo" type="rss" xmlUrl="http://christinacacioppo.com/blog/feed.rss" htmlUrl="http://christinacacioppo.com/blog"/>
+			<outline text="Wait But Why" title="Wait But Why" type="rss" xmlUrl="http://waitbutwhy.com/feed" htmlUrl="http://waitbutwhy.com"/>
 			<outline text="stevenf.com" title="stevenf.com" type="rss" xmlUrl="http://stevenf.com/feed/" htmlUrl="http://stevenf.com/"/>
 			<outline text="SaraSoueidan.com" title="SaraSoueidan.com" type="rss" xmlUrl="http://feeds.feedburner.com/sarasoueidan?format=xml" htmlUrl="http://sarasoueidan.com"/>
 			<outline text="Setosa blog" title="Setosa blog" type="rss" xmlUrl="http://setosa.io/blog/feed.xml" htmlUrl="http://setosa.io/blog/"/>
@@ -336,7 +339,6 @@
 			<outline text="Blog - Chris Baglieri" title="Blog - Chris Baglieri" type="rss" xmlUrl="http://www.chrisbaglieri.com/blog?format=RSS" htmlUrl="http://www.chrisbaglieri.com/blog/"/>
 		</outline>
 		<outline text="cordova" title="cordova">
-			<outline text="PhoneGap" title="PhoneGap" type="rss" xmlUrl="http://phonegap.com/rss.xml" htmlUrl="http://phonegap.com/"/>
 			<outline text="RisingJ" title="RisingJ" type="rss" xmlUrl="http://www.risingj.com/feed" htmlUrl="http://www.risingj.com"/>
 			<outline text="Shazron's Cordova (aka PhoneGap) Blog" title="Shazron's Cordova (aka PhoneGap) Blog" type="rss" xmlUrl="http://shazronatadobe.wordpress.com/feed/" htmlUrl="http://shazronatadobe.wordpress.com"/>
 			<outline text="Apache Cordova" title="Apache Cordova" type="rss" xmlUrl="http://cordova.apache.org/rss.xml" htmlUrl="http://cordova.apache.org/rss.xml"/>
@@ -351,6 +353,7 @@
 			<outline text="Michael Nielsen" title="Michael Nielsen" type="rss" xmlUrl="http://feeds.feedburner.com/michaelnielsen/wmna?format=xml" htmlUrl="http://michaelnielsen.org/blog"/>
 			<outline text="Randoom" title="Randoom" type="rss" xmlUrl="http://feeds.feedburner.com/friism/sLZw?format=xml" htmlUrl="http://friism.com"/>
 			<outline text="Kenneth Auchenberg" title="Kenneth Auchenberg" type="rss" xmlUrl="http://kenneth.io/atom.xml" htmlUrl="http://kenneth.io/"/>
+			<outline text="Morten Just's experiments" title="Morten Just's experiments" type="rss" xmlUrl="http://mortenjust-experiments.tumblr.com/rss" htmlUrl="http://mortenjust-experiments.tumblr.com/"/>
 		</outline>
 		<outline text="fashion" title="fashion">
 			<outline text="Valet." title="Valet." type="rss" xmlUrl="http://www.valetmag.com/distribution/rss_all.xml" htmlUrl="http://www.valetmag.com/index.php?rss"/>
