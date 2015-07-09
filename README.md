@@ -2,8 +2,8 @@
 
 Collection of my subscribed RSS feeds and podcasts:
 
-- [RSS feeds](rss.opml) - [**viewer**](http://opmlviewer.com/Viewer/?https://github.com/matiassingers/opml/raw/master/rss.opml)
-- [Podcasts](podcasts.opml) - [**viewer**](http://opmlviewer.com/Viewer/?https://github.com/matiassingers/opml/raw/master/podcasts.opml)
+- [RSS feeds](rss.opml) - [*viewer*](http://opmlviewer.com/Viewer/?https://github.com/matiassingers/opml/raw/master/rss.opml)
+- [Podcasts](podcasts.opml) - [*viewer*](http://opmlviewer.com/Viewer/?https://github.com/matiassingers/opml/raw/master/podcasts.opml)
 
 
 ## Usage
